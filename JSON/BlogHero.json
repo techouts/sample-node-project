@@ -1,0 +1,46 @@
+{
+    "_id": 14334,
+    "__component": "OwlCarousel ",
+    "bgColor": "#F5F5F5",
+    "bgPadding": "0 0%",
+    "Forward": "https://i.ibb.co/Tg9tgpX/Group-48097751.png",
+    "reverse": "https://i.ibb.co/X7L0nxB/Group-48097750.png",
+    "items": [
+      {
+        "imageUrl": "https://i.ibb.co/0CMLdw2/Rectangle-3901-3.png",
+        "mobileimageUrl": "",
+        "Chiptext": "Beauty",
+        "subtext": "Perfect palettes to light up your Summes make up",
+        "ReadMoreButton": "READ MORE"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/StkYqb4/Rectangle-3901-2.png",
+        "mobileimageUrl": "",
+        "Chiptext": "Beauty",
+        "subtext": "Perfect palettes to light up your summer make up",
+        "ReadMoreButton": "READ MORE"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/DktK4SL/Rectangle-3901.png",
+        "mobileimageUrl": "",
+        "Chiptext": "Beauty",
+        "subtext": "Perfect palettes to light up your summep make up",
+        "ReadMoreButton": "READ MORE"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/416sHTJ/Rectangle-3901-4.png",
+        "mobileimageUrl": "",
+        "Chiptext": "Beauty",
+        "subtext": "Perfect palettes to light up your summeq make up",
+        "ReadMoreButton": "READ MORE"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/hL3GJSw/Rectangle-3901-5.png",
+        "mobileimageUrl": "",
+        "Chiptext": "Beauty",
+        "subtext": "Perfect palettes to light up your summel make up",
+        "ReadMoreButton": "READ MORE"
+      }
+    ]
+  }
+  

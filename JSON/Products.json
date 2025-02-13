@@ -1,0 +1,1518 @@
+{
+  "data": {
+    "products": {
+      "total_count": 22,
+      "items": [
+        {
+          "name": "Sugar Seal The Show Lip Primer 1.4 gm",
+          "media_gallery": [
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_2__1_1.png"
+            },
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_1__8.png"
+            },
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_6.png"
+            }
+          ],
+          "sku": "8906090496",
+          "short_description": {
+            "html": "<p>High-drama volume and curl in the blink of an eye. The jumbo brush fans and pushes lashes up and out, while the rich, carbon-black formula helps thickens, curls, and lifts lashes for an ultimate eye-opening effect.</p>"
+          },
+          "review_count": 3,
+          "rating_summary": 53,
+          "reviews": {
+            "items": [
+              {
+                "average_rating": 20,
+                "ratings_breakdown": [
+                  {
+                    "value": "1"
+                  }
+                ],
+                "created_at": "2022-06-01 06:45:04",
+                "summary": "worst product",
+                "text": "waste of money"
+              },
+              {
+                "average_rating": 80,
+                "ratings_breakdown": [
+                  {
+                    "value": "4"
+                  }
+                ],
+                "created_at": "2022-06-01 06:44:15",
+                "summary": "Nice Product",
+                "text": "Better Quality"
+              },
+              {
+                "average_rating": 60,
+                "ratings_breakdown": [
+                  {
+                    "value": "3"
+                  }
+                ],
+                "created_at": "2022-06-01 06:41:09",
+                "summary": "worth it",
+                "text": "Good product"
+              }
+            ]
+          },
+          "formulation": 21,
+          "pro_type": 199,
+          "is_featured": 1,
+          "gift_message_available": "2",
+          "is_best_seller": 1,
+          "image": {
+            "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_2__1_1.png"
+          },
+          "configurable_options": [
+            {
+              "id": 4,
+              "attribute_id_v2": 142,
+              "label": "Size",
+              "position": 0,
+              "use_default": false,
+              "attribute_code": "size",
+              "values": [
+                {
+                  "value_index": 44,
+                  "label": "Mini"
+                },
+                {
+                  "value_index": 45,
+                  "label": "Value Set"
+                },
+                {
+                  "value_index": 47,
+                  "label": "Gift Set"
+                }
+              ],
+              "product_id": 48
+            }
+          ],
+          "variants": [
+            {
+              "product": {
+                "id": 45,
+                "name": "Sugar Seal The Show Lip Primer 1.4 gm-Mini",
+                "sku": "8906090496-Mini",
+                "attribute_set_id": 9,
+                "weight": 500
+              }
+            },
+            {
+              "product": {
+                "id": 46,
+                "name": "Sugar Seal The Show Lip Primer 1.4 gm-Value Set",
+                "sku": "8906090496-Value Set",
+                "attribute_set_id": 9,
+                "weight": 500
+              }
+            },
+            {
+              "product": {
+                "id": 47,
+                "name": "Sugar Seal The Show Lip Primer 1.4 gm-Gift Set",
+                "sku": "8906090496-Gift Set",
+                "attribute_set_id": 9,
+                "weight": 500
+              }
+            }
+          ],
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 799,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        },
+        {
+          "name": "configurable product",
+          "media_gallery": [],
+          "sku": "configurable product",
+          "short_description": {
+            "html": ""
+          },
+          "review_count": 0,
+          "rating_summary": 0,
+          "reviews": {
+            "items": []
+          },
+          "formulation": 21,
+          "pro_type": 199,
+          "is_featured": null,
+          "gift_message_available": "2",
+          "is_best_seller": null,
+          "image": {
+            "url": "http://43.204.30.21/static/version1654520213/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/image.jpg"
+          },
+          "configurable_options": [
+            {
+              "id": 3,
+              "attribute_id_v2": 142,
+              "label": "Size",
+              "position": 0,
+              "use_default": false,
+              "attribute_code": "size",
+              "values": [
+                {
+                  "value_index": 44,
+                  "label": "Mini"
+                },
+                {
+                  "value_index": 45,
+                  "label": "Value Set"
+                },
+                {
+                  "value_index": 47,
+                  "label": "Gift Set"
+                }
+              ],
+              "product_id": 44
+            }
+          ],
+          "variants": [
+            {
+              "product": {
+                "id": 41,
+                "name": "configurable product-Mini",
+                "sku": "configurable product-Mini",
+                "attribute_set_id": 4,
+                "weight": 100
+              }
+            },
+            {
+              "product": {
+                "id": 42,
+                "name": "configurable product-Gift Set",
+                "sku": "configurable product-Gift Set",
+                "attribute_set_id": 4,
+                "weight": 100
+              }
+            },
+            {
+              "product": {
+                "id": 43,
+                "name": "configurable product-Value Set",
+                "sku": "configurable product-Value Set",
+                "attribute_set_id": 4,
+                "weight": 100
+              }
+            }
+          ],
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 100,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        },
+        {
+          "name": "hair setter",
+          "media_gallery": [],
+          "sku": "hair setter",
+          "short_description": {
+            "html": "<p>hair setter for sample</p>"
+          },
+          "review_count": 0,
+          "rating_summary": 0,
+          "reviews": {
+            "items": []
+          },
+          "formulation": 21,
+          "pro_type": 199,
+          "is_featured": null,
+          "gift_message_available": "2",
+          "is_best_seller": null,
+          "image": {
+            "url": "http://43.204.30.21/static/version1654520213/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/image.jpg"
+          },
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 999,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        },
+        {
+          "name": "Lotus Herbals Organics Ultra Matt Mineral Sunscreen SPF40 100 gm",
+          "media_gallery": [
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_2.png"
+            }
+          ],
+          "sku": "A21LOTUS0002599",
+          "short_description": {
+            "html": "<p>Lotus Organics+ Ultra Matte Mineral Sunscreen, with its unique SPF 40 &amp; PA+++ formula is made with 100% certified organic Cranberries that provides protection from all forms of sun-induced damage. This physical no chemical sunscreen reveals your natural radiance while adding a universally flattering tint to minimize imperfections.</p>"
+          },
+          "review_count": 0,
+          "rating_summary": 0,
+          "reviews": {
+            "items": []
+          },
+          "formulation": 389,
+          "pro_type": 310,
+          "is_featured": null,
+          "gift_message_available": "2",
+          "is_best_seller": null,
+          "image": {
+            "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_2.png"
+          },
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 699,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        },
+        {
+          "name": "Estee Lauder Unisex Gwp Skincare Kit",
+          "media_gallery": [
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_2__5.png"
+            }
+          ],
+          "sku": "EL-PTT690",
+          "short_description": {
+            "html": "<p>A Limited Edition Kit With Advanced Night Repair, Our #1 Serum To Powerfully Fight The Look Of Multiple Signs Of Aging And An Advanced Night Repair Eye Supercharged Complex That Repairs, Brightens Dark Circles And Hydrates.</p>"
+          },
+          "review_count": 0,
+          "rating_summary": 0,
+          "reviews": {
+            "items": []
+          },
+          "formulation": 387,
+          "pro_type": 199,
+          "is_featured": null,
+          "gift_message_available": "2",
+          "is_best_seller": null,
+          "image": {
+            "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_2__5.png"
+          },
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 999,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        },
+        {
+          "name": "Lotus Herbals Safe Sun Ultraprotect Sun Block SPF100 50 gm",
+          "media_gallery": [
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_1__4.png"
+            }
+          ],
+          "sku": "A21LOTUS0000014",
+          "short_description": {
+            "html": "<p>Sun can be bad for your skin. Apart from the obviously, messy tan and sunburns, the UV rays of the sun harm your sin, cause wrinkles, premature ageing! Lotus Herbals Safe Sun Anti Ageing Anti Tan Ultra Sunblock SPF-100+ PA+++ is packed with natural ingredients like thyme, soy protein and licorice which not only protect your skin but also boost production of collagen to improve skin elasticity and delay visible signs of ageing.</p>"
+          },
+          "review_count": 0,
+          "rating_summary": 0,
+          "reviews": {
+            "items": []
+          },
+          "formulation": 389,
+          "pro_type": 310,
+          "is_featured": null,
+          "gift_message_available": "2",
+          "is_best_seller": null,
+          "image": {
+            "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_1__4.png"
+          },
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 999,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        },
+        {
+          "name": "Caudalie Anti-Dark Spot Solution 95 ml",
+          "media_gallery": [
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_1.png"
+            }
+          ],
+          "sku": "A21CAUD0028178",
+          "short_description": {
+            "html": "<p>A complexion correcting gift set for dark-spot reduction and radiance. Both effective and gentle on the skin, each product in this set sweeps away dead skin cells that cause the complexion to appear dull, reviving the skin's natural radiance.</p>"
+          },
+          "review_count": 0,
+          "rating_summary": 0,
+          "reviews": {
+            "items": []
+          },
+          "formulation": 387,
+          "pro_type": 298,
+          "is_featured": null,
+          "gift_message_available": "2",
+          "is_best_seller": null,
+          "image": {
+            "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_1.png"
+          },
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 699,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        },
+        {
+          "name": "Clinique Even Better Clinical Radical Dark Spot Corrector + Interrupter 30 ml",
+          "media_gallery": [
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_1__3.png"
+            }
+          ],
+          "sku": "206798839",
+          "short_description": {
+            "html": "<p>A powerful brightening serum that helps visibly correct discoloration and acne scars, while interrupting future dark spots. See a -39% reduction in dark spots and acne scars in 12 weeks.</p>"
+          },
+          "review_count": 0,
+          "rating_summary": 0,
+          "reviews": {
+            "items": []
+          },
+          "formulation": 409,
+          "pro_type": 298,
+          "is_featured": null,
+          "gift_message_available": "2",
+          "is_best_seller": null,
+          "image": {
+            "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_1__3.png"
+          },
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 699,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        },
+        {
+          "name": "Clinique Even Better Clinical Radical Dark Spot Corrector + Interrupter 50 ml",
+          "media_gallery": [
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_1__2.png"
+            }
+          ],
+          "sku": "206798840",
+          "short_description": {
+            "html": "<p>A powerful brightening serum that helps visibly correct discoloration and acne scars, while interrupting future dark spots. See a -39% reduction in dark spots and acne scars in 12 weeks.</p>"
+          },
+          "review_count": 0,
+          "rating_summary": 0,
+          "reviews": {
+            "items": []
+          },
+          "formulation": 409,
+          "pro_type": 298,
+          "is_featured": null,
+          "gift_message_available": "2",
+          "is_best_seller": null,
+          "image": {
+            "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_1__2.png"
+          },
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 699,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        },
+        {
+          "name": "Lotus Herbals Safe Sun Sun Block Cream SPF30 100 gm",
+          "media_gallery": [
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_1__1.png"
+            }
+          ],
+          "sku": "A21LOTUS0341001",
+          "short_description": {
+            "html": "<p>The Lotus Herbals Safe Sun Sunscreen Cream SPF 30 is a unique sunscreen cream with PARSOL 1789 that protects your skin against harmful UVA/UVB rays and reduces the chances of tanning and premature ageing after exposure to environmental aggressors. The sweat-proof and non-greasy formulation of the sunscreen blends smoothly into the skin, ensuring smooth and supple skin.</p>"
+          },
+          "review_count": 0,
+          "rating_summary": 0,
+          "reviews": {
+            "items": []
+          },
+          "formulation": 389,
+          "pro_type": 310,
+          "is_featured": null,
+          "gift_message_available": "2",
+          "is_best_seller": null,
+          "image": {
+            "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_1__1.png"
+          },
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 599,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        },
+        {
+          "name": "Kama Ayurveda Natural Sun Protection SPF21 60 gm",
+          "media_gallery": [
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_2__4.png"
+            }
+          ],
+          "sku": "202785956",
+          "short_description": {
+            "html": "<p>A non-chemical daily-use natural sunscreen that provides full-spectrum sun protection and a boost of hydration to keep skin healthy and even-toned.</p>"
+          },
+          "review_count": 0,
+          "rating_summary": 0,
+          "reviews": {
+            "items": []
+          },
+          "formulation": 21,
+          "pro_type": 310,
+          "is_featured": null,
+          "gift_message_available": "2",
+          "is_best_seller": null,
+          "image": {
+            "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_2__4.png"
+          },
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 500,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        },
+        {
+          "name": "Bobbi Brown Extra Repair Serum 30ml/1oz",
+          "media_gallery": [
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_2__3.png"
+            }
+          ],
+          "sku": "7867029",
+          "short_description": {
+            "html": "<p>Luxurious and milky, this concentrated repair serum comforts skin as it firms and moisturizes</p>"
+          },
+          "review_count": 0,
+          "rating_summary": 0,
+          "reviews": {
+            "items": []
+          },
+          "formulation": 387,
+          "pro_type": 199,
+          "is_featured": null,
+          "gift_message_available": "2",
+          "is_best_seller": null,
+          "image": {
+            "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_2__3.png"
+          },
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 800,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        },
+        {
+          "name": "Bvlgari Omnia Coral Landia Collection Eau De Toilette 65 ml",
+          "media_gallery": [
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/d/u/dun.jpg"
+            }
+          ],
+          "sku": "FS0BVL0410871",
+          "short_description": {
+            "html": "<p>Inspired by the shimmering hues of precious red coral, Omnia Coral combines the fragrant luminosity of floral notes with the fresh transparency of juicy fruit, reminiscent of summer, sun, resplendent nature and far-off oceans.</p>"
+          },
+          "review_count": 0,
+          "rating_summary": 0,
+          "reviews": {
+            "items": []
+          },
+          "formulation": 21,
+          "pro_type": 199,
+          "is_featured": null,
+          "gift_message_available": "2",
+          "is_best_seller": null,
+          "image": {
+            "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/d/u/dun.jpg"
+          },
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 500,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        },
+        {
+          "name": "Carolina Herrera Very Good Girl Eau De Parfum 50 ml",
+          "media_gallery": [
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/c/a/carolina-herrera-very-good-girl-600x600.jpg"
+            }
+          ],
+          "sku": "A21CARO65166510",
+          "short_description": {
+            "html": "<p>Very Good Girl takes you on a surprising olfactive journey, starting with top notes of playfully mischievous redcurrant and exotic lychee, leading to a seductive heart of rose. Vetiver and vanilla base notes provide a surprising and contemporary finish.</p>\r\n<p>The iconic Good Girl Stiletto conquers new heights with a stunning red-lacquered interior—a signature house shade and a symbol of passion, sophistication and beauty.</p>"
+          },
+          "review_count": 0,
+          "rating_summary": 0,
+          "reviews": {
+            "items": []
+          },
+          "formulation": 21,
+          "pro_type": 199,
+          "is_featured": null,
+          "gift_message_available": "2",
+          "is_best_seller": null,
+          "image": {
+            "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/c/a/carolina-herrera-very-good-girl-600x600.jpg"
+          },
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 500,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        },
+        {
+          "name": "Dunhill Mens Desire Blue Ocean Eau De Toilette 100ml",
+          "media_gallery": [
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_2__2.png"
+            }
+          ],
+          "sku": "205508196",
+          "short_description": {
+            "html": "<p>Dunhill Desire Blue Ocean Eau De Toilette is the fragrance of a man who feels most alive when he’s outdoors or near the water. Whether he’s sailing or golfing above it, or swimming below it, he knows that’s where he belongs. He is continually amazed by the beauty of mother nature whether it be hues of beautiful blue tides or a crisp blue sky, he has a deep desire to discover all that the world around him has to offer.</p>"
+          },
+          "review_count": 0,
+          "rating_summary": 0,
+          "reviews": {
+            "items": []
+          },
+          "formulation": 21,
+          "pro_type": 199,
+          "is_featured": null,
+          "gift_message_available": "2",
+          "is_best_seller": null,
+          "image": {
+            "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_2__2.png"
+          },
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 500,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        },
+        {
+          "name": "Ajmal Womens Aretha Eau De Parfum 100 ml",
+          "media_gallery": [
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/l/q/lqssojwyro-1.jpg"
+            }
+          ],
+          "sku": "FS0AJMAL312595",
+          "short_description": {
+            "html": "<p>Ajmal Aretha Eau de Parfum is a perfect blend of floral and fruity aroma, harmonized with light rosy and woody notes. This perfume was brilliantly executed by incorporating a touch of natural softness and sophistication which can't be overlooked. Highly rich ingredients have been used to give the perfume a stunning, elegant and charming fragrance.</p>\r\n<p>The top note of the perfume has an uplifting and effusive combination of peach, bergamot, and pear. Then it shifts towards the heart note which consists of floral tones achieved by blending rose, lily and jasmine. The base offers a balanced, clean and long-lasting finish with the notes of musk, cedarwood, and vetiver. This perfume is a delightful blend for women to wear at parties or social events.</p>"
+          },
+          "review_count": 0,
+          "rating_summary": 0,
+          "reviews": {
+            "items": []
+          },
+          "formulation": 21,
+          "pro_type": 199,
+          "is_featured": null,
+          "gift_message_available": "2",
+          "is_best_seller": null,
+          "image": {
+            "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/l/q/lqssojwyro-1.jpg"
+          },
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 500,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        },
+        {
+          "name": "Playboy Mens Generation M Eau De Toilette Deodorant Set",
+          "media_gallery": [
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/7/1/71k1utdvhal._sl1500_.jpg"
+            }
+          ],
+          "sku": "203096527",
+          "short_description": {
+            "html": "<p>With the Playboy Generation gift set, engagement is your aim and no aim is too high. Playboy Generation Eau De Toilette is a warm aromatic scent which starts with energising flavours. Playboy Skin Touch Generation Deodorant has intense, sensual, and masculine fragrance keeping you fresh and rejuvenated</p>"
+          },
+          "review_count": 0,
+          "rating_summary": 0,
+          "reviews": {
+            "items": []
+          },
+          "formulation": 21,
+          "pro_type": 201,
+          "is_featured": null,
+          "gift_message_available": "2",
+          "is_best_seller": null,
+          "image": {
+            "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/7/1/71k1utdvhal._sl1500_.jpg"
+          },
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 999,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        },
+        {
+          "name": "Carolina Herrera Very Good Girl Eau De Parfum 30 ml",
+          "media_gallery": [
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/p/4/p474032-av-10-zoom.jpg"
+            }
+          ],
+          "sku": "A21CARO65166511",
+          "short_description": {
+            "html": "<p>Very Good Girl takes you on a surprising olfactive journey, starting with top notes of playfully mischievous redcurrant and exotic lychee, leading to a seductive heart of rose. Vetiver and vanilla base notes provide a surprising and contemporary finish.</p>\r\n<p>The iconic Good Girl Stiletto conquers new heights with a stunning red-lacquered interior—a signature house shade and a symbol of passion, sophistication and beauty.</p>"
+          },
+          "review_count": 0,
+          "rating_summary": 0,
+          "reviews": {
+            "items": []
+          },
+          "formulation": 21,
+          "pro_type": 199,
+          "is_featured": null,
+          "gift_message_available": "2",
+          "is_best_seller": null,
+          "image": {
+            "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/p/4/p474032-av-10-zoom.jpg"
+          },
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 500,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        },
+        {
+          "name": "Thierry Mugler Womens Eau De Parfum Shooting Star Spray 50 ml",
+          "media_gallery": [
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_2__1.png"
+            }
+          ],
+          "sku": "3038244",
+          "short_description": {
+            "html": "<p>The Angel woman dares to live up to her dreams with her blue star as her guide. Confident and seductive, she fascinates those who cross her path. Between power and pleasure, she uses her ultra-femininity as a signature. Between heaven and earth, she makes her dreams a reality. Angel Eau de Parfum is the first Gourmand perfume in the world of fragrance.</p>\r\n<p>Angel, wilder than dreams.</p>"
+          },
+          "review_count": 0,
+          "rating_summary": 0,
+          "reviews": {
+            "items": []
+          },
+          "formulation": 21,
+          "pro_type": 199,
+          "is_featured": null,
+          "gift_message_available": "2",
+          "is_best_seller": null,
+          "image": {
+            "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_2__1.png"
+          },
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 500,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        },
+        {
+          "name": "Mocesma Womens Celeb Aqua Pour Femme Eau De Parfum 110 m",
+          "media_gallery": [
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image.png"
+            }
+          ],
+          "sku": "A21MOCEMS920226",
+          "short_description": {
+            "html": "<p>Inspired by a star-studded night on the beach among sand and gigantic waves, Celeb Aqua Pour Femme Eau De Parfum starts off fruitily with juicy golden apple, but transforms into a floral bouquet bursting with white and yellow roses and jasmine concrete paired with base notes of white musk and amber with an aqua touch!</p>\r\n<p>Far sweeter than your memory of feeling &amp; smelling surreal like a celebrity, this classic fragrance is all about the sparkle in this dreamy world and more. It's exactly what you'd expect Mocemsa exclusive scents to smell like - divine.</p>\r\n<p>This might be your signature scent - lightweight, long-lasting, and incredibly versatile. Whether you spritz it on for a day of running errands or load up for date night, it adds a touch of sophistication nevertheless.</p>"
+          },
+          "review_count": 0,
+          "rating_summary": 0,
+          "reviews": {
+            "items": []
+          },
+          "formulation": 21,
+          "pro_type": 199,
+          "is_featured": null,
+          "gift_message_available": "2",
+          "is_best_seller": null,
+          "image": {
+            "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image.png"
+          },
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 999,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        },
+        {
+          "name": "Superdry Sport Re: Vive Body Spray 200 ml",
+          "media_gallery": [
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_1_.png"
+            }
+          ],
+          "sku": "A21SUPERD129225",
+          "short_description": {
+            "html": "<p>Instantly revive with this everyday active body spray fuelled with fresh fragrance notes of cardamom and lemon.</p>"
+          },
+          "review_count": 0,
+          "rating_summary": 0,
+          "reviews": {
+            "items": []
+          },
+          "formulation": 21,
+          "pro_type": 200,
+          "is_featured": 0,
+          "gift_message_available": "2",
+          "is_best_seller": 1,
+          "image": {
+            "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_1_.png"
+          },
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 500,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        },
+        {
+          "name": "Carolina Herrera Womens 212 NYC Eau De Toilette 100 ml",
+          "media_gallery": [
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_2_.png"
+            },
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_1__7.png"
+            },
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_5.png"
+            }
+          ],
+          "sku": "203966021",
+          "short_description": {
+            "html": "<p>Carolina Herrera Women 212 NYC Eau de Toilette is the perfect combination of cosmopolitan and classic elegance. Imparts the wearer fresh, floral and flirty scent which captures the charisma and optimism that the New York woman boasts. The opening floral notes of 212 NYC are fragrantly bright and light, thoughtfully crafted by Master perfumer Alberto Morillas. </p>\r\n<p>The 212 NYC bottle maintains a minimalist sensibility with a multi-layered fragrance of zestful energy inside. The architectural structure of glass and houses two 212 bottles, one for home and one for everywhere she goes.</p>"
+          },
+          "review_count": 6,
+          "rating_summary": 50,
+          "reviews": {
+            "items": [
+              {
+                "average_rating": 40,
+                "ratings_breakdown": [
+                  {
+                    "value": "2"
+                  }
+                ],
+                "created_at": "2022-05-31 10:59:34",
+                "summary": "not good",
+                "text": "not worth it"
+              },
+              {
+                "average_rating": 20,
+                "ratings_breakdown": [
+                  {
+                    "value": "1"
+                  }
+                ],
+                "created_at": "2022-05-31 10:50:09",
+                "summary": "we can buy this product",
+                "text": "Excellent "
+              },
+              {
+                "average_rating": 60,
+                "ratings_breakdown": [
+                  {
+                    "value": "3"
+                  }
+                ],
+                "created_at": "2022-05-31 10:48:19",
+                "summary": "buy it",
+                "text": "worth for the price"
+              },
+              {
+                "average_rating": 80,
+                "ratings_breakdown": [
+                  {
+                    "value": "4"
+                  }
+                ],
+                "created_at": "2022-05-31 10:34:02",
+                "summary": "excellent product",
+                "text": "worth it\r\n"
+              },
+              {
+                "average_rating": 0,
+                "ratings_breakdown": [],
+                "created_at": "2022-05-30 13:56:53",
+                "summary": "best",
+                "text": "very good"
+              },
+              {
+                "average_rating": 0,
+                "ratings_breakdown": [],
+                "created_at": "2022-05-30 12:50:58",
+                "summary": "test comment",
+                "text": "test comment"
+              }
+            ]
+          },
+          "formulation": 21,
+          "pro_type": 199,
+          "is_featured": 1,
+          "gift_message_available": "0",
+          "is_best_seller": 0,
+          "image": {
+            "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_2_.png"
+          },
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 1200,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        }
+      ],
+      "aggregations": [
+        {
+          "attribute_code": "price",
+          "count": 2,
+          "label": "Price",
+          "options": [
+            {
+              "count": 21,
+              "label": "0-1000",
+              "value": "0_1000"
+            },
+            {
+              "count": 1,
+              "label": "1000-2000",
+              "value": "1000_2000"
+            }
+          ]
+        },
+        {
+          "attribute_code": "category_id",
+          "count": 8,
+          "label": "Category",
+          "options": [
+            {
+              "count": 11,
+              "label": "FRAGRANCE",
+              "value": "139"
+            },
+            {
+              "count": 9,
+              "label": "SKIN",
+              "value": "73"
+            },
+            {
+              "count": 7,
+              "label": "WOMEN",
+              "value": "140"
+            },
+            {
+              "count": 4,
+              "label": "MASKS & TREATMENTS",
+              "value": "97"
+            },
+            {
+              "count": 4,
+              "label": "SUN CARE",
+              "value": "111"
+            },
+            {
+              "count": 2,
+              "label": "MEN",
+              "value": "141"
+            },
+            {
+              "count": 1,
+              "label": "MOISTURIZERS",
+              "value": "83"
+            },
+            {
+              "count": 1,
+              "label": "HAIR",
+              "value": "171"
+            }
+          ]
+        },
+        {
+          "attribute_code": "ingredient_preference",
+          "count": 14,
+          "label": "Ingredient Preferences",
+          "options": [
+            {
+              "count": 6,
+              "label": "Alcohol-free",
+              "value": "4"
+            },
+            {
+              "count": 16,
+              "label": "Cruelty-free",
+              "value": "5"
+            },
+            {
+              "count": 2,
+              "label": "Hypoallergenic",
+              "value": "6"
+            },
+            {
+              "count": 3,
+              "label": "Natural",
+              "value": "8"
+            },
+            {
+              "count": 4,
+              "label": "Paraben-free",
+              "value": "353"
+            },
+            {
+              "count": 4,
+              "label": "Sulphate-free",
+              "value": "354"
+            },
+            {
+              "count": 1,
+              "label": "Silicone-free",
+              "value": "355"
+            },
+            {
+              "count": 4,
+              "label": "Phthalate-free",
+              "value": "360"
+            },
+            {
+              "count": 1,
+              "label": "Mineral Oil-free",
+              "value": "361"
+            },
+            {
+              "count": 3,
+              "label": "Vegan",
+              "value": "363"
+            },
+            {
+              "count": 2,
+              "label": "Vegetarian",
+              "value": "364"
+            },
+            {
+              "count": 1,
+              "label": "Water Resistant",
+              "value": "373"
+            },
+            {
+              "count": 10,
+              "label": "Dermatologically Tested",
+              "value": "369"
+            },
+            {
+              "count": 2,
+              "label": "Non-comedogenic",
+              "value": "370"
+            }
+          ]
+        },
+        {
+          "attribute_code": "occasion",
+          "count": 7,
+          "label": "Occasion",
+          "options": [
+            {
+              "count": 17,
+              "label": "Casual",
+              "value": "10"
+            },
+            {
+              "count": 14,
+              "label": "Work",
+              "value": "11"
+            },
+            {
+              "count": 3,
+              "label": "Party",
+              "value": "12"
+            },
+            {
+              "count": 1,
+              "label": "Day",
+              "value": "13"
+            },
+            {
+              "count": 2,
+              "label": "Evening",
+              "value": "14"
+            },
+            {
+              "count": 2,
+              "label": "Everyday",
+              "value": "15"
+            },
+            {
+              "count": 1,
+              "label": "Brunch",
+              "value": "16"
+            }
+          ]
+        },
+        {
+          "attribute_code": "formulation",
+          "count": 4,
+          "label": "Formulation",
+          "options": [
+            {
+              "count": 14,
+              "label": "Spray",
+              "value": "21"
+            },
+            {
+              "count": 3,
+              "label": "Liquid",
+              "value": "387"
+            },
+            {
+              "count": 3,
+              "label": "Cream",
+              "value": "389"
+            },
+            {
+              "count": 2,
+              "label": "Lotion",
+              "value": "409"
+            }
+          ]
+        },
+        {
+          "attribute_code": "fragrance_family",
+          "count": 6,
+          "label": "Fragrance Family",
+          "options": [
+            {
+              "count": 6,
+              "label": "Floral",
+              "value": "26"
+            },
+            {
+              "count": 6,
+              "label": "Fruity",
+              "value": "27"
+            },
+            {
+              "count": 1,
+              "label": "Woody/Earthy",
+              "value": "28"
+            },
+            {
+              "count": 1,
+              "label": "Spicy",
+              "value": "29"
+            },
+            {
+              "count": 1,
+              "label": "Citrus",
+              "value": "30"
+            },
+            {
+              "count": 1,
+              "label": "Aquatic/Fresh",
+              "value": "33"
+            }
+          ]
+        },
+        {
+          "attribute_code": "gender",
+          "count": 3,
+          "label": "Gender",
+          "options": [
+            {
+              "count": 15,
+              "label": "Women",
+              "value": "37"
+            },
+            {
+              "count": 2,
+              "label": "Men",
+              "value": "39"
+            },
+            {
+              "count": 5,
+              "label": "Unisex Adults",
+              "value": "42"
+            }
+          ]
+        },
+        {
+          "attribute_code": "size",
+          "count": 4,
+          "label": "Size",
+          "options": [
+            {
+              "count": 8,
+              "label": "Mini",
+              "value": "44"
+            },
+            {
+              "count": 2,
+              "label": "Value Set",
+              "value": "45"
+            },
+            {
+              "count": 1,
+              "label": "Combo",
+              "value": "46"
+            },
+            {
+              "count": 3,
+              "label": "Gift Set",
+              "value": "47"
+            }
+          ]
+        },
+        {
+          "attribute_code": "age",
+          "count": 5,
+          "label": "Age Group",
+          "options": [
+            {
+              "count": 1,
+              "label": "Kids",
+              "value": "55"
+            },
+            {
+              "count": 13,
+              "label": "Teens",
+              "value": "56"
+            },
+            {
+              "count": 21,
+              "label": "20s",
+              "value": "57"
+            },
+            {
+              "count": 8,
+              "label": "30s",
+              "value": "58"
+            },
+            {
+              "count": 3,
+              "label": "40s",
+              "value": "59"
+            }
+          ]
+        },
+        {
+          "attribute_code": "size_uom",
+          "count": 2,
+          "label": "Size UOM",
+          "options": [
+            {
+              "count": 11,
+              "label": "gm",
+              "value": "61"
+            },
+            {
+              "count": 11,
+              "label": "ml",
+              "value": "63"
+            }
+          ]
+        },
+        {
+          "attribute_code": "dimensions_uom",
+          "count": 2,
+          "label": "Dimensions UOM",
+          "options": [
+            {
+              "count": 20,
+              "label": "mm",
+              "value": "68"
+            },
+            {
+              "count": 1,
+              "label": "in",
+              "value": "70"
+            }
+          ]
+        },
+        {
+          "attribute_code": "location",
+          "count": 2,
+          "label": "Location",
+          "options": [
+            {
+              "count": 21,
+              "label": "Store",
+              "value": "81"
+            },
+            {
+              "count": 1,
+              "label": "Both",
+              "value": "83"
+            }
+          ]
+        },
+        {
+          "attribute_code": "pro_type",
+          "count": 5,
+          "label": "Product Type",
+          "options": [
+            {
+              "count": 13,
+              "label": "EDT",
+              "value": "199"
+            },
+            {
+              "count": 1,
+              "label": "EDP",
+              "value": "200"
+            },
+            {
+              "count": 1,
+              "label": "Deodrants",
+              "value": "201"
+            },
+            {
+              "count": 3,
+              "label": "Serums & Boosters",
+              "value": "298"
+            },
+            {
+              "count": 4,
+              "label": "Body Sunscreen",
+              "value": "310"
+            }
+          ]
+        },
+        {
+          "attribute_code": "recommended_for_concerns",
+          "count": 4,
+          "label": "Recommended For/Concerns",
+          "options": [
+            {
+              "count": 2,
+              "label": "Hairfall & Thinning",
+              "value": "425"
+            },
+            {
+              "count": 3,
+              "label": "Dullness",
+              "value": "429"
+            },
+            {
+              "count": 3,
+              "label": "Dark spots/Pigmentation",
+              "value": "444"
+            },
+            {
+              "count": 1,
+              "label": "Tanning",
+              "value": "480"
+            }
+          ]
+        },
+        {
+          "attribute_code": "sub_category",
+          "count": 1,
+          "label": "Sub-Category",
+          "options": [
+            {
+              "count": 1,
+              "label": "WOMEN",
+              "value": "652"
+            }
+          ]
+        },
+        {
+          "attribute_code": "is_best_seller",
+          "count": 2,
+          "label": "Best Seller",
+          "options": [
+            {
+              "count": 2,
+              "label": "1",
+              "value": "1"
+            },
+            {
+              "count": 1,
+              "label": "0",
+              "value": "0"
+            }
+          ]
+        },
+        {
+          "attribute_code": "is_featured",
+          "count": 2,
+          "label": "Featured",
+          "options": [
+            {
+              "count": 2,
+              "label": "1",
+              "value": "1"
+            },
+            {
+              "count": 1,
+              "label": "0",
+              "value": "0"
+            }
+          ]
+        }
+      ],
+      "page_info": {
+        "page_size": 22,
+        "current_page": 1
+      }
+    }
+  }
+}

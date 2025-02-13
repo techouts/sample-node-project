@@ -1,0 +1,33 @@
+{
+  "__component": "shopping-review",
+  "id": "12896",
+  "rating_label": "Rate your Shopping Experience",
+  "whats_wrong_label": "What Went Wrong?",
+  "intrest_description": "What did you like?",
+  "buttons": [
+    {
+      "label_name": "Site is Slow",
+      "label": "Seemless Journey"
+    },
+    {
+      "label_name": "Less Variety",
+      "label": "Great Pricing"
+    },
+    {
+      "label_name": "Lack of Discoverability",
+      "label": "Easy Discoverability "
+    },
+    {
+      "label_name": "Others",
+      "label": "Others"
+    }
+  ],
+
+  "experience_label": "Please Describe Your Experience",
+  "experience_placeholder": "Write about your experience here",
+  "ctaText": "SUBMIT",
+  "ShareYourExperience": "Share Your Experience!",
+  "AboutYourOrderExperience": "Based on your recent shopping experience, how likely are you to recommend SSBeauty to your friends and family?",
+  "Notlikely": "Not likely",
+  "Likely": "Likely"
+}

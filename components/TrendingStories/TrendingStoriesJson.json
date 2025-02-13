@@ -1,0 +1,45 @@
+{
+  "title": "Trending Stories",
+  "viewAllButton": "View All",
+  "id": 1,
+  "imageUrl": "https://i.ibb.co/jVPcjhV/Rectangle-32.png",
+  "heading": "Perfect palettes to light up your summer",
+  "subHeading": "It’s that time of the year when it’s sunny and bright outside, flowers are abloom and colours seem a lot",
+  "readMoreButton": "Read More",
+  "beautyButton": "Beauty",
+  "shareText": "Share",
+  "viewsText": "Views",
+  "numberOfViews": "5.2K",
+  "listItems": [
+    {
+      "id": 1,
+      "imageUrl": "https://i.ibb.co/ZX7rSJB/Rectangle-39.png",
+      "heading": "The Perfect Pre-Wedding Skincare routine everyday",
+      "readMoreButton": "Read More",
+      "beautyButton": "Beauty",
+      "shareText": "Share",
+      "viewsText": "Views",
+      "numberOfViews": "5.2K"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://i.ibb.co/QfbqdcS/Rectangle-40.png",
+      "heading": "The Perfect Pre-Wedding Skincare routine everyday",
+      "readMoreButton": "Read More",
+      "beautyButton": "Beauty",
+      "shareText": "Share",
+      "viewsText": "Views",
+      "numberOfViews": "5.2K"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://i.ibb.co/wLfDGp3/Rectangle-40-1.png",
+      "heading": "The Perfect Pre-Wedding Skincare routine everyday",
+      "readMoreButton": "Read More",
+      "beautyButton": "Beauty",
+      "shareText": "Share",
+      "viewsText": "Views",
+      "numberOfViews": "5.2K"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+ {
+   "title":"SHOP BY CATEGORY",
+    "listItems": [
+      {
+        "color": "#C4C4C4",
+        "title": "Bestsellers"
+      },
+      {
+        "color": "#C4C4C4",
+        "title": "New Arrivals"
+      },
+      {
+        "title": "Makeup",
+        "color": "#C4C4C4"
+      },
+      {
+        "title": "skin",
+        "color": "#C4C4C4"
+      },
+      {
+        "color": "#C4C4C4",
+        "title": "New Arrivals"
+      },
+      {
+        "title": "Makeup",
+        "color": "#C4C4C4"
+      },
+      {
+        "title": "skin",
+        "color": "#C4C4C4"
+      },
+      {
+        "color": "#C4C4C4",
+        "title": "New Arrivals"
+      },
+      {
+        "title": "Makeup",
+        "color": "#C4C4C4"
+      },
+      {
+        "title": "skin",
+        "color": "#C4C4C4"
+      }
+    ]
+  }

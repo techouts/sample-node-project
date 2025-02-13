@@ -1,0 +1,593 @@
+
+{
+    "__component": "Rating",
+    "id": "1235",
+    "data": {
+        "bgColor": "#F2F2F3",
+        "bgPadding": "30px",
+        "title": "",
+        "overallrating":4,
+        "overalltext":"Overall Ratings",
+        "allreviews":"(200reviews)",
+        "ratings":[
+            {
+                "stars":"5 stars",
+                "percent":76
+            },
+            {
+                "stars":"4 stars",
+                "percent":12
+            },
+            {
+                "stars":"3 stars",
+                "percent":49
+            },
+            {
+                "stars":"2 stars",
+                "percent":10
+            },
+            {
+                "stars":"1 star",
+                "percent":40
+            }
+        ],
+        "items": [
+            {
+                "id":1,
+                "userName": "Meghana Rao",
+                "userImage":"https://i.ibb.co/tHWT3rH/Avatar.png",
+                "rating":4,
+                "verified": true,
+                "verfiedtick":"https://i.ibb.co/3CbTD77/tick-circle.png",
+                "commentTitle":"Shade:Marvel Kiss",
+                "verifeduser":"Verified Buyer",
+                "comment":"Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price",
+                "uploadedImages":[
+                    {
+                        "imageUrl":"https://i.ibb.co/zQLXPWt/image-19.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/QQ1JL8W/image-2.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/TL5r7Cq/image-2.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/zQLXPWt/image-19.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/QQ1JL8W/image-2.png"
+                    }
+                    ,
+                    {
+                        "imageUrl":"https://i.ibb.co/QQ1JL8W/image-2.png"
+                    }
+                ],
+                "postDate":"Posted on June 5,2022",
+                "queryText":"Was This Review Helpful",
+                "LikedImage":"https://i.ibb.co/DW6j8fX/Shape.png",
+                "likes":20
+            },
+            {
+                "id":2,
+                "userName": "Rajesh",
+                "userImage":"https://i.ibb.co/tHWT3rH/Avatar.png",
+                "rating":4,
+                "verified": false,
+                "verifeduser":"Verified Buyer",
+                "verfiedtick":"https://i.ibb.co/3CbTD77/tick-circle.png",
+                "commentTitle":"",
+                "comment":"Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price",
+                "uploadedImages":[
+                    {
+                        "imageUrl":"https://i.ibb.co/zQLXPWt/image-19.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/QQ1JL8W/image-2.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/TL5r7Cq/image-2.png"
+                    }
+                ],
+                "postDate":"Posted on July 5,2022",
+                "queryText":"Was This Review Helpful",
+                "LikedImage":"https://i.ibb.co/DW6j8fX/Shape.png",
+                "likes":24
+            },
+            {
+                "id":3,
+                "userName": "Mehek Mehta",
+                "userImage":"https://i.ibb.co/tHWT3rH/Avatar.png",
+                "rating":3,
+                "verified": true,
+                "verifeduser":"Verified Buyer",
+                "verfiedtick":"https://i.ibb.co/3CbTD77/tick-circle.png",
+                "commentTitle":"Shade: Marvel Kiss",
+                "comment":"Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price",
+                "uploadedImages":[
+                    {
+                        "imageUrl":"https://i.ibb.co/zQLXPWt/image-19.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/QQ1JL8W/image-2.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/TL5r7Cq/image-2.png"
+                    }
+                ],
+                "postDate":"Posted on August 5,2022",
+                "queryText":"Was This Review Helpful",
+                "LikedImage":"https://i.ibb.co/DW6j8fX/Shape.png",
+                "likes":23
+            },
+            {
+                "id":4,
+                "userName": "Ramesh",
+                "userImage":"https://i.ibb.co/tHWT3rH/Avatar.png",
+                "rating":2,
+                "verified": false,
+                "verifeduser":"Verified Buyer",
+                "verfiedtick":"https://i.ibb.co/3CbTD77/tick-circle.png",
+                "commentTitle":"Shade:Nude Queen",
+                "comment":"Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price",
+                "uploadedImages":[
+                    {
+                        "imageUrl":"https://i.ibb.co/zQLXPWt/image-19.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/QQ1JL8W/image-2.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/TL5r7Cq/image-2.png"
+                    }
+                ],
+                "postDate":"Posted on September 5,2022",
+                "queryText":"Was This Review Helpful",
+                "LikedImage":"https://i.ibb.co/DW6j8fX/Shape.png",
+                "likes":21
+            },
+            {
+                "id":5,
+                "userName": "Meghana",
+                "userImage":"https://i.ibb.co/tHWT3rH/Avatar.png",
+                "rating":5,
+                "verified": false,
+                "verifeduser":"Verified Buyer",
+                "verfiedtick":"https://i.ibb.co/3CbTD77/tick-circle.png",
+                "commentTitle":"Shade:Nude Queen",
+                "comment":"Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price",
+                "uploadedImages":[
+                    {
+                        "imageUrl":"https://i.ibb.co/zQLXPWt/image-19.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/QQ1JL8W/image-2.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/TL5r7Cq/image-2.png"
+                    }
+                ],
+                "postDate":"Posted on October 5,2022",
+                "queryText":"Was This Review Helpful",
+                "LikedImage":"https://i.ibb.co/DW6j8fX/Shape.png",
+                "likes":18
+            },
+            {
+                "id":6,
+                "userName": "Mehek Mehta",
+                "userImage":"https://i.ibb.co/tHWT3rH/Avatar.png",
+                "rating":3,
+                "verified": true,
+                "verifeduser":"Verified Buyer",
+                "verfiedtick":"https://i.ibb.co/3CbTD77/tick-circle.png",
+                "commentTitle":"Shade:Nude Queen",
+                "comment":"Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price",
+                "uploadedImages":[
+                    {
+                        "imageUrl":"https://i.ibb.co/zQLXPWt/image-19.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/QQ1JL8W/image-2.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/TL5r7Cq/image-2.png"
+                    }
+                ],
+                "postDate":"Posted on August 5,2022",
+                "queryText":"Was This Review Helpful",
+                "LikedImage":"https://i.ibb.co/DW6j8fX/Shape.png",
+                "likes":23
+            },
+            {
+                "id":7,
+                "userName": "Ramesh",
+                "userImage":"https://i.ibb.co/tHWT3rH/Avatar.png",
+                "rating":2,
+                "verified": true,
+                "verifeduser":"Verified Buyer",
+                "verfiedtick":"https://i.ibb.co/3CbTD77/tick-circle.png",
+                "commentTitle":"Shade:Nude Queen",
+                "comment":"Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price",
+                "uploadedImages":[
+                    {
+                        "imageUrl":"https://i.ibb.co/zQLXPWt/image-19.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/QQ1JL8W/image-2.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/TL5r7Cq/image-2.png"
+                    }
+                ],
+                "postDate":"Posted on September 5,2022",
+                "queryText":"Was This Review Helpful",
+                "LikedImage":"https://i.ibb.co/DW6j8fX/Shape.png",
+                "likes":21
+            },
+            {
+                "id":8,
+                "userName": "Meghana",
+                "userImage":"https://i.ibb.co/tHWT3rH/Avatar.png",
+                "rating":5,
+                "verified": true,
+                "verifeduser":"Verified Buyer",
+                "verfiedtick":"https://i.ibb.co/3CbTD77/tick-circle.png",
+                "commentTitle":"Shade:Nude Queen",
+                "comment":"Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price",
+                "uploadedImages":[
+                    {
+                        "imageUrl":"https://i.ibb.co/zQLXPWt/image-19.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/QQ1JL8W/image-2.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/TL5r7Cq/image-2.png"
+                    }
+                ],
+                "postDate":"Posted on October 5,2022",
+                "queryText":"Was This Review Helpful",
+                "LikedImage":"https://i.ibb.co/DW6j8fX/Shape.png",
+                "likes":18
+            },
+            {
+                "id":9,
+                "userName": "Rajesh",
+                "userImage":"https://i.ibb.co/tHWT3rH/Avatar.png",
+                "rating":4,
+                "verified": true,
+                "verifeduser":"Verified Buyer",
+                "verfiedtick":"https://i.ibb.co/3CbTD77/tick-circle.png",
+                "commentTitle":"Shade:Nude Queen",
+                "comment":"Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price",
+                "uploadedImages":[
+                    {
+                        "imageUrl":"https://i.ibb.co/zQLXPWt/image-19.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/QQ1JL8W/image-2.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/TL5r7Cq/image-2.png"
+                    }
+                ],
+                "postDate":"Posted on July 5,2022",
+                "queryText":"Was This Review Helpful",
+                "LikedImage":"https://i.ibb.co/DW6j8fX/Shape.png",
+                "likes":24
+            },
+            {
+                "id":10,
+                "userName": "Meghana Rao",
+                "userImage":"https://i.ibb.co/tHWT3rH/Avatar.png",
+                "rating":4,
+                "verified": true,
+                "verifeduser":"Verified Buyer",
+                "verfiedtick":"https://i.ibb.co/3CbTD77/tick-circle.png",
+                "commentTitle":"Shade Nude Queen",
+                "comment":"Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price",
+                "uploadedImages":[
+                    {
+                        "imageUrl":"https://i.ibb.co/zQLXPWt/image-19.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/QQ1JL8W/image-2.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/TL5r7Cq/image-2.png"
+                    }
+                ],
+                "postDate":"Posted on June 5,2022",
+                "queryText":"Was This Review Helpful",
+                "LikedImage":"https://i.ibb.co/DW6j8fX/Shape.png",
+                "likes":20
+            },
+            {
+                "id":11,
+                "userName": "Rajesh",
+                "userImage":"https://i.ibb.co/tHWT3rH/Avatar.png",
+                "rating":4,
+                "verified": true,
+                "verifeduser":"Verified Buyer",
+                "verfiedtick":"https://i.ibb.co/3CbTD77/tick-circle.png",
+                "commentTitle":"Shade:Nude Queen",
+                "comment":"Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price",
+                "uploadedImages":[
+                    {
+                        "imageUrl":"https://i.ibb.co/zQLXPWt/image-19.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/QQ1JL8W/image-2.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/TL5r7Cq/image-2.png"
+                    }
+                ],
+                "postDate":"Posted on July 5,2022",
+                "queryText":"Was This Review Helpful",
+                "LikedImage":"https://i.ibb.co/DW6j8fX/Shape.png",
+                "likes":24
+            },
+            {
+                "id":12,
+                "userName": "Mehek Mehta",
+                "userImage":"https://i.ibb.co/tHWT3rH/Avatar.png",
+                "rating":3,
+                "verified": true,
+                "verifeduser":"Verified Buyer",
+                "verfiedtick":"https://i.ibb.co/3CbTD77/tick-circle.png",
+                "commentTitle":"Shade:Nude Queen",
+                "comment":"Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price",
+                "uploadedImages":[
+                    {
+                        "imageUrl":"https://i.ibb.co/zQLXPWt/image-19.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/QQ1JL8W/image-2.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/TL5r7Cq/image-2.png"
+                    }
+                ],
+                "postDate":"Posted on August 5,2022",
+                "queryText":"Was This Review Helpful",
+                "LikedImage":"https://i.ibb.co/DW6j8fX/Shape.png",
+                "likes":23
+            },
+            {
+                "id":13,
+                "userName": "Meghana Rao",
+                "userImage":"https://i.ibb.co/tHWT3rH/Avatar.png",
+                "rating":4,
+                "verified": true,
+                "verifeduser":"Verified Buyer",
+                "verfiedtick":"https://i.ibb.co/3CbTD77/tick-circle.png",
+                "commentTitle":"Shade Nude Queen",
+                "comment":"Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price",
+                "uploadedImages":[
+                    {
+                        "imageUrl":"https://i.ibb.co/zQLXPWt/image-19.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/QQ1JL8W/image-2.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/TL5r7Cq/image-2.png"
+                    }
+                ],
+                "postDate":"Posted on June 5,2022",
+                "queryText":"Was This Review Helpful",
+                "LikedImage":"https://i.ibb.co/DW6j8fX/Shape.png",
+                "likes":20
+            },
+            {
+                "id":14,
+                "userName": "Rajesh",
+                "userImage":"https://i.ibb.co/tHWT3rH/Avatar.png",
+                "rating":4,
+                "verified": true,
+                "verifeduser":"Verified Buyer",
+                "verfiedtick":"https://i.ibb.co/3CbTD77/tick-circle.png",
+                "commentTitle":"Shade:Nude Queen",
+                "comment":"Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price",
+                "uploadedImages":[
+                    {
+                        "imageUrl":"https://i.ibb.co/zQLXPWt/image-19.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/QQ1JL8W/image-2.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/TL5r7Cq/image-2.png"
+                    }
+                ],
+                "postDate":"Posted on July 5,2022",
+                "queryText":"Was This Review Helpful",
+                "LikedImage":"https://i.ibb.co/DW6j8fX/Shape.png",
+                "likes":24
+            },
+            {
+                "id":15,
+                "userName": "Mehek Mehta",
+                "userImage":"https://i.ibb.co/tHWT3rH/Avatar.png",
+                "rating":3,
+                "verified": true,
+                "verifeduser":"Verified Buyer",
+                "verfiedtick":"https://i.ibb.co/3CbTD77/tick-circle.png",
+                "commentTitle":"Shade:Nude Queen",
+                "comment":"Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price",
+                "uploadedImages":[
+                    {
+                        "imageUrl":"https://i.ibb.co/zQLXPWt/image-19.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/QQ1JL8W/image-2.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/TL5r7Cq/image-2.png"
+                    }
+                ],
+                "postDate":"Posted on August 5,2022",
+                "queryText":"Was This Review Helpful",
+                "LikedImage":"https://i.ibb.co/DW6j8fX/Shape.png",
+                "likes":23
+            },
+            {
+                "id":16,
+                "userName": "Meghana",
+                "userImage":"https://i.ibb.co/tHWT3rH/Avatar.png",
+                "rating":5,
+                "verified": true,
+                "verifeduser":"Verified Buyer",
+                "verfiedtick":"https://i.ibb.co/3CbTD77/tick-circle.png",
+                "commentTitle":"Shade:Nude Queen",
+                "comment":"Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price",
+                "uploadedImages":[
+                    {
+                        "imageUrl":"https://i.ibb.co/zQLXPWt/image-19.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/QQ1JL8W/image-2.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/TL5r7Cq/image-2.png"
+                    }
+                ],
+                "postDate":"Posted on October 5,2022",
+                "queryText":"Was This Review Helpful",
+                "LikedImage":"https://i.ibb.co/DW6j8fX/Shape.png",
+                "likes":18
+            },
+            {
+                "id":17,
+                "userName": "Rajesh",
+                "userImage":"https://i.ibb.co/tHWT3rH/Avatar.png",
+                "rating":4,
+                "verified": true,
+                "verifeduser":"Verified Buyer",
+                "verfiedtick":"https://i.ibb.co/3CbTD77/tick-circle.png",
+                "commentTitle":"Shade:Nude Queen",
+                "comment":"Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price",
+                "uploadedImages":[
+                    {
+                        "imageUrl":"https://i.ibb.co/zQLXPWt/image-19.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/QQ1JL8W/image-2.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/TL5r7Cq/image-2.png"
+                    }
+                ],
+                "postDate":"Posted on July 5,2022",
+                "queryText":"Was This Review Helpful",
+                "LikedImage":"https://i.ibb.co/DW6j8fX/Shape.png",
+                "likes":24
+            },
+            {
+                "id":18,
+                "userName": "Meghana Rao",
+                "userImage":"https://i.ibb.co/tHWT3rH/Avatar.png",
+                "rating":4,
+                "verified": true,
+                "verifeduser":"Verified Buyer",
+                "verfiedtick":"https://i.ibb.co/3CbTD77/tick-circle.png",
+                "commentTitle":"Shade Nude Queen",
+                "comment":"Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price",
+                "uploadedImages":[
+                    {
+                        "imageUrl":"https://i.ibb.co/zQLXPWt/image-19.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/QQ1JL8W/image-2.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/TL5r7Cq/image-2.png"
+                    }
+                ],
+                "postDate":"Posted on June 5,2022",
+                "queryText":"Was This Review Helpful",
+                "LikedImage":"https://i.ibb.co/DW6j8fX/Shape.png",
+                "likes":20
+            },
+            {
+                "id":19,
+                "userName": "Mehek Mehta",
+                "userImage":"https://i.ibb.co/tHWT3rH/Avatar.png",
+                "rating":3,
+                "verified": true,
+                "verifeduser":"Verified Buyer",
+                "verfiedtick":"https://i.ibb.co/3CbTD77/tick-circle.png",
+                "commentTitle":"Shade:Nude Queen",
+                "comment":"Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price",
+                "uploadedImages":[
+                    {
+                        "imageUrl":"https://i.ibb.co/zQLXPWt/image-19.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/QQ1JL8W/image-2.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/TL5r7Cq/image-2.png"
+                    }
+                ],
+                "postDate":"Posted on August 5,2022",
+                "queryText":"Was This Review Helpful",
+                "LikedImage":"https://i.ibb.co/DW6j8fX/Shape.png",
+                "likes":23
+            },
+            {
+                "id":20,
+                "userName": "Rajesh",
+                "userImage":"https://i.ibb.co/tHWT3rH/Avatar.png",
+                "rating":4,
+                "verified": true,
+                "verifeduser":"Verified Buyer",
+                "verfiedtick":"https://i.ibb.co/3CbTD77/tick-circle.png",
+                "commentTitle":"Shade:Nude Queen",
+                "comment":"Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price",
+                "uploadedImages":[
+                    {
+                        "imageUrl":"https://i.ibb.co/zQLXPWt/image-19.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/QQ1JL8W/image-2.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/TL5r7Cq/image-2.png"
+                    }
+                ],
+                "postDate":"Posted on July 5,2022",
+                "queryText":"Was This Review Helpful",
+                "LikedImage":"https://i.ibb.co/DW6j8fX/Shape.png",
+                "likes":24
+            },
+            {
+                "id":21,
+                "userName": "Mehta",
+                "userImage":"https://i.ibb.co/tHWT3rH/Avatar.png",
+                "rating":3,
+                "verified": true,
+                "verifeduser":"Verified Buyer",
+                "verfiedtick":"https://i.ibb.co/3CbTD77/tick-circle.png",
+                "commentTitle":"Shade:Nude Queen",
+                "comment":"Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price.Amazing Product! I found Extremely hydrating Got exactly what has been mentioned in the description.It is perfect for the people for Dry skin The specs are an absolute steal for the price.Good enough for the price",
+                "uploadedImages":[
+                    {
+                        "imageUrl":"https://i.ibb.co/zQLXPWt/image-19.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/QQ1JL8W/image-2.png"
+                    },
+                    {
+                        "imageUrl":"https://i.ibb.co/TL5r7Cq/image-2.png"
+                    }
+                ],
+                "postDate":"Posted on August 5,2022",
+                "queryText":"Was This Review Helpful",
+                "LikedImage":"https://i.ibb.co/DW6j8fX/Shape.png",
+                "likes":23
+            }
+        ]
+    }
+}

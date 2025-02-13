@@ -1,0 +1,56 @@
+{
+  "component": "webBlog",
+  "id": "007",
+  "title": "PERSONAL CARE",
+  "button": "VIEW ALL",
+  "items": [
+    {
+      "button": "Beauty",
+      "id": 4,
+      "imageUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/Beauty_One_30fe2c8c07.png",
+      "numberOfViews": "5.2k",
+      "shareIcon": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/share_Icon_895f141a62.png",
+      "shareText": "SHARE",
+      "subTitle": "Perfect palettes to light up your summer",
+      "viewsIcon": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/eye_b1c6870559.png",
+      "viewsText": "Views",
+      "readMore": "Read more"
+    },
+    {
+      "button": "Beauty",
+      "id": 2,
+      "imageUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/Beauty_One_30fe2c8c07.png",
+      "numberOfViews": "5.2k ",
+      "shareIcon": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/share_Icon_895f141a62.png",
+      "shareText": "SHARE",
+      "subTitle": "Perfect palettes to light up your summer",
+      "viewsIcon": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/eye_b1c6870559.png",
+      "viewsText": "Views",
+      "readMore": "Read more"
+    },
+    {
+      "button": "Beauty",
+      "id": 3,
+      "imageUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/Beauty_One_30fe2c8c07.png",
+      "numberOfViews": "5.2k ",
+      "shareIcon": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/share_Icon_895f141a62.png",
+      "shareText": "SHARE",
+      "subTitle": "Perfect palettes to light up your summer",
+      "viewsIcon": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/eye_b1c6870559.png",
+      "viewsText": "Views",
+      "readMore": "Read more"
+    },
+    {
+      "button": "Beauty",
+      "id": 4,
+      "imageUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/Beauty_One_30fe2c8c07.png",
+      "numberOfViews": "5.2k ",
+      "shareIcon": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/share_Icon_895f141a62.png",
+      "shareText": "SHARE",
+      "subTitle": "Perfect palettes to light up your summer",
+      "viewsIcon": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/eye_b1c6870559.png",
+      "viewsText": "Views",
+      "readMore": "Read more"
+    }
+  ]
+}

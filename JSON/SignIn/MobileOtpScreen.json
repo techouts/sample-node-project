@@ -1,0 +1,24 @@
+{
+  "__Component": "Otp",
+  "Id": "9876543",
+  "info": {
+    "signInTitle":"VERIFY WITH OTP",
+    "signUpTitle": "REGISTER WITH US",
+    "subTitle": "One last step! Enter the OTP sent to your phone number.",
+    "otptext": "OTP sent to ",
+    "resendTimer": "Resend in ",
+    "otpSms": "Didn’t receive an SMS?",
+    "resendOtp": "Resend OTP",
+    "button": "Verify OTP",
+    "invalidOTP": "Invalid OTP",
+    "signupText": "Don’t have an account? ",
+    "alertSms": "You have reached your maximum OTP limit. Please try to log in with your email ID or reach out to our customer care.",
+    "signuplink": "Sign up",
+    "signupDescription": "If you are already an existing user of Shoppers Stop kindly use the same credentials to sign in",
+    "ImageUrl": "https://i.ibb.co/sJ7PyTn/image-73.png",
+    "helpIconUrl": "https://i.ibb.co/xJwCdLh/message-question.png",
+    "helpText": "Help",
+    "ResendMessage": "An OTP has been sent again. ",
+    "invalidAttemptsCounter": 0
+  }
+}

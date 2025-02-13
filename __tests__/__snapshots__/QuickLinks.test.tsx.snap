@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Quick Guide renders Quick Links static page and creates a snapshot of the page 1`] = `
+<div>
+  <div
+    class="widget.quick-links1 MuiBox-root css-kcnfl6"
+  >
+    <div
+      class="MuiBox-root css-nqq86n"
+    >
+      <div
+        class="MuiBox-root css-5p2tng"
+      >
+        TOP CATEGORIES FOR YOU
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container css-1ngrv4g-MuiGrid-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 MuiGrid-grid-sm-12 MuiGrid-grid-md-12 MuiGrid-grid-lg-12 css-1fazpqo-MuiGrid-root"
+      >
+        <div
+          class="MuiBox-root css-tov9kk"
+        >
+          <img
+            alt="Top Categories"
+            class="css-so1bna"
+            src="https://cmsimages.ssbeauty.in/eyeliners_app_93915f1b3f.jpg"
+            width="100%"
+          />
+          <div
+            class="MuiGrid-root MuiGrid-container css-4mi3gg-MuiGrid-root"
+          >
+            Eyeliners
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Quick Links renders Quick Links static page and creates a snapshot of the page 1`] = `
+<div>
+  <div
+    class="widget.quick-links1 MuiBox-root css-kcnfl6"
+  >
+    <div
+      class="MuiBox-root css-nqq86n"
+    >
+      <div
+        class="MuiBox-root css-5p2tng"
+      >
+        TOP CATEGORIES FOR YOU
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container css-1ngrv4g-MuiGrid-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 MuiGrid-grid-sm-12 MuiGrid-grid-md-12 MuiGrid-grid-lg-12 css-1fazpqo-MuiGrid-root"
+      >
+        <div
+          class="MuiBox-root css-tov9kk"
+        >
+          <img
+            alt="Top Categories"
+            class="css-so1bna"
+            src="https://cmsimages.ssbeauty.in/eyeliners_app_93915f1b3f.jpg"
+            width="100%"
+          />
+          <div
+            class="MuiGrid-root MuiGrid-container css-4mi3gg-MuiGrid-root"
+          >
+            Eyeliners
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

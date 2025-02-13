@@ -1,0 +1,269 @@
+{
+    "__componentId": "widget.beauty-profile",
+    "id": "5555",
+    "bgColor": "#ffffff",
+    "bgPadding": "2% 6%",
+    "title": "Beauty Profile",
+    "items": [
+        {
+            "id": 1,
+            "imageUrl": "https://i.ibb.co/THj6B3N/Group-1116599941-3.png",
+            "mobileImageUrl": "https://i.ibb.co/9VQxqX7/Group-1116599941-4.png",
+            "title": "Build Your Beauty Profile",
+            "subTitle": "Based on your choices, we’ll curate a set of products you’ll love!",
+            "label": "Get Started"
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://i.ibb.co/RSkswbZ/Group-1116599941.png",
+            "mobileImageUrl": "https://i.ibb.co/mG2CTgx/unsplash-Ao-L-m-Vxprmk.png",
+            "title": "My skin Type is...",
+            "label": "SKIN TYPE",
+            "options": [
+                {
+                    "option_label": "Dry",
+                    "image": {
+                        "url": "https://i.ibb.co/VVZ1Knc/image-18.png"
+                    },
+                    "mobileImageUrl": {
+                        "url": "https://i.ibb.co/2NJbB8F/image-19.png"
+                    }
+                },
+                {
+                    "option_label": "Normal",
+                    "image": {
+                        "url": "https://i.ibb.co/8dS1HTX/image-17.png"
+                    },
+                    "mobileImageUrl": {
+                        "url": "https://i.ibb.co/hYS5bTs/image-18-5.png"
+                    }
+                },
+                {
+                    "option_label": "Combination",
+                    "image": {
+                        "url": "https://i.ibb.co/dpBQrH2/image-17-1.png"
+                    },
+                    "mobileImageUrl": {
+                        "url": "https://i.ibb.co/5RgW2Bd/image-17-4.png"
+                    }
+                },
+                {
+                    "option_label": "Oily",
+                    "image": {
+                        "url": "https://i.ibb.co/1nMJ2cr/image-75.png"
+                    },
+                    "mobileImageUrl": {
+                        "url": "https://i.ibb.co/0XMP31M/image-75-1.png"
+                    }
+                },
+                {
+                    "option_label": "Sensitive",
+                    "image": {
+                        "url": "https://i.ibb.co/WFxfgxr/image-17-2.png"
+                    },
+                    "mobileImageUrl": {
+                        "url": "https://i.ibb.co/rxF9CXL/image-18-6.png"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "imageUrl": "https://i.ibb.co/x33ktvF/Group-1116599941-1.png",
+            "mobileImageUrl": "https://i.ibb.co/FWt3ZWS/Group-1116599941-5.png",
+            "title": "My skin Tone is...",
+            "label": "SKIN TONE",
+            "options": [
+                {
+                    "option_label": "Fair",
+                    "image": {
+                        "url": "https://i.ibb.co/RHBHnYr/image-85.png"
+                    },
+                    "mobileImageUrl": {
+                        "url": "https://i.ibb.co/mD6KNBM/image-85-1.png"
+                    }
+                },
+                {
+                    "option_label": "Wheatish",
+                    "image": {
+                        "url": "https://i.ibb.co/WPfnC5p/image-87.png"
+                    },
+                    "mobileImageUrl": {
+                        "url": "https://i.ibb.co/WsCHQng/image-87-1.png"
+                    }
+                },
+                {
+                    "option_label": "Dusky",
+                    "image": {
+                        "url": "https://i.ibb.co/sJ7n2xs/image-88.png"
+                    },
+                    "mobileImageUrl": {
+                        "url": "https://i.ibb.co/82DdfLd/image-88-1.png"
+                    }
+                },
+                {
+                    "option_label": "Deep",
+                    "image": {
+                        "url": "https://i.ibb.co/XsTMDKF/image-86.png"
+                    },
+                    "mobileImageUrl": {
+                        "url": "https://i.ibb.co/HXDGJN0/image-86-1.png"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "imageUrl": "https://i.ibb.co/RSkswbZ/Group-1116599941.png",
+            "mobileImageUrl": "https://i.ibb.co/7JQGgYj/Group-1116599941-6.png",
+            "title": "My makeup personality is...",
+            "label": "MAKEUP",
+            "options": [
+                {
+                    "option_label": "Pop Princess",
+                    "image": {
+                        "url": "https://i.ibb.co/jkh2zz2/image-18-1.png"
+                    },
+                    "mobileImageUrl": {
+                        "url": "https://i.ibb.co/p2Tj6Vs/image-18-7.png"
+                    }
+                },
+                {
+                    "option_label": "Adventurous",
+                    "image": {
+                        "url": "https://i.ibb.co/fQbNRqw/image-83.png"
+                    },
+                    "mobileImageUrl": {
+                        "url": "https://i.ibb.co/c2ZbRSJ/image-83-1.png"
+                    }
+                },
+                {
+                    "option_label": "Romantic",
+                    "image": {
+                        "url": "https://i.ibb.co/KXDwXwW/image-18-2.png"
+                    },
+                    "mobileImageUrl": {
+                        "url": "https://i.ibb.co/8zr7wqM/image-19-1.png"
+                    }
+                },
+                {
+                    "option_label": "Glam Queen",
+                    "image": {
+                        "url": "https://i.ibb.co/ZcQHSFk/image-18-3.png"
+                    },
+                    "mobileImageUrl": {
+                        "url": "https://i.ibb.co/2kD5GPX/image-18-8.png"
+                    }
+                },
+                {
+                    "option_label": "Minimal",
+                    "image": {
+                        "url": "https://i.ibb.co/74TfWZt/image-18-4.png"
+                    },
+                    "mobileImageUrl": {
+                        "url": "https://i.ibb.co/DLRtBNn/image-19-2.png"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "imageUrl": "https://i.ibb.co/4TDt9LS/Group-1116599941-2.png",
+            "mobileImageUrl": "https://i.ibb.co/9VQxqX7/Group-1116599941-4.png",
+            "title": "My Hair type is...",
+            "label": "HAIR TYPE",
+            "options": [
+                {
+                    "option_label": "Straight",
+                    "image": {
+                        "url": "https://i.ibb.co/1LwxMj3/image-28-3.png"
+                    },
+                    "mobileImageUrl": {
+                        "url": "https://i.ibb.co/C0ZrFK7/image-28-4.png"
+                    }
+                },
+                {
+                    "option_label": "Wavy",
+                    "image": {
+                        "url": "https://i.ibb.co/BZPv0VL/image-79.png"
+                    },
+                    "mobileImageUrl": {
+                        "url": "https://i.ibb.co/PjKX6Gw/image-79-1.png"
+                    }
+                },
+                {
+                    "option_label": "Curly",
+                    "image": {
+                        "url": "https://i.ibb.co/k32mDFC/image-80.png"
+                    },
+                    "mobileImageUrl": {
+                        "url": "https://i.ibb.co/fnDmyc8/image-80-1.png"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "imageUrl": "https://i.ibb.co/x33ktvF/Group-1116599941-1.png",
+            "mobileImageUrl": "https://i.ibb.co/9VQxqX7/Group-1116599941-4.png",
+            "title": "I like my fragrances...",
+            "label": "FRAGRANCES",
+            "options": [
+                {
+                    "option_label": "Floral",
+                    "image": {
+                        "url": "https://i.ibb.co/kcbxPs2/image-29.png"
+                    },
+                    "mobileImageUrl": {
+                        "url": "https://i.ibb.co/tqq12n2/image-77.png"
+                    }
+                },
+                {
+                    "option_label": "Fresh",
+                    "image": {
+                        "url": "https://i.ibb.co/BgBmRRP/image-39-1.png"
+                    },
+                    "mobileImageUrl": {
+                        "url": "https://i.ibb.co/Srv7LS9/image-39-3.png"
+                    }
+                },
+                {
+                    "option_label": "Fruity",
+                    "image": {
+                        "url": "https://i.ibb.co/f435W9x/image-39-2.png"
+                    },
+                    "mobileImageUrl": {
+                        "url": "https://i.ibb.co/L9r3K99/image-41.png"
+                    }
+                },
+                {
+                    "option_label": "Earthy & Woody",
+                    "image": {
+                        "url": "https://i.ibb.co/P6PSw2m/image-81.png"
+                    },
+                    "mobileImageUrl": {
+                        "url": "https://i.ibb.co/LgQPTj7/image-81-1.png"
+                    }
+                },
+                {
+                    "option_label": "Warm & Spicy",
+                    "image": {
+                        "url": "https://i.ibb.co/N90PZmw/image-17-3.png"
+                    },
+                    "mobileImageUrl": {
+                        "url": "https://i.ibb.co/XYP4X2d/image-19-3.png"
+                    }
+                },
+                {
+                    "option_label": "Oudh",
+                    "image": {
+                        "url": "https://i.ibb.co/XJCjd2F/image-30.png"
+                    },
+                    "mobileImageUrl": {
+                        "url": "https://i.ibb.co/qNJk6GS/image-30-1.png"
+                    }
+                }
+            ]
+        }
+    ]
+}

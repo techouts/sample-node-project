@@ -1,0 +1,39 @@
+.title_text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.1em;
+  color: #1C191A;
+}
+.title_text_pdp {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.1em;
+  color: #1C191A;
+}
+.title_text_Bg {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.1em;
+  color: #fff;
+}
+@media screen and (max-width : 600px){
+  .title_text {
+  font-size:12px;
+  line-height:14px;
+  }
+  .title_text_Bg {
+    font-size:12px;
+    line-height:14px;
+  }
+  .title_text_pdp {
+    font-size:12px;
+    line-height:14px;
+    padding-top: 0px;
+  }
+ }

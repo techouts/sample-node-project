@@ -1,0 +1,43 @@
+{
+  "modalData": "Free Sample",
+  "heading": "SELECT 2 FREE SAMPLES",
+  "reset": "Reset Selection",
+  "data": [
+    {
+      "uid": "1",
+      "title": "Maybelline New York Fit Me Matte and Poreless Powder",
+      "image": "https://i.ibb.co/r6zdk2q/Screenshot-2022-04-28-at-9-29-1.png",
+      "buton": "REMOVE"
+    },
+    {
+      "uid": "2",
+      "title": "Maybelline New York Fit Me Matte and Poreless Powder",
+      "image": "https://i.ibb.co/r6zdk2q/Screenshot-2022-04-28-at-9-29-1.png",
+      "buton": "REMOVE"
+    },
+    {
+      "uid": "3",
+      "title": "Maybelline New York Fit Me Matte and Poreless Powder",
+      "image": "https://i.ibb.co/r6zdk2q/Screenshot-2022-04-28-at-9-29-1.png",
+      "buton": "REMOVE"
+    },
+    {
+      "uid": "4",
+      "title": "Maybelline New York Fit Me Matte and Poreless Powder",
+      "image": "https://i.ibb.co/r6zdk2q/Screenshot-2022-04-28-at-9-29-1.png",
+      "buton": "REMOVE"
+    },
+    {
+      "uid": "5",
+      "title": "Maybelline New York Fit Me Matte and Poreless Powder",
+      "image": "https://i.ibb.co/r6zdk2q/Screenshot-2022-04-28-at-9-29-1.png",
+      "buton": "REMOVE"
+    },
+    {
+      "uid": "6",
+      "title": "Maybelline New York Fit Me Matte and Poreless Powder",
+      "image": "https://i.ibb.co/r6zdk2q/Screenshot-2022-04-28-at-9-29-1.png",
+      "buton": "REMOVE"
+    }
+  ]
+}

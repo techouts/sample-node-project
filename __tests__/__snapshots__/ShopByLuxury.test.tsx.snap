@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Shop By Luxury  renders a shop by luxury component 1`] = `
+<div>
+  <div
+    class="MuiBox-root css-18hz1cm"
+  >
+    <div
+      class="MuiBox-root css-l57rop"
+    >
+      <div
+        class="MuiBox-root css-83no3v"
+      >
+        EXPERIENCE LUXURY
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root css-vj1n65-MuiGrid-root"
+    >
+      <div
+        class="MuiBox-root css-8atqhb"
+      >
+        <div
+          class="MuiBox-root css-t7vv4g"
+        >
+          <div
+            class="slick-slider slick-initialized"
+          >
+            
+            <div
+              class="slick-list"
+            >
+              <div
+                class="slick-track"
+                style="opacity: 1; transform: translate3d(0px, 0px, 0px);"
+              >
+                <div
+                  aria-hidden="false"
+                  class="slick-slide slick-active slick-current"
+                  data-index="0"
+                  style="outline: none; width: 0px;"
+                  tabindex="-1"
+                >
+                  <div>
+                    <div
+                      class="MuiBox-root css-1d8o3k"
+                    >
+                      <img
+                        alt="LuxuryCardImage"
+                        class="css-s08p0c"
+                        src="https://images-cms.sit.shopper-stop.in/Experience_Lux1_4df3d329a8.png"
+                      />
+                      <div
+                        class="MuiBox-root css-12pq0yk"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body1 css-1uk6g1r-MuiTypography-root"
+                        >
+                          Bestseller Starting At Rs 1,540 
+                        </p>
+                      </div>
+                      <div
+                        class="MuiBox-root css-e67j02"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body1 css-16dmanc-MuiTypography-root"
+                        >
+                          Bestseller Starting At Rs 1,540 
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

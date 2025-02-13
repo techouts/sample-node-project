@@ -1,0 +1,10 @@
+{
+  "id": 123,
+  "data": {
+    "title": "Easy Return Policy",
+    "bgColor": "#E5E5E5",
+    "bgPadding": "50px",
+    "text": "Returns/Replacements are accepted for unused products only in case of defects, damages during delivery, missing, or wrong products delivered. Return requests can be raised on the “My Orders” section within 15 days of delivery",
+    "button": "OKAY, GOT IT"
+  }
+}

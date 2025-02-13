@@ -1,0 +1,34 @@
+{
+  "listItems": [
+    {
+      "titleText": "FAQs",
+      "path":null,
+      "dataItems": [
+        {
+          "title": "How Do I Add A GIft Card  into my SSBeauty Wallet ?",
+          "Description": "Go to My Account -> My Wallet  -> Select Gift Card. Enter your 16 Digit Gift Card number and 6-digit Pin Number. ->Click Add balance To Account - >The balance of the Gift Card will be added to your SS Beatuy Wallet"
+        },
+        {
+          "title": "Where Can I Use My SSBeauty Balance ?",
+          "Description": "Go to My Account -> My Wallet  -> Select Gift Card."
+        },
+        {
+          "title": "What Happens If I Return The Items Which I have bought with SSBeauty Gift Card ?",
+          "Description": "Go to My Account -> My Wallet  -> Select Gift Card."
+        },
+        {
+          "title": "Can my SSBeauty wallet be suspended / closed ?",
+          "Description": "Go to My Account -> My Wallet  -> Select Gift Card."
+        },
+        {
+          "title": "Can I use partial SSBeauty wallet cash to pay for my product ?",
+          "Description": "Go to My Account -> My Wallet  -> Select Gift Card."
+        }
+      ]
+    },
+    {
+      "titleText": "Terms and Condtions",
+      "path":"/blog/author"
+    }
+  ]
+}

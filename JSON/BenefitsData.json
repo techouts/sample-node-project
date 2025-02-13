@@ -1,0 +1,224 @@
+{
+  "__component": "cleansing-blog",
+  "id": "0000",
+
+  "quickView": "QUICK VIEW",
+  "showButton": "[Show]",
+  "hideButton": "[Hide]",
+
+  "Info": {
+    "columns": 1,
+    "sameSide": true,
+    "Information": 
+      [
+        {
+        "headLine": "THE BEST FACE CLEANISING WIPES1",
+        "items": [
+          {
+            "title": "1. Best Makeup Remover Wipes",
+            "data": [
+              {
+                "imageUrl": "https://i.ibb.co/MV2X6w4/Rectangle-3899.png",
+                "mobileImageurl": "https://i.ibb.co/PCPrcWZ/Screen-Shot-2022-05-23-at-12-15-1-1.png",
+                "shadowImage": "https://i.ibb.co/ns8yLLS/Rectangle-3898.png",
+                "subTitle": "i. Neutrogena Mekup Remover Towelettes",
+                "description": "Alcohol-free and ultra-soft, the Neutrogena Makeup Remover Towelettes can instantly dissolve all the makeup and impurities on your face, leaving behind no heavy residue. They are gentle on the skin but when it comes to waterproof makeup, these face wipes for women give their hundred percent! There's no need to rinse and moisturize your face after rubbing it with these wipes as they are not just effective cleansers but also powerful hydrating agents."
+              },
+              {
+                "imageUrl": "https://i.ibb.co/ckxFCBk/Rectangle-3905.png",
+                "mobileImageurl": "https://i.ibb.co/PCPrcWZ/Screen-Shot-2022-05-23-at-12-15-1-1.png",
+                "shadowImage": "https://i.ibb.co/ns8yLLS/Rectangle-3898.png",
+                "subTitle": "ii. Colorbar On The Go Makeup Remover Wipes",
+                "description": "Infused with the goodness of aloe vera, chamomile, and glycerin, the Colorbar On The Go Makeup Remover Wipes are every woman’s best friend. They can get rid of stubborn, smudge-proof makeup in no time. Moreover, crafted with so much natural goodness, these paraben-free makeup remover wipes also nourish the skin. So, you need not worry about makeup damaging your skin anymore."
+              },
+              {
+                "imageUrl": "https://i.ibb.co/MV2X6w4/Rectangle-3899.png",
+                "mobileImageurl": "https://i.ibb.co/PCPrcWZ/Screen-Shot-2022-05-23-at-12-15-1-1.png",
+                "shadowImage": "https://i.ibb.co/ns8yLLS/Rectangle-3898.png",
+                "subTitle": "iii. Neutrogena Mekup Remover Towelettes",
+                "description": "Alcohol-free and ultra-soft, the Neutrogena Makeup Remover Towelettes can instantly dissolve all the makeup and impurities on your face, leaving behind no heavy residue. They are gentle on the skin but when it comes to waterproof makeup, these face wipes for women give their hundred percent! There's no need to rinse and moisturize your face after rubbing it with these wipes as they are not just effective cleansers but also powerful hydrating agents."
+              },
+              {
+                "imageUrl": "https://i.ibb.co/ckxFCBk/Rectangle-3905.png",
+                "mobileImageurl": "https://i.ibb.co/PCPrcWZ/Screen-Shot-2022-05-23-at-12-15-1-1.png",
+                "shadowImage": "https://i.ibb.co/ns8yLLS/Rectangle-3898.png",
+                "subTitle": "iv. Colorbar On The Go Makeup Remover Wipes",
+                "description": "Infused with the goodness of aloe vera, chamomile, and glycerin, the Colorbar On The Go Makeup Remover Wipes are every woman’s best friend. They can get rid of stubborn, smudge-proof makeup in no time. Moreover, crafted with so much natural goodness, these paraben-free makeup remover wipes also nourish the skin. So, you need not worry about makeup damaging your skin anymore."
+              }
+            ]
+          },
+          {
+            "title": "2. Best Makeup Cleansing Wipes",
+            "data": [
+              {
+                "imageUrl": "https://i.ibb.co/MV2X6w4/Rectangle-3899.png",
+                "mobileImageurl": "https://i.ibb.co/PCPrcWZ/Screen-Shot-2022-05-23-at-12-15-1-1.png",
+                "shadowImage": "https://i.ibb.co/ns8yLLS/Rectangle-3898.png",
+                "subTitle": "i. Neutrogena Mekup Remover Towelettes",
+                "description": "Alcohol-free and ultra-soft, the Neutrogena Makeup Remover Towelettes can instantly dissolve all the makeup and impurities on your face, leaving behind no heavy residue. They are gentle on the skin but when it comes to waterproof makeup, these face wipes for women give their hundred percent! There's no need to rinse and moisturize your face after rubbing it with these wipes as they are not just effective cleansers but also powerful hydrating agents."
+              },
+              {
+                "imageUrl": "https://i.ibb.co/ckxFCBk/Rectangle-3905.png",
+                "mobileImageurl": "https://i.ibb.co/PCPrcWZ/Screen-Shot-2022-05-23-at-12-15-1-1.png",
+                "shadowImage": "https://i.ibb.co/ns8yLLS/Rectangle-3898.png",
+                "subTitle": "ii. Colorbar On The Go Makeup Remover Wipes",
+                "description": "Infused with the goodness of aloe vera, chamomile, and glycerin, the Colorbar On The Go Makeup Remover Wipes are every woman’s best friend. They can get rid of stubborn, smudge-proof makeup in no time. Moreover, crafted with so much natural goodness, these paraben-free makeup remover wipes also nourish the skin. So, you need not worry about makeup damaging your skin anymore."
+              },
+              {
+                "imageUrl": "https://i.ibb.co/MV2X6w4/Rectangle-3899.png",
+                "mobileImageurl": "https://i.ibb.co/PCPrcWZ/Screen-Shot-2022-05-23-at-12-15-1-1.png",
+                "shadowImage": "https://i.ibb.co/ns8yLLS/Rectangle-3898.png",
+                "subTitle": "iii. Neutrogena Mekup Remover Towelettes",
+                "description": "Alcohol-free and ultra-soft, the Neutrogena Makeup Remover Towelettes can instantly dissolve all the makeup and impurities on your face, leaving behind no heavy residue. They are gentle on the skin but when it comes to waterproof makeup, these face wipes for women give their hundred percent! There's no need to rinse and moisturize your face after rubbing it with these wipes as they are not just effective cleansers but also powerful hydrating agents."
+              },
+              {
+                "imageUrl": "https://i.ibb.co/ckxFCBk/Rectangle-3905.png",
+                "mobileImageurl": "https://i.ibb.co/PCPrcWZ/Screen-Shot-2022-05-23-at-12-15-1-1.png",
+                "shadowImage": "https://i.ibb.co/ns8yLLS/Rectangle-3898.png",
+                "subTitle": "iv. Colorbar On The Go Makeup Remover Wipes",
+                "description": "Infused with the goodness of aloe vera, chamomile, and glycerin, the Colorbar On The Go Makeup Remover Wipes are every woman’s best friend. They can get rid of stubborn, smudge-proof makeup in no time. Moreover, crafted with so much natural goodness, these paraben-free makeup remover wipes also nourish the skin. So, you need not worry about makeup damaging your skin anymore."
+              }
+            ]
+          },
+          {
+            "title": "3. Best Makeup Cleansing content123",
+            "data": [
+              {
+                "imageUrl": "https://i.ibb.co/MV2X6w4/Rectangle-3899.png",
+                "mobileImageurl": "https://i.ibb.co/PCPrcWZ/Screen-Shot-2022-05-23-at-12-15-1-1.png",
+                "shadowImage": "https://i.ibb.co/ns8yLLS/Rectangle-3898.png",
+                "title": "3. Best Makeup Cleansing content123",
+                "subTitle": "i. Neutrogena Mekup Remover Towelettes",
+                "description": "Alcohol-free and ultra-soft, the Neutrogena Makeup Remover Towelettes can instantly dissolve all the makeup and impurities on your face, leaving behind no heavy residue. They are gentle on the skin but when it comes to waterproof makeup, these face wipes for women give their hundred percent! There's no need to rinse and moisturize your face after rubbing it with these wipes as they are not just effective cleansers but also powerful hydrating agents."
+              },
+              {
+                "imageUrl": "https://i.ibb.co/ckxFCBk/Rectangle-3905.png",
+                "mobileImageurl": "https://i.ibb.co/PCPrcWZ/Screen-Shot-2022-05-23-at-12-15-1-1.png",
+                "shadowImage": "https://i.ibb.co/ns8yLLS/Rectangle-3898.png",
+                "subTitle": "ii. Colorbar On The Go Makeup Remover Wipes",
+                "description": "Infused with the goodness of aloe vera, chamomile, and glycerin, the Colorbar On The Go Makeup Remover Wipes are every woman’s best friend. They can get rid of stubborn, smudge-proof makeup in no time. Moreover, crafted with so much natural goodness, these paraben-free makeup remover wipes also nourish the skin. So, you need not worry about makeup damaging your skin anymore."
+              },
+              {
+                "imageUrl": "https://i.ibb.co/MV2X6w4/Rectangle-3899.png",
+                "mobileImageurl": "https://i.ibb.co/PCPrcWZ/Screen-Shot-2022-05-23-at-12-15-1-1.png",
+                "shadowImage": "https://i.ibb.co/ns8yLLS/Rectangle-3898.png",
+                "subTitle": "iii. Neutrogena Mekup Remover Towelettes",
+                "description": "Alcohol-free and ultra-soft, the Neutrogena Makeup Remover Towelettes can instantly dissolve all the makeup and impurities on your face, leaving behind no heavy residue. They are gentle on the skin but when it comes to waterproof makeup, these face wipes for women give their hundred percent! There's no need to rinse and moisturize your face after rubbing it with these wipes as they are not just effective cleansers but also powerful hydrating agents."
+              },
+              {
+                "imageUrl": "https://i.ibb.co/ckxFCBk/Rectangle-3905.png",
+                "mobileImageurl": "https://i.ibb.co/PCPrcWZ/Screen-Shot-2022-05-23-at-12-15-1-1.png",
+                "shadowImage": "https://i.ibb.co/ns8yLLS/Rectangle-3898.png",
+                "subTitle": "iv. Colorbar On The Go Makeup Remover Wipes",
+                "description": "Infused with the goodness of aloe vera, chamomile, and glycerin, the Colorbar On The Go Makeup Remover Wipes are every woman’s best friend. They can get rid of stubborn, smudge-proof makeup in no time. Moreover, crafted with so much natural goodness, these paraben-free makeup remover wipes also nourish the skin. So, you need not worry about makeup damaging your skin anymore."
+              }
+            ]
+          }
+        ]},
+        {
+          "headLine": "THE BEST FACE CLEANISING WIPES155",
+          "items": [
+            {
+              "title": "1. Best Makeup Remover Wipes44",
+              "data": [
+                {
+                  "imageUrl": "https://i.ibb.co/MV2X6w4/Rectangle-3899.png",
+                  "mobileImageurl": "https://i.ibb.co/PCPrcWZ/Screen-Shot-2022-05-23-at-12-15-1-1.png",
+                  "shadowImage": "https://i.ibb.co/ns8yLLS/Rectangle-3898.png",
+                  "subTitle": "i. Neutrogena Mekup Remover Towelettes",
+                  "description": "Alcohol-free and ultra-soft, the Neutrogena Makeup Remover Towelettes can instantly dissolve all the makeup and impurities on your face, leaving behind no heavy residue. They are gentle on the skin but when it comes to waterproof makeup, these face wipes for women give their hundred percent! There's no need to rinse and moisturize your face after rubbing it with these wipes as they are not just effective cleansers but also powerful hydrating agents."
+                },
+                {
+                  "imageUrl": "https://i.ibb.co/ckxFCBk/Rectangle-3905.png",
+                  "mobileImageurl": "https://i.ibb.co/PCPrcWZ/Screen-Shot-2022-05-23-at-12-15-1-1.png",
+                  "shadowImage": "https://i.ibb.co/ns8yLLS/Rectangle-3898.png",
+                  "subTitle": "ii. Colorbar On The Go Makeup Remover Wipes",
+                  "description": "Infused with the goodness of aloe vera, chamomile, and glycerin, the Colorbar On The Go Makeup Remover Wipes are every woman’s best friend. They can get rid of stubborn, smudge-proof makeup in no time. Moreover, crafted with so much natural goodness, these paraben-free makeup remover wipes also nourish the skin. So, you need not worry about makeup damaging your skin anymore."
+                },
+                {
+                  "imageUrl": "https://i.ibb.co/MV2X6w4/Rectangle-3899.png",
+                  "mobileImageurl": "https://i.ibb.co/PCPrcWZ/Screen-Shot-2022-05-23-at-12-15-1-1.png",
+                  "shadowImage": "https://i.ibb.co/ns8yLLS/Rectangle-3898.png",
+                  "subTitle": "iii. Neutrogena Mekup Remover Towelettes",
+                  "description": "Alcohol-free and ultra-soft, the Neutrogena Makeup Remover Towelettes can instantly dissolve all the makeup and impurities on your face, leaving behind no heavy residue. They are gentle on the skin but when it comes to waterproof makeup, these face wipes for women give their hundred percent! There's no need to rinse and moisturize your face after rubbing it with these wipes as they are not just effective cleansers but also powerful hydrating agents."
+                },
+                {
+                  "imageUrl": "https://i.ibb.co/ckxFCBk/Rectangle-3905.png",
+                  "mobileImageurl": "https://i.ibb.co/PCPrcWZ/Screen-Shot-2022-05-23-at-12-15-1-1.png",
+                  "shadowImage": "https://i.ibb.co/ns8yLLS/Rectangle-3898.png",
+                  "subTitle": "iv. Colorbar On The Go Makeup Remover Wipes",
+                  "description": "Infused with the goodness of aloe vera, chamomile, and glycerin, the Colorbar On The Go Makeup Remover Wipes are every woman’s best friend. They can get rid of stubborn, smudge-proof makeup in no time. Moreover, crafted with so much natural goodness, these paraben-free makeup remover wipes also nourish the skin. So, you need not worry about makeup damaging your skin anymore."
+                }
+              ]
+            },
+            {
+              "title": "2. Best Makeup Cleansing Wipes444",
+              "data": [
+                {
+                  "imageUrl": "https://i.ibb.co/MV2X6w4/Rectangle-3899.png",
+                  "mobileImageurl": "https://i.ibb.co/PCPrcWZ/Screen-Shot-2022-05-23-at-12-15-1-1.png",
+                  "shadowImage": "https://i.ibb.co/ns8yLLS/Rectangle-3898.png",
+                  "subTitle": "i. Neutrogena Mekup Remover Towelettes",
+                  "description": "Alcohol-free and ultra-soft, the Neutrogena Makeup Remover Towelettes can instantly dissolve all the makeup and impurities on your face, leaving behind no heavy residue. They are gentle on the skin but when it comes to waterproof makeup, these face wipes for women give their hundred percent! There's no need to rinse and moisturize your face after rubbing it with these wipes as they are not just effective cleansers but also powerful hydrating agents."
+                },
+                {
+                  "imageUrl": "https://i.ibb.co/ckxFCBk/Rectangle-3905.png",
+                  "mobileImageurl": "https://i.ibb.co/PCPrcWZ/Screen-Shot-2022-05-23-at-12-15-1-1.png",
+                  "shadowImage": "https://i.ibb.co/ns8yLLS/Rectangle-3898.png",
+                  "subTitle": "ii. Colorbar On The Go Makeup Remover Wipes",
+                  "description": "Infused with the goodness of aloe vera, chamomile, and glycerin, the Colorbar On The Go Makeup Remover Wipes are every woman’s best friend. They can get rid of stubborn, smudge-proof makeup in no time. Moreover, crafted with so much natural goodness, these paraben-free makeup remover wipes also nourish the skin. So, you need not worry about makeup damaging your skin anymore."
+                },
+                {
+                  "imageUrl": "https://i.ibb.co/MV2X6w4/Rectangle-3899.png",
+                  "mobileImageurl": "https://i.ibb.co/PCPrcWZ/Screen-Shot-2022-05-23-at-12-15-1-1.png",
+                  "shadowImage": "https://i.ibb.co/ns8yLLS/Rectangle-3898.png",
+                  "subTitle": "iii. Neutrogena Mekup Remover Towelettes",
+                  "description": "Alcohol-free and ultra-soft, the Neutrogena Makeup Remover Towelettes can instantly dissolve all the makeup and impurities on your face, leaving behind no heavy residue. They are gentle on the skin but when it comes to waterproof makeup, these face wipes for women give their hundred percent! There's no need to rinse and moisturize your face after rubbing it with these wipes as they are not just effective cleansers but also powerful hydrating agents."
+                },
+                {
+                  "imageUrl": "https://i.ibb.co/ckxFCBk/Rectangle-3905.png",
+                  "mobileImageurl": "https://i.ibb.co/PCPrcWZ/Screen-Shot-2022-05-23-at-12-15-1-1.png",
+                  "shadowImage": "https://i.ibb.co/ns8yLLS/Rectangle-3898.png",
+                  "subTitle": "iv. Colorbar On The Go Makeup Remover Wipes",
+                  "description": "Infused with the goodness of aloe vera, chamomile, and glycerin, the Colorbar On The Go Makeup Remover Wipes are every woman’s best friend. They can get rid of stubborn, smudge-proof makeup in no time. Moreover, crafted with so much natural goodness, these paraben-free makeup remover wipes also nourish the skin. So, you need not worry about makeup damaging your skin anymore."
+                }
+              ]
+            },
+            {
+              "title": "3. Best Makeup Cleansing content123666",
+              "data": [
+                {
+                  "imageUrl": "https://i.ibb.co/MV2X6w4/Rectangle-3899.png",
+                  "mobileImageurl": "https://i.ibb.co/PCPrcWZ/Screen-Shot-2022-05-23-at-12-15-1-1.png",
+                  "shadowImage": "https://i.ibb.co/ns8yLLS/Rectangle-3898.png",
+                  "title": "3. Best Makeup Cleansing content123",
+                  "subTitle": "i. Neutrogena Mekup Remover Towelettes",
+                  "description": "Alcohol-free and ultra-soft, the Neutrogena Makeup Remover Towelettes can instantly dissolve all the makeup and impurities on your face, leaving behind no heavy residue. They are gentle on the skin but when it comes to waterproof makeup, these face wipes for women give their hundred percent! There's no need to rinse and moisturize your face after rubbing it with these wipes as they are not just effective cleansers but also powerful hydrating agents."
+                },
+                {
+                  "imageUrl": "https://i.ibb.co/ckxFCBk/Rectangle-3905.png",
+                  "mobileImageurl": "https://i.ibb.co/PCPrcWZ/Screen-Shot-2022-05-23-at-12-15-1-1.png",
+                  "shadowImage": "https://i.ibb.co/ns8yLLS/Rectangle-3898.png",
+                  "subTitle": "ii. Colorbar On The Go Makeup Remover Wipes",
+                  "description": "Infused with the goodness of aloe vera, chamomile, and glycerin, the Colorbar On The Go Makeup Remover Wipes are every woman’s best friend. They can get rid of stubborn, smudge-proof makeup in no time. Moreover, crafted with so much natural goodness, these paraben-free makeup remover wipes also nourish the skin. So, you need not worry about makeup damaging your skin anymore."
+                },
+                {
+                  "imageUrl": "https://i.ibb.co/MV2X6w4/Rectangle-3899.png",
+                  "mobileImageurl": "https://i.ibb.co/PCPrcWZ/Screen-Shot-2022-05-23-at-12-15-1-1.png",
+                  "shadowImage": "https://i.ibb.co/ns8yLLS/Rectangle-3898.png",
+                  "subTitle": "iii. Neutrogena Mekup Remover Towelettes",
+                  "description": "Alcohol-free and ultra-soft, the Neutrogena Makeup Remover Towelettes can instantly dissolve all the makeup and impurities on your face, leaving behind no heavy residue. They are gentle on the skin but when it comes to waterproof makeup, these face wipes for women give their hundred percent! There's no need to rinse and moisturize your face after rubbing it with these wipes as they are not just effective cleansers but also powerful hydrating agents."
+                },
+                {
+                  "imageUrl": "https://i.ibb.co/ckxFCBk/Rectangle-3905.png",
+                  "mobileImageurl": "https://i.ibb.co/PCPrcWZ/Screen-Shot-2022-05-23-at-12-15-1-1.png",
+                  "shadowImage": "https://i.ibb.co/ns8yLLS/Rectangle-3898.png",
+                  "subTitle": "iv. Colorbar On The Go Makeup Remover Wipes",
+                  "description": "Infused with the goodness of aloe vera, chamomile, and glycerin, the Colorbar On The Go Makeup Remover Wipes are every woman’s best friend. They can get rid of stubborn, smudge-proof makeup in no time. Moreover, crafted with so much natural goodness, these paraben-free makeup remover wipes also nourish the skin. So, you need not worry about makeup damaging your skin anymore."
+                }
+              ]
+            }
+          ]}
+      ]   
+  }
+}

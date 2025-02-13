@@ -1,0 +1,157 @@
+{
+  "data": {
+    "products": {
+      "total_count": 12,
+      "items": [
+        {
+          "name": "Playboy Mens Generation M Eau De Toilette Deodorant Set (17-2-20%)",
+          "media_gallery": [
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/7/1/71k1utdvhal._sl1500_.jpg"
+            }
+          ],
+          "sku": "203096527",
+          "short_description": {
+            "html": "<p>With the Playboy Generation gift set, engagement is your aim and no aim is too high. Playboy Generation Eau De Toilette is a warm aromatic scent which starts with energising flavours. Playboy Skin Touch Generation Deodorant has intense, sensual, and masculine fragrance keeping you fresh and rejuvenated</p>"
+          },
+          "review_count": 0,
+          "rating_summary": 0,
+          "reviews": {
+            "items": []
+          },
+          "formulation": 21,
+          "pro_type": 201,
+          "is_featured_checkbox": null,
+          "gift_message_available": "2",
+          "is_best_seller_checkbox": null,
+          "image": {
+            "url": "https://i.im.ge/2022/06/09/rkDqDC.png"
+          },
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 999,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        },
+        {
+          "name": "Mocesma Womens Celeb Aqua Pour Femme Eau De Parfum 110 m",
+          "media_gallery": [
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image.png"
+            }
+          ],
+          "sku": "A21MOCEMS920226",
+          "short_description": {
+            "html": "<p>Inspired by a star-studded night on the beach among sand and gigantic waves, Celeb Aqua Pour Femme Eau De Parfum starts off fruitily with juicy golden apple, but transforms into a floral bouquet bursting with white and yellow roses and jasmine concrete paired with base notes of white musk and amber with an aqua touch!</p>\r\n<p>Far sweeter than your memory of feeling &amp; smelling surreal like a celebrity, this classic fragrance is all about the sparkle in this dreamy world and more. It's exactly what you'd expect Mocemsa exclusive scents to smell like - divine.</p>\r\n<p>This might be your signature scent - lightweight, long-lasting, and incredibly versatile. Whether you spritz it on for a day of running errands or load up for date night, it adds a touch of sophistication nevertheless.</p>"
+          },
+          "review_count": 0,
+          "rating_summary": 0,
+          "reviews": {
+            "items": []
+          },
+          "formulation": 21,
+          "pro_type": 199,
+          "is_featured_checkbox": null,
+          "gift_message_available": "2",
+          "is_best_seller_checkbox": null,
+          "image": {
+            "url": "https://i.im.ge/2022/06/09/rkDqDC.png"
+          },
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 999,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        },
+        {
+          "name": "Bobbi Brown Extra Repair Serum 30ml/1oz",
+          "media_gallery": [
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/m/i/microsoftteams-image_2__3.png"
+            }
+          ],
+          "sku": "7867029",
+          "short_description": {
+            "html": "<p>Luxurious and milky, this concentrated repair serum comforts skin as it firms and moisturizes</p>"
+          },
+          "review_count": 0,
+          "rating_summary": 0,
+          "reviews": {
+            "items": []
+          },
+          "formulation": 387,
+          "pro_type": 199,
+          "is_featured_checkbox": null,
+          "gift_message_available": "2",
+          "is_best_seller_checkbox": null,
+          "image": {
+            "url": "https://i.im.ge/2022/06/09/rkDqDC.png"
+          },
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 800,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        },        
+        {
+          "name": "Playboy Mens Generation M Eau De Toilette Deodorant Set (17-2-20%)",
+          "media_gallery": [
+            {
+              "url": "http://43.204.30.21/media/catalog/product/cache/f8a4b7d93915c41c1f7098905f8cfd2a/7/1/71k1utdvhal._sl1500_.jpg"
+            }
+          ],
+          "sku": "203096527",
+          "short_description": {
+            "html": "<p>With the Playboy Generation gift set, engagement is your aim and no aim is too high. Playboy Generation Eau De Toilette is a warm aromatic scent which starts with energising flavours. Playboy Skin Touch Generation Deodorant has intense, sensual, and masculine fragrance keeping you fresh and rejuvenated</p>"
+          },
+          "review_count": 0,
+          "rating_summary": 0,
+          "reviews": {
+            "items": []
+          },
+          "formulation": 21,
+          "pro_type": 201,
+          "is_featured_checkbox": null,
+          "gift_message_available": "2",
+          "is_best_seller_checkbox": null,
+          "image": {
+            "url": "https://i.im.ge/2022/06/09/rkDqDC.png"
+          },
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 999,
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

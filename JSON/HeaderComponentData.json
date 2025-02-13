@@ -1,0 +1,127 @@
+{
+  "id": 1,
+  "bgColor": "#FFFFFF",
+  "bgPadding": "0 5%",
+  "logoImageUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/ssb_logo_18083e0a02.png",
+  "logoPath": "/home",
+  "searchIconUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.dev.shopper-stop.in/searchiconhigh_bdf2dd6ebc.png",
+  "searchText": "Tell us what are you looking for",
+  "signInText": "Sign In",
+  "signInPath": "#",
+  "userIconUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/usericon_2_a33a4c5d3d.png",
+  "userIconPath": "#",
+  "ctaLabel": "Join in the <span>First Citizen</span>",
+  "ctaLabelBgColor": "#AD184C",
+  "ctaLabelColor": "#FFFFFF",
+  "ctaLabelUrl": "#",
+  "wishListIconUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.dev.shopper-stop.in/wishlisticonbig_e4fae858cb.png",
+  "wishListPath": "/account/wishlist",
+  "cartIconUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.dev.shopper-stop.in/carticonbig_bdc9719769.png",
+  "cartIconPath": "/cart",
+  "crossIconUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/Close_Icon_d9fbfbe525.png",
+  "topIconUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/location_308c6e8c9e.png",
+  "display": null,
+  "items": [
+    {
+      "id": 1,
+      "text": "Category",
+      "isNewTab": false,
+      "webUrl": "https://play.google.com/store/apps/details?id=shoppersstop.shoppersstop&hl=en",
+      "mobileText": "Get The App",
+      "mobileIconUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/mobile_17d633070b.png",
+      "subItems": []
+    },
+    {
+      "id": 2,
+      "text": "Luxe",
+      "isNewTab": false,
+      "webUrl": "/gift-cards/giftcard",
+      "mobileText": "Gift Card",
+      "mobileIconUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/gift_491725bbb8.png",
+      "subItems": []
+    },
+    {
+      "id": 3,
+      "text": "Brands",
+      "isNewTab": false,
+      "webUrl": "",
+      "mobileText": "Stores and Events",
+      "mobileIconUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/receipt_2_268c4c9d70.png",
+      "subItems": []
+    },
+    {
+      "id": 4,
+      "text": "Beauty Advice",
+      "isNewTab": false,
+      "webUrl": "/miscs/help-center",
+      "mobileText": "Help",
+      "mobileIconUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/Help_fdcdea5a57.png",
+      "subItems": [
+        {
+          "id": 4,
+          "bgColor": "#FFFFFF",
+          "bgPadding": "0 2%",
+          "title": "The Beauty Stop",
+          "subTitle": "Check Out The Latest Beauty Edit",
+          "imgUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.dev.shopper-stop.in/Beauty_Adviceweb1_fa27b71cc0.png",
+          "imgUrlMobile": "https://s3.ap-south-1.amazonaws.com/images-cms.dev.shopper-stop.in/Beauty_Advice_Msite1_a49af0e78f.png",
+          "path": "/blog/home"
+        },
+        {
+          "id": 5,
+          "bgColor": "#FFFFFF",
+          "bgPadding": "0 2%",
+          "title": "Buying Guides",
+          "subTitle": "Shop Better With Our Guided Selling Stores",
+          "imgUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.dev.shopper-stop.in/Beauty_Adviceweb2_c7d6a8ed7f.png",
+          "imgUrlMobile": "https://s3.ap-south-1.amazonaws.com/images-cms.dev.shopper-stop.in/Beaut_Advice_Msite2_fe5002a468.png",
+          "path": "/miscs/buying-guide"
+        },
+        {
+          "id": 6,
+          "bgColor": "#FFFFFF",
+          "bgPadding": "0 2%",
+          "title": "Videos",
+          "subTitle": "Learn The Latest Beauty Hacks, Tricks And Tips",
+          "imgUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.dev.shopper-stop.in/Beauty_Adviceweb3_12259dcfb1.png",
+          "imgUrlMobile": "https://s3.ap-south-1.amazonaws.com/images-cms.dev.shopper-stop.in/Beauty_Advice_Msite3_f189a78da1.png",
+          "path": "/miscs/videos-all"
+        }
+      ]
+    }
+  ],
+  "topItems": [
+    {
+      "id": 1,
+      "iconUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/mobile_17d633070b.png",
+      "iconText": "Get The App",
+      "iconPath": "https://play.google.com/store/apps/details?id=shoppersstop.shoppersstop&hl=en",
+      "identifier": null,
+      "path": "https://play.google.com/store/apps/details?id=shoppersstop.shoppersstop&hl=en"
+    },
+    {
+      "id": 2,
+      "iconUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/gift_491725bbb8.png",
+      "iconText": "Gift Card",
+      "iconPath": "/gift-cards/giftcard",
+      "identifier": null,
+      "path": "https://play.google.com/store/apps/details?id=shoppersstop.shoppersstop&hl=en"
+    },
+    {
+      "id": 3,
+      "iconUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/receipt_2_268c4c9d70.png",
+      "iconText": "Stores and Events",
+      "iconPath": "/miscs/store",
+      "identifier": null,
+      "path": "/miscs/store"
+    },
+    {
+      "id": 4,
+      "iconUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/Help_fdcdea5a57.png",
+      "iconText": "Help",
+      "iconPath": "https://play.google.com/store/apps/details?id=shoppersstop.shoppersstop&hl=en",
+      "identifier": null,
+      "path": "https://play.google.com/store/apps/details?id=shoppersstop.shoppersstop&hl=en"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "sslLoyaltyDetailData": {
+  "barcodeImage": "iVBORw0KGgoAAAANSUhEUgAAAHsAAAAZCAIAAACemcZ5AAAAc0lEQVR42u3QMQ7AIAgAQP7/aZrUlAFs7NLtHAwqqFzEPTJzzSuozVrOo7eEfMasqsIZHN9qwZfkdvPxt9vPV9yqWlPbG1qDMSGIEydOnDhx4sSJEydOnDhx4sSJEydOnDhx4sSJEydOnDhx4sSJE/9Z/AJB8zi3vj2GJwAAAABJRU5ErkJggg==",
+  "cardDesc": "Golden Glow",
+  "cardValidDate": "31-Mar-2021",
+  "dateOfLastLinkingAttempt": "Fri Jul 15 21:35:02 IST 2022",
+  "fccCardImage": "https://uatimages.shopper-stop.in/sys-master/images/hf6/h9a/14827051155486/GG_wo_name.gif",
+  "isLinked": true,
+  "isLocked": false,
+  "isTermsAccepted": true,
+  "nameOnCard": "R Satish",
+  "numberOfChildren": 0,
+  "optionEmail": false,
+  "optionMail": false,
+  "optionMobile": false,
+  "optionTele": false,
+  "original16DigitCardNumber": "2210911400270641",
+  "original16DigitCardNumberFormatted": "2210 9114 0027 0641 ",
+  "primaryCardNumber": "2210911400270641",
+  "selfEmployed": false,
+  "tier": "Tier2"
+  }
+}

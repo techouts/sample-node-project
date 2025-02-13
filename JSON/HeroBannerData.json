@@ -1,0 +1,36 @@
+{
+  "__component": "hero-banner",
+  "id": 1234,
+    "bgColor": "#ffffff",
+    "bgPadding": "0% 5% ",
+    "autoPlay": true,
+    "controlType": "dots",
+    "items": [
+      {
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.dev.shopper-stop.in/plp_banner_web_1be8a6808a.png",
+        "imageUrlMobile": "https://s3.ap-south-1.amazonaws.com/images-cms.dev.shopper-stop.in/plp_banner_mobile_1ebcaf0f5c.png",
+        "path": "/components",
+        "isNewTab": true
+      },
+      {
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.dev.shopper-stop.in/plp_banner_web_1be8a6808a.png",
+        "imageUrlMobile": "https://s3.ap-south-1.amazonaws.com/images-cms.dev.shopper-stop.in/plp_banner_mobile_1ebcaf0f5c.png",
+        "path": "#",
+        "isNewTab": true
+      },
+
+      {
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.dev.shopper-stop.in/plp_banner_web_1be8a6808a.png",
+        "imageUrlMobile": "https://s3.ap-south-1.amazonaws.com/images-cms.dev.shopper-stop.in/plp_banner_mobile_1ebcaf0f5c.png",
+        "path": "/components",
+        "isNewTab": false
+      },
+      {
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.dev.shopper-stop.in/plp_banner_web_1be8a6808a.png",
+        "imageUrlMobile": "https://s3.ap-south-1.amazonaws.com/images-cms.dev.shopper-stop.in/plp_banner_mobile_1ebcaf0f5c.png",
+        "path": "#",
+        "isNewTab": true
+      }
+    ]
+  }
+

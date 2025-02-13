@@ -1,0 +1,40 @@
+{
+    "__component": "widget.multi-showcase",
+    "id": "1007",
+    "bgColor": "#f6f6f6",
+    "bgPadding": "2% 5%",
+    "title": "category in focus",
+    "itemPadding": "",
+    "itemStyle": "",
+    "contentLeft": true,
+    "contentSection": {
+        "bgColor": "#FFFFFF",
+        "textColor":"#231F20",
+        "imageUrl": "https://i.ibb.co/cCWndvz/Skincare.png",
+        "mobileImageUrl": "https://i.ibb.co/ssjDnpg/Skincare-1.png",
+        "content": "Pamper your skin a little more everyday. Wake up with the soft plump skin that you have dreamt of"
+    },
+    "items": [
+        {
+            "imageUrl": "https://i.ibb.co/FzgPFxr/Rectangle-2238.png",
+            "mobileImageUrl": "https://i.ibb.co/CVMxJPh/Rectangle-2238-3.png",
+            "path": "",
+            "ctaText": "OLAY SKIN",
+            "isNewTab": true
+        },
+        {
+            "imageUrl": "https://i.ibb.co/529MNWp/Rectangle-2238-2.png",
+            "mobileImageUrl": "https://i.ibb.co/3dzBPks/Rectangle-2239-1.png",
+            "path": "",
+            "ctaText": "MAMAEARTH",
+            "isNewTab": true
+        },
+        {
+            "imageUrl": "https://i.ibb.co/529MNWp/Rectangle-2238-2.png",
+            "mobileImageUrl": "https://i.ibb.co/3dzBPks/Rectangle-2239-1.png",
+            "path": "",
+            "ctaText": "AVEENO",
+            "isNewTab": true
+        }
+    ]
+}

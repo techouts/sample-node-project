@@ -1,0 +1,32 @@
+
+{
+    "__component": "trunk-show",
+    "id": "1",
+    "data": {
+        "bgColor": "#F9F9F9",
+        "bgPadding": "80px",
+        "title": "TRUNK-SHOW",
+        "showTextOnHover": false,
+        "showGradient": false,
+        "itemBackgroundSpacing": "30px",
+        "columns": 2,
+        "items": [
+            {
+                "imageUrl": "https://i.ibb.co/985T5c4/img4.png", 
+                "offerText": "Daily Fashion Tips",
+                "smallText": "Follow us for more such content",
+                "path": "",
+                "offerTextColor": "#AD184C",
+                "offerBackground": "#f6f6f6"
+            },
+            {
+                "imageUrl": "https://i.ibb.co/VSBWTYr/img4-1.png",
+                "offerText": "Daily Fashion Tips",
+                "smallText": "Follow us for more such content",
+                "path": "",
+                "offerTextColor": "#AD184C",
+                "offerBackground": "#F9F9F9"
+            }
+        ]
+    }
+}

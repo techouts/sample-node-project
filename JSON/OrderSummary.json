@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "headingTitle": "My Orders",
+      "imageUrl": "https://i.ibb.co/yXNChGC/image-78.png",
+      "title": "Givenchy L’Interdit Eau De Parfum",
+      "rating": "4.3",
+      "qtyInMl": "250ml",
+      "quentity": "1",
+      "price": "1200"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "_component": "Select Location",
+  "id": 12345,
+  "bgColor": "#F7F6F9",
+  "bgPadding": "20px",
+  "data": {
+    "title": "Choose your location",
+    "addressText": "Select a delivery location to see product availability & delivery options",
+    "items": [
+      {
+        "id": 101,
+        "custname": "Vasudha Mundra",
+        "addressDetails": "Akshya Nagar 1st Block 1st Cross, ",
+        "addressStreet": "Rammurthy nagar,",
+        "city": " Bengaluru - ",
+        "pincode": "560102",
+        "mobileNumber": "+91 9836414174"
+      },
+      {
+        "id": 102,
+        "custname": "Vasudha Mundra",
+        "addressDetails": "Akshya Nagar 1st Block 1st Cross, ",
+        "addressStreet": "Rammurthy nagar,",
+        "city": " Bengaluru - ",
+        "pincode": "560102",
+        "mobileNumber": "+91 9836414174"
+      },
+      {
+        "id": 103,
+        "custname": "Vasudha Mundra",
+        "addressDetails": "Akshya Nagar 1st Block 1st Cross, ",
+        "addressStreet": "Rammurthy nagar,",
+        "city": " Bengaluru - ",
+        "pincode": "560102",
+        "mobileNumber": "+91 9836414174"
+      },
+      {
+        "id": 104,
+        "custname": "Vasudha Mundra",
+        "addressDetails": "Akshya Nagar 1st Block 1st Cross, ",
+        "addressStreet": "Rammurthy nagar,",
+        "city": " Bengaluru - ",
+        "pincode": "560102",
+        "mobileNumber": "+91 9836414174"
+      },
+      {
+        "id": 105,
+        "custname": "Vasudha Mundra",
+        "addressDetails": "Akshya Nagar 1st Block 1st Cross, ",
+        "addressStreet": "Rammurthy nagar,",
+        "city": " Bengaluru - ",
+        "pincode": "560102",
+        "mobileNumber": "+91 9836414174"
+      },
+      {
+        "id": 106,
+        "custname": "Vasudha Mundra",
+        "addressDetails": "Akshya Nagar 1st Block 1st Cross, ",
+        "addressStreet": "Rammurthy nagar,",
+        "city": " Bengaluru - ",
+        "pincode": "560102",
+        "mobileNumber": "+91 9836414174"
+      },
+      {
+        "id": 107,
+        "custname": "Vasudha Mundra",
+        "addressDetails": "Akshya Nagar 1st Block 1st Cross, ",
+        "addressStreet": "Rammurthy nagar,",
+        "city": " Bengaluru - ",
+        "pincode": "560102",
+        "mobileNumber": "+91 9836414174"
+      },
+      {
+        "id": 108,
+        "custname": "Vasudha Mundra",
+        "addressDetails": "Akshya Nagar 1st Block 1st Cross, ",
+        "addressStreet": "Rammurthy nagar,",
+        "city": " Bengaluru - ",
+        "pincode": "560102",
+        "mobileNumber": "+91 9836414174"
+      }
+    ],
+    "showMore": " more addresses to show",
+    "showLess": "show Less",
+    "signIn": "SIGN IN",
+    "signUp": "SIGN UP",
+    "choosePincode": "Choose by pincode",
+    "inputPincode": "Search by Pincode",
+    "searchButton": "SEARCH",
+    "locationLogo": "https://i.ibb.co/W2XKwDm/gps.png",
+    "locationText": "Use my current location",
+    "message": "Please Allow Your location",
+    "instructions": "Go to Start > Settings > Privacy > Location",
+    "ok": "OK"
+  }
+}

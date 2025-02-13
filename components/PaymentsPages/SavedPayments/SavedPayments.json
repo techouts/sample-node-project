@@ -1,0 +1,20 @@
+{
+  "component": "SAVE_PAYMENT_OPTION",
+  "id": 12345,
+  "Data": {
+    "title": "Saved Payment Options",
+    "imgUrl": "",
+    "Upi": "Upi",
+    "name": "navyasharma@upi",
+    "Button": "Pay now",
+    "dropDownIcon": "",
+    "imgUrlTwo": "",
+    "bank": "HDFC Credit Card",
+    "PhoneNo": " 608171XXXXXX7269",
+    "dropdownIconTwo": "",
+    "nameOne": "navya sharma",
+    "expairyNo": "12/24",
+    "cvNo": "enter cv no",
+    "buttonText": "Pay now"
+  }
+}

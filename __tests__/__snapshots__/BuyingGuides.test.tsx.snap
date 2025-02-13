@@ -1,0 +1,284 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`About Us & Miscs Static Pages renders Buying Guide static page and creates a snapshot of the page 1`] = `
+<div>
+  <div
+    class="MuiBox-root css-cpsh67"
+  >
+    <div
+      class="MuiBox-root css-8atqhb"
+    >
+      <div
+        class="MuiBox-root css-t7vv4g"
+      >
+        <div
+          class="slick-slider slick-initialized"
+          dir="ltr"
+        >
+          <div
+            class="slick-list"
+          >
+            <div
+              class="slick-track"
+              style="opacity: 1; transform: translate3d(0px, 0px, 0px);"
+            >
+              <div
+                aria-hidden="false"
+                class="slick-slide slick-active slick-current"
+                data-index="0"
+                style="outline: none; width: 0px;"
+                tabindex="-1"
+              >
+                <div>
+                  <div
+                    class="MuiGrid-root css-1n3ut51-MuiGrid-root"
+                  >
+                    <img
+                      alt="The art of applying eye shadow and choosing the correct color palette"
+                      class="css-17di2j3"
+                      src="https://images-cms.sit.shopper-stop.in/Mask_Group_541093de18.png"
+                    />
+                    <div
+                      class="MuiBox-root css-15tyxld"
+                    >
+                      <div
+                        class="MuiGrid-root css-9nketq-MuiGrid-root"
+                      >
+                        Palette and eyeshdow
+                      </div>
+                      <p
+                        class="css-5tb5xs"
+                      >
+                        The art of applying eye shadow and choosing the correct color palette
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                aria-hidden="false"
+                class="slick-slide slick-active"
+                data-index="1"
+                style="outline: none; width: 0px;"
+                tabindex="-1"
+              >
+                <div>
+                  <div
+                    class="MuiGrid-root css-1n3ut51-MuiGrid-root"
+                  >
+                    <img
+                      alt="The art of applying eye shadow and choosing the correct color palette"
+                      class="css-17di2j3"
+                      src="https://images-cms.sit.shopper-stop.in/Mask_Group_1_3a5ae50eb7.png"
+                    />
+                    <div
+                      class="MuiBox-root css-15tyxld"
+                    >
+                      <div
+                        class="MuiGrid-root css-9nketq-MuiGrid-root"
+                      >
+                        Palette and eyeshdow
+                      </div>
+                      <p
+                        class="css-5tb5xs"
+                      >
+                        The art of applying eye shadow and choosing the correct color palette
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                aria-hidden="false"
+                class="slick-slide slick-active"
+                data-index="2"
+                style="outline: none; width: 0px;"
+                tabindex="-1"
+              >
+                <div>
+                  <div
+                    class="MuiGrid-root css-1n3ut51-MuiGrid-root"
+                  >
+                    <img
+                      alt="The art of applying eye shadow and choosing the correct color palette"
+                      class="css-17di2j3"
+                      src="https://images-cms.sit.shopper-stop.in/buyingguidevideo_e38590ddcc.png"
+                    />
+                    <div
+                      class="MuiBox-root css-15tyxld"
+                    >
+                      <div
+                        class="MuiGrid-root css-9nketq-MuiGrid-root"
+                      >
+                        Palette and eyeshdow
+                      </div>
+                      <p
+                        class="css-5tb5xs"
+                      >
+                        The art of applying eye shadow and choosing the correct color palette
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Buying Guide renders Buying Guide static page and creates a snapshot of the page 1`] = `
+<div>
+  <div
+    class="MuiBox-root css-1ydgutl"
+  >
+    <div
+      class="MuiBox-root css-14q5kwc"
+    >
+      <div
+        class="MuiBox-root css-5p2tng"
+      >
+        BUYING GUIDES
+      </div>
+    </div>
+    <div
+      class="MuiBox-root css-8atqhb"
+    >
+      <div
+        class="MuiBox-root css-t7vv4g"
+      >
+        <div
+          class="slick-slider slick-initialized"
+          dir="ltr"
+        >
+          <div
+            class="slick-list"
+          >
+            <div
+              class="slick-track"
+              style="opacity: 1; transform: translate3d(0px, 0px, 0px);"
+            >
+              <div
+                aria-hidden="false"
+                class="slick-slide slick-active slick-current"
+                data-index="0"
+                style="outline: none; width: 0px;"
+                tabindex="-1"
+              >
+                <div>
+                  <div
+                    class="MuiGrid-root css-1n3ut51-MuiGrid-root"
+                  >
+                    <img
+                      alt="The art of applying eye shadow and choosing the correct color palette"
+                      class="css-17di2j3"
+                      src="https://images-cms.sit.shopper-stop.in/Mask_Group_541093de18.png"
+                    />
+                    <div
+                      class="MuiBox-root css-15tyxld"
+                    >
+                      <div
+                        class="MuiGrid-root css-9nketq-MuiGrid-root"
+                      >
+                        Palette and eyeshdow
+                      </div>
+                      <p
+                        class="css-5tb5xs"
+                      >
+                        The art of applying eye shadow and choosing the correct color palette
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                aria-hidden="false"
+                class="slick-slide slick-active"
+                data-index="1"
+                style="outline: none; width: 0px;"
+                tabindex="-1"
+              >
+                <div>
+                  <div
+                    class="MuiGrid-root css-1n3ut51-MuiGrid-root"
+                  >
+                    <img
+                      alt="The art of applying eye shadow and choosing the correct color palette"
+                      class="css-17di2j3"
+                      src="https://images-cms.sit.shopper-stop.in/Mask_Group_1_3a5ae50eb7.png"
+                    />
+                    <div
+                      class="MuiBox-root css-15tyxld"
+                    >
+                      <div
+                        class="MuiGrid-root css-9nketq-MuiGrid-root"
+                      >
+                        Palette and eyeshdow
+                      </div>
+                      <p
+                        class="css-5tb5xs"
+                      >
+                        The art of applying eye shadow and choosing the correct color palette
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                aria-hidden="false"
+                class="slick-slide slick-active"
+                data-index="2"
+                style="outline: none; width: 0px;"
+                tabindex="-1"
+              >
+                <div>
+                  <div
+                    class="MuiGrid-root css-1n3ut51-MuiGrid-root"
+                  >
+                    <img
+                      alt="The art of applying eye shadow and choosing the correct color palette"
+                      class="css-17di2j3"
+                      src="https://images-cms.sit.shopper-stop.in/buyingguidevideo_e38590ddcc.png"
+                    />
+                    <div
+                      class="MuiBox-root css-15tyxld"
+                    >
+                      <div
+                        class="MuiGrid-root css-9nketq-MuiGrid-root"
+                      >
+                        Palette and eyeshdow
+                      </div>
+                      <p
+                        class="css-5tb5xs"
+                      >
+                        The art of applying eye shadow and choosing the correct color palette
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root css-1wcjc1k"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-4gcdzy-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="button"
+      >
+        VIEW ALL
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;

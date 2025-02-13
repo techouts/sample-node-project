@@ -1,0 +1,58 @@
+{
+    "__component": "social-media",
+    "id": "0000",
+    "data": {
+        "bgColor": "#FFFFF",
+        "bgPadding": "5%",
+        "Maintext": "You may also Like",
+        "items" :[
+            {
+                "ImageUrl":"https://i.ibb.co/k2k9jm8/Rectangle-39-1.png",
+                "mobileImageUrl":"https://i.ibb.co/j5bKcWB/Rectangle-40.png",
+                "buttonText":"Beauty",
+                "eyeLogo":"https://i.ibb.co/mGympbg/eye-2.png",
+                "views":"5.2K",
+                "viewsText":"Views",
+                "headText":"The Perfect Pre-Wedding Skincare routine everyday",
+                "readText":"READ MORE",
+                "shareLogo":"https://i.ibb.co/rdqmhZY/Vector-1.png",
+                "shareText":"SHARE"
+            },
+            {
+                "ImageUrl":"https://i.ibb.co/18QvVpC/Rectangle-39-1.png",
+                "mobileImageUrl":"https://i.ibb.co/zWc6pCq/Rectangle-40.png",
+                "buttonText":"Beauty",
+                "eyeLogo":"https://i.ibb.co/mGympbg/eye-2.png",
+                "views":"5.2K",
+                "viewstext":"Views",
+                "headText":"The Perfect Pre-Wedding Skincare routine everyday",
+                "readText":"READ MORE",
+                "shareLogo":"https://i.ibb.co/rdqmhZY/Vector-1.png",
+                "shareText":"SHARE"
+            },
+            {
+                "ImageUrl":"https://i.ibb.co/k2k9jm8/Rectangle-39-1.png",
+                "mobileImageUrl":"https://i.ibb.co/j5bKcWB/Rectangle-40.png",
+                "buttonText":"Beauty",
+                "eyeLogo":"https://i.ibb.co/mGympbg/eye-2.png",
+                "views":"5.2K ",
+                "viewsText":"Views",
+                "headText":"The Perfect Pre-Wedding Skincare routine everyday",
+                "readText":"READ MORE",
+                "shareLogo":"https://i.ibb.co/rdqmhZY/Vector-1.png",
+                "shareText":"SHARE"
+            }, {
+                "ImageUrl":"https://i.ibb.co/18QvVpC/Rectangle-39-1.png",
+                "mobileImageUrl":"https://i.ibb.co/zWc6pCq/Rectangle-40.png",
+                "buttonText":"Beauty",
+                "eyeLogo":"https://i.ibb.co/mGympbg/eye-2.png",
+                "views":"5.2K",
+                "viewsText":"Views",
+                "headText":"The Perfect Pre-Wedding Skincare routine everyday",
+                "readText":"READ MORE",
+                "shareLogo":"https://i.ibb.co/rdqmhZY/Vector-1.png",
+                "shareText":"SHARE"
+            }
+        ]
+    }
+}

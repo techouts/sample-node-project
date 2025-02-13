@@ -1,0 +1,49 @@
+{
+    "__component": "grid-cards",
+    "id": "1236",
+    "data": {
+        "bgColor": "#000000",
+        "bgPadding": "50px",
+        "title": "TOP LUXE OFFERS",
+        "titleColor":"white",
+        "showTextOnHover": false,
+        "showGradient": true,
+        "cardBorder":false,
+        "marginBottom":"12px",
+        "marginX":"119px",
+        "offerTextColor": "#ffffff",
+        "offerBackground": "#231F20",
+        "itemBackgroundSpacing": "18px",
+        "smallTextColor":"#7B7979",
+        "desktopColumns": 2,
+        "mobileColumns": 1,
+        "ctaLabel":"View All",
+        "items": [
+            {
+                "imageUrl": "https://i.ibb.co/LvKBzXQ/Rectangle-250-1.png",
+                "offerText": "SAND & SKY",
+                "smallText": "Vegan and Cruelty free makeup",
+                "path": ""
+            },
+            {
+                "imageUrl": "https://i.ibb.co/CsPfdJf/Rectangle-2312.png",
+                "offerText": "Jeffree Star Cosmetics ",
+                "smallText": "Vegan and Cruelty free makeup",
+                "path": ""
+            },
+            {
+                "imageUrl": "https://i.ibb.co/PrxV85d/Rectangle-250.png",
+                "offerText": "Just herbs",
+                "smallText": "Instant Glow Beauty Treatment",
+                "path": ""
+            },
+            {
+                "imageUrl": "https://i.ibb.co/1TFMb1x/Rectangle-2254.png",
+                "offerText": "Arcelia",
+                "smallText": "Clean and moisturising sheet masks",
+                "path": ""
+            }
+            
+        ]
+    }
+}

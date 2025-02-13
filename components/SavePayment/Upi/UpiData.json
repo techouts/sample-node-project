@@ -1,0 +1,17 @@
+{
+  "_component": "payments",
+  "_id": 123,
+  "bgPadding": "40px",
+  "bgColor": "#E5E5E5",
+  "title": "Add New UPI",
+  "bhimUpi": "https://i.ibb.co/jhY0JkL/image-47.png",
+  "gpayUpi": "https://i.ibb.co/jJ9xNNc/image-49.png",
+  "paytmUpi": "https://i.ibb.co/JBsvXZX/image-50.png",
+  "phonePeUpi": "https://i.ibb.co/S3JSbsX/image-51.png",
+  "upiInfo": "All popular UPI apps supported ",
+  "upiDemo": "UPI ID is in the format of mobilenumber@upi or username@bank",
+  "inputLabel": "Enter your registered UPI ID*",
+  "inputPlaceHolder": "Enter your UPI ID ",
+  "defalutUpi": "Use this as your default UPI payment",
+  "addUpiButton": "Add UPI"
+}

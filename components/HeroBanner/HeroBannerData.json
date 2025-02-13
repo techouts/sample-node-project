@@ -1,0 +1,39 @@
+{
+  "title": "Hero Banner",
+  "componentId": "hero-banner",
+  "_id": "1234",
+  "data": {
+    "bgColor": "#f6f6f6",
+    "bgPadding": "20px",
+    "autoPlay": true,
+    "controlTypeDots": true,
+    "controlTypeArrows":false,
+    "items": [
+      {
+        "imageUrl": "https://www.linkpicture.com/q/Rectangle-2319-1.png",
+        "imageUrlMobile": "https://www.linkpicture.com/q/Rectangle-2319.png",
+        "webUrl": "/components",
+        "isNewTab": true
+      },
+      {
+        "imageUrl": "https://www.linkpicture.com/q/image-19_1.png",
+        "imageUrlMobile": "https://www.linkpicture.com/q/Rectangle-2319.png",
+        "webUrl": "#",
+        "isNewTab": true
+      },
+
+      {
+        "imageUrl": "https://sslimages.shoppersstop.com/sys-master/root/hb2/hfb/27501507215390/Carousal-Women-Web.jpg",
+        "imageUrlMobile": "https://www.linkpicture.com/q/Rectangle-2319.png",
+        "webUrl": "/components",
+        "isNewTab": false
+      },
+      {
+        "imageUrl": "https://sslimages.shoppersstop.com/sys-master/root/h78/h35/27501504331806/Carousal-Menswear-Web_20220428.jpg",
+        "imageUrlMobile": "https://www.linkpicture.com/q/Rectangle-2319.png",
+        "webUrl": "#",
+        "isNewTab": true
+      }
+    ]
+  }
+}

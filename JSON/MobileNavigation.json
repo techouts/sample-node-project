@@ -1,0 +1,102 @@
+{
+  "data": {
+    "items": [
+      {
+        "id": 0,
+        "title": "Makeup",
+        "imageUrl": "https://i.ibb.co/tz341jx/unsplash-e-Zyh-Mddu-U50.png",
+        "bgColor": "#BD446E",
+        "color": "#BD446E",
+        "type": "Accordion"
+      },
+      {
+        "id": 1,
+        "title": "Skin",
+        "imageUrl": "https://i.ibb.co/dfPY1wx/image-83.png",
+        "bgColor": "#90B6E5",
+        "color": "#90B6E5",
+        "type": "Accordion"
+      },
+      {
+        "id": 2,
+        "title": "Hair",
+        "imageUrl": "https://i.ibb.co/fdX2nrw/unsplash-3w14-X-Yxffk.png",
+        "bgColor": "#BA805A",
+        "color": "#BA805A",
+        "type": "Accordion"
+      },
+      {
+        "id": 3,
+        "title": "Personal Care",
+        "imageUrl": "https://i.ibb.co/Tk1Ny7w/image-82.png",
+        "bgColor": "#F28873",
+        "color": "#F28873",
+        "type": "Accordion"
+      },
+      {
+        "id": 4,
+        "title": "Fragrance",
+        "imageUrl": "https://i.ibb.co/Tk1Ny7w/image-82.png",
+        "bgColor": "#30ADB2",
+        "color": "#30ADB2",
+        "type": "Accordion"
+      },
+      {
+        "id": 5,
+        "title": "Beauty & Hair Accessories",
+        "imageUrl": "https://i.ibb.co/Tk1Ny7w/image-82.png",
+        "bgColor": " #C3B0F3",
+        "color": " #C3B0F3",
+        "type": "Accordion"
+      },
+      {
+        "id": 6,
+        "title": "Men’s Grooming",
+        "imageUrl": "https://i.ibb.co/Tk1Ny7w/image-82.png",
+        "bgColor": "#1F3152",
+        "color": "#1F3152",
+        "type": "Accordion"
+      },
+      {
+        "id": 7,
+        "title": "Natural",
+        "imageUrl": "https://i.ibb.co/Tk1Ny7w/image-82.png",
+        "bgColor": "#86985B",
+        "color": "#86985B",
+        "type": "Accordion"
+      },
+      {
+        "id": 8,
+        "title": "Home Body Beauty",
+        "imageUrl": "https://i.ibb.co/Tk1Ny7w/image-82.png",
+        "bgColor": "#C3B0F3",
+        "color": "#C3B0F3",
+        "type": "Accordion"
+      },
+      {
+        "id": 9,
+        "title": "Gifts",
+        "imageUrl": "https://i.ibb.co/Kj3d1vS/unsplash-mfv-Tt-NPjo-PY.png",
+        "bgColor": " #D088DC",
+        "color": " #D088DC",
+        "type": "Accordion"
+      },
+      {
+        "id": 10,
+        "title": "Top Offers",
+        "imageUrl": "https://i.ibb.co/Tk1Ny7w/image-82.png",
+        "bgColor": "#AD184C",
+        "color": "#AD184C",
+        "type": "Accordion"
+      },
+      {
+        "id": 11,
+        "title": "Brands",
+        "imageUrl": "https://i.ibb.co/Kj3d1vS/unsplash-mfv-Tt-NPjo-PY.png",
+        "bgColor": "#DEA3B7",
+        "color": "#DEA3B7",
+        "type": "Brands"
+      }
+    ]
+  }
+}

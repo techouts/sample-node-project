@@ -1,0 +1,11 @@
+{
+  "__component": "FirstCitizenCard",
+  "title": "Link your first citizen club card",
+  "subTitle": "Enter your first citizen club card number",
+  "submitButton": "Submit",
+  "SignUpTracker": [
+    { "step": "Enter Card Number" },
+    { "step": "Enter your details" },
+    { "step": "Enter OTP" }
+  ]
+}

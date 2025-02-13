@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "View Breakup",
+      "productName": "1 x Givenchy L’Interdit Eau De Parfum ",
+      "productPrice": "1,345",
+      "discountTitle": "Discount (10 % off)",
+      "discountPrice": "586",
+      "convenienceTitle": "Convenience Fee",
+      "convenienceFee": "25",
+      "deliveryLabel": "Delivery Charges",
+      "deliveryCharges": "100",
+      "totalTitle": "Total Paid",
+      "totalAmount": "1,999",
+      "modeText": "Mode of Payment: SS Wallet (18 points) + Credit Card (Rs. 1500)",
+      "buttonName": "download invoice"
+    }
+  ]
+}

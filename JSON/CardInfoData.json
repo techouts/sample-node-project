@@ -1,0 +1,40 @@
+{
+  "_id": 1234,
+  "__component": "widget.footer-payment ",
+  "bgColor": "#F5F5F5",
+  "bgPadding": "0 4%",
+  "items": [
+    {
+      "id": 1,
+      "title": "Pay securely by",
+      "imageUrl": "https://i.ibb.co/HXkJJxr/Screenshot-2022-04-28-at-12-54-1.png",
+      "imagePath": "www.facebook.com",
+      "subText": "",
+      "isNewTab": true
+    },
+    {
+      "id": 2,
+      "title": "Reach out to us",
+      "imageUrl": "",
+      "imagePath": "",
+      "subText": "For any queries, pleasewrite to us : customercare@ssbeauty.com",
+      "isNewTab": true
+    },
+    {
+      "id": 3,
+      "title": "Download the app",
+      "imageUrl": "https://i.ibb.co/5jfjPbR/Screenshot-2022-04-28-at-12-54-2-1.png",
+      "imagePath": "www.facebook.com",
+      "subText": "",
+      "isNewTab": true
+    },
+    {
+      "id": 4,
+      "title": "Verified by",
+      "imageUrl": "https://i.ibb.co/gR6GxgQ/Screenshot-2022-04-28-at-12-54-3.png",
+      "imagePath": "www.facebook.com",
+      "subText": "",
+      "isNewTab": true
+    }
+  ]
+}

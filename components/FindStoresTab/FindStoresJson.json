@@ -1,0 +1,168 @@
+{
+  "searchImage": "https://iili.io/SrEMMJ.png",
+  "expandMoreImage": "https://iili.io/SPMOfn.png",
+  "storeTimingTitleText": "Store Timing",
+  "directionText": "Get Store Directions",
+  "listOfCities": [
+    {
+      "id": 1,
+      "cityName": "Agra"
+    },
+    {
+      "id": 2,
+      "cityName": "Ahmedabad"
+    },
+    {
+      "id": 3,
+      "cityName": "Amritsar"
+    },
+    {
+      "id": 4,
+      "cityName": "Bengaluru"
+    },
+    {
+      "id": 5,
+      "cityName": "Bhopal"
+    },
+    {
+      "id": 6,
+      "cityName": "Bhubaneshwar"
+    },
+    {
+      "id": 7,
+      "cityName": "Calicut"
+    },
+    {
+      "id": 8,
+      "cityName": "chandigarh"
+    },
+    {
+      "id": 9,
+      "cityName": "Chennai"
+    },
+    {
+      "id": 10,
+      "cityName": "Chhatrapati Sambhajinagar"
+    },
+    {
+      "id": 11,
+      "cityName": "Cochin"
+    },
+    {
+      "id": 12,
+      "cityName": "Coimbatore"
+    },
+    {
+      "id": 13,
+      "cityName": "Durgapur"
+    },
+    {
+      "id": 14,
+      "cityName": "Gurgaon"
+    },
+    {
+      "id": 15,
+      "cityName": "Gurugram"
+    },
+    {
+      "id": 16,
+      "cityName": "Guwahati"
+    },
+    {
+      "id": 17,
+      "cityName": "Hyderabad"
+    },
+    {
+      "id": 18,
+      "cityName": "Indore"
+    },
+    {
+      "id": 19,
+      "cityName": "Jaipur"
+    },
+    {
+      "id": 20,
+      "cityName": "Jalandhar"
+    },
+    {
+      "id": 21,
+      "cityName": "Kolhapur"
+    },
+    {
+      "id": 22,
+      "cityName": "Kolkata"
+    },
+    {
+      "id": 23,
+      "cityName": "Latur"
+    },
+    {
+      "id": 24,
+      "cityName": "Lucknow"
+    },
+    {
+      "id": 25,
+      "cityName": "Ludhiana"
+    },
+    {
+      "id": 26,
+      "cityName": "Mangalore"
+    },
+    {
+      "id": 27,
+      "cityName": "Mumbai"
+    },
+    {
+      "id": 28,
+      "cityName": "Navi Mumbai"
+    },
+    {
+      "id": 29,
+      "cityName": "New Delhi"
+    },
+    {
+      "id": 30,
+      "cityName": "Noida"
+    },
+    {
+      "id": 31,
+      "cityName": "Pune"
+    },
+    {
+      "id": 32,
+      "cityName": "Punjab"
+    },
+    {
+      "id": 33,
+      "cityName": "Raipur"
+    },
+    {
+      "id": 34,
+      "cityName": "Siliguri"
+    },
+    {
+      "id": 35,
+      "cityName": "Surat"
+    },
+    {
+      "id": 36,
+      "cityName": "Thane"
+    },
+    {
+      "id": 37,
+      "cityName": "Vadodara"
+    },
+    {
+      "id": 38,
+      "cityName": "Varanasi"
+    },
+    {
+      "id": 39,
+      "cityName": "Vijayawada"
+    },
+    {
+      "id": 40,
+      "cityName": "Visakhapatnam"
+    }
+  ]
+}

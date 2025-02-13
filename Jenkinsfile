@@ -9,13 +9,13 @@ pipeline {
     stages {
         stage('Checkout Code') {
             steps {
-                git credentialsId: 'github-jenkins', branch: 'master', url: 'https://github.com/techouts/sample-node-project.git'
+                git credentialsId: 'github-token', branch: 'gcp-test', url: 'https://github.com/SSL-Enhancements/ssl-beauty-web.git'
             }
         }
 
         stage('Build Docker Image') {
             steps {
-                sh 'docker build -t my-node-app .'
+                sh 'docker build -t my-node-app:latest .'
             }
         }
 

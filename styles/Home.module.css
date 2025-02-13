@@ -1,0 +1,47 @@
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.notFoundContainer {
+  text-align: center;
+  max-width: 1024px;
+  margin: 0 auto;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: #000000;
+  font-family: "Montserrat";
+}
+
+.notFoundText {
+  max-width: 512px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.input_field_inc_dec::before {
+  border-bottom: 0px solid rgba(0, 0, 0, 0.42) !important;
+}
+
+.input_field_inc_dec::before {
+  border-bottom: 0 !important; /* Set it to 0 to remove the border */
+}
+.input_field_inc_dec::after {
+  border-bottom:  2px solid #DEA3B7 !important;
+}
+.input_field_inc_dec input{
+  text-align: center !important;
+}
+.Styled_Button_Cart{
+  margin-top: 0px !important;
+  margin-left: 10px !important
+}
+.QuickB_but_Button{
+  margin-top: 0px !important;
+  margin-left: 15px !important
+}

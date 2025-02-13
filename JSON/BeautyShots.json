@@ -1,0 +1,45 @@
+{
+  "id": 1,
+  "__component": "blog-widget.blog-beauty-shots",
+  "bgColor": "#4F4C4D",
+  "bgPadding": "1% 5%",
+  "title": "BEAUTY SHOTS",
+  "buttonText": "View All",
+  "viewMore": true,
+  "items": [
+    {
+      "id": 1,
+      "imageUrl": "https://i.postimg.cc/rpqd7D2c/Rectangle-3903.png",
+      "content": "Perfect palettes to light up your Summer make up",
+      "videoUrl": "https://youtu.be/GADlWyHaMmI"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://i.postimg.cc/cLRhQtcN/Rectangle-3903-2.png",
+      "content": "The Perfect Pre-Wedding Skincare routine everyday",
+      "videoUrl": "https://www.youtube.com/embed/GADlWyHaMmI"
+    },
+    {
+      "imageUrl": "https://i.postimg.cc/nrWRP8sb/Rectangle-3903-1.png",
+      "content": "The Perfect Pre-Wedding Skincare routine everyday",
+      "videoUrl": "https://res.cloudinary.com/codelife/video/upload/v1637805738/intro_l5ul1k.mp4"
+    },
+    {
+      "imageUrl": "https://i.postimg.cc/rpqd7D2c/Rectangle-3903.png",
+      "content": "The Perfect Pre-Wedding Skincare routine everyday",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "imageUrl": "https://i.postimg.cc/cLRhQtcN/Rectangle-3903-2.png",
+      "content": "The Perfect Pre-Wedding Skincare routine everyday",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+    }
+  ],
+  "frame": {
+    "id": 1,
+    "frameWidth": "521px",
+    "frameHeight": "525px",
+    "frameWidthMobile": "328px",
+    "frameHeightMobile": "330px"
+  }
+}

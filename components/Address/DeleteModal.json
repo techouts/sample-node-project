@@ -1,0 +1,12 @@
+{
+    "_component": "delete",
+    "_id": 123,
+    "bgPadding": "30px 30px",
+    "bgColor": "#E5E5E5",
+    "delete": {
+      "deleteTitle": "Are You Sure You Want To Delete ?",
+      "deleteSave": "YES",
+      "deleteCancel": "CANCEL"
+    }
+  }
+  

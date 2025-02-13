@@ -1,0 +1,206 @@
+{
+  "brandsData": {
+    "mobileTabs": [
+      {
+        "title": "Trending Brands",
+        "items": [
+          {
+            "title": "Customer Favorites",
+            "listOfBrands": [
+              {
+                "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Skinn_Customer_favouriites_589e3c0f26.jpg?updated_at=2022-11-29T17:32:19.041Z",
+                "ctaUrl": "/brand/c/search?brand_name=9847"
+              },
+              {
+                "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Mac_Customer_favouriites_9ce94018f5.jpg?updated_at=2022-11-29T17:32:18.961Z",
+                "ctaUrl": "/brand/c/search?brand_name=9882"
+              },
+              {
+                "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Kama_Ayurveda_Customer_favouriites_62796028d3.jpg?updated_at=2022-11-29T17:32:18.960Z",
+                "ctaUrl": "/brand/c/search?brand_name=98"
+              },
+              {
+                "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Jeffree_Star_Customer_favouriites_7bc32d3a64.jpg?updated_at=2022-11-29T17:32:18.856Z",
+                "ctaUrl": "/brand/c/search?brand_name=9881"
+              },
+              {
+                "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Calvin_Klein_Customer_favouriites_1e8de65cd3.jpg?updated_at=2022-11-29T17:32:18.822Z",
+                "ctaUrl": "/brand/c/search?brand_name=9880"
+              },
+              {
+                "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Estee_Lauder_Customer_favouriites_a76b67a73f.jpg?updated_at=2022-11-29T17:32:18.821Z",
+                "ctaUrl": "/brand/c/search?brand_name=9819"
+              },
+              {
+                "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Dot_and_Key_Customer_favouriites_3e9a4fbcdd.jpg?updated_at=2022-11-29T17:32:18.819Z",
+                "ctaUrl": "/brand/c/search?brand_name=101"
+              },
+              {
+                "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Bobbi_Brown_Customer_favouriites_60b4cc20a2.jpg?updated_at=2022-11-29T17:32:18.583Z",
+                "ctaUrl": "/brand/c/search?brand_name=9877"
+              },
+              {
+                "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Burberry_Customer_favouriites_507a97f525.jpg?updated_at=2022-11-29T17:32:18.577Z",
+                "ctaUrl": "/brand/c/search?brand_name=9840"
+              }
+            ]
+          },
+          {
+            "title": "Trending",
+            "listOfBrands": [
+              {
+                "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Versace_Trending_9e4f3d9636.jpg?updated_at=2022-11-29T17:34:51.724Z",
+                "ctaUrl": "/brand/c/search?brand_name=881"
+              },
+              {
+                "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Kora_Organics_Trending_8568adf21d.jpg?updated_at=2022-11-29T17:34:51.710Z",
+                "ctaUrl": "/brand/c/search?brand_name=10311"
+              },
+              {
+                "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Yves_Saint_Laurent_Trending_e84ea9a016.jpg?updated_at=2022-11-29T17:34:51.707Z",
+                "ctaUrl": "/brand/c/search?brand_name=9838"
+              },
+              {
+                "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Estee_Lauder_Trending_25efb42ceb.jpg?updated_at=2022-11-29T17:34:51.410Z",
+                "ctaUrl": "/brand/c/search?brand_name=9819"
+              },
+              {
+                "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/GK_Trending_9a844901e6.jpg?updated_at=2022-11-29T17:34:51.405Z",
+                "ctaUrl": "/brand/c/search?brand_name=9310"
+              },
+              {
+                "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Chambor_Trending_a7afc25fff.jpg?updated_at=2022-11-29T17:34:51.374Z",
+                "ctaUrl": "/brand/c/search?brand_name=86"
+              },
+              {
+                "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Clarins_Trending_3c00d814bc.jpg?updated_at=2022-11-29T17:34:51.373Z",
+                "ctaUrl": "/brand/c/search?brand_name=9300"
+              },
+              {
+                "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Smashbox_Trending_8bf07438b7.jpg?updated_at=2022-11-29T17:34:51.369Z",
+                "ctaUrl": "/brand/c/search?brand_name=9885"
+              },
+              {
+                "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Faces_Trending_a34c708939.jpg?updated_at=2022-11-29T17:34:51.368Z",
+                "ctaUrl": "/brand/c/search?brand_name=9880"
+              }
+            ]
+          },
+          {
+            "title": "new At ssBeauty",
+            "listOfBrands": [
+              {
+                "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Arcelia_Only_at_SS_beauty_acc92ce27d.jpg?updated_at=2022-11-29T17:33:07.227Z",
+                "ctaUrl": "/brand/c/search?brand_name=9862"
+              },
+              {
+                "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Earthi_Only_at_SS_beauty_5968df5e0e.jpg?updated_at=2022-11-29T17:33:07.189Z",
+                "ctaUrl": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "All brands"
+      }
+    ],
+    "items": [
+      {
+        "title": "Customer Favorites",
+        "listOfBrands": [
+          {
+            "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Skinn_Customer_favouriites_589e3c0f26.jpg?updated_at=2022-11-29T17:32:19.041Z",
+            "ctaUrl": "/brand/c/search?brand_name=9847"
+          },
+          {
+            "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Mac_Customer_favouriites_9ce94018f5.jpg?updated_at=2022-11-29T17:32:18.961Z",
+            "ctaUrl": "/brand/c/search?brand_name=9882"
+          },
+          {
+            "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Kama_Ayurveda_Customer_favouriites_62796028d3.jpg?updated_at=2022-11-29T17:32:18.960Z",
+            "ctaUrl": "/brand/c/search?brand_name=98"
+          },
+          {
+            "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Jeffree_Star_Customer_favouriites_7bc32d3a64.jpg?updated_at=2022-11-29T17:32:18.856Z",
+            "ctaUrl": "/brand/c/search?brand_name=9881"
+          },
+          {
+            "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Calvin_Klein_Customer_favouriites_1e8de65cd3.jpg?updated_at=2022-11-29T17:32:18.822Z",
+            "ctaUrl": "/brand/c/search?brand_name=9810"
+          },
+          {
+            "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Estee_Lauder_Customer_favouriites_a76b67a73f.jpg?updated_at=2022-11-29T17:32:18.821Z",
+            "ctaUrl": "/brand/c/search?brand_name=9819"
+          },
+          {
+            "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Dot_and_Key_Customer_favouriites_3e9a4fbcdd.jpg?updated_at=2022-11-29T17:32:18.819Z",
+            "ctaUrl": "/brand/c/search?brand_name=101"
+          },
+          {
+            "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Bobbi_Brown_Customer_favouriites_60b4cc20a2.jpg?updated_at=2022-11-29T17:32:18.583Z",
+            "ctaUrl": "/brand/c/search?brand_name=9877"
+          },
+          {
+            "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Burberry_Customer_favouriites_507a97f525.jpg?updated_at=2022-11-29T17:32:18.577Z",
+            "ctaUrl": "/brand/c/search?brand_name=9840"
+          }
+        ]
+      },
+      {
+        "title": "Trending",
+        "listOfBrands": [
+          {
+            "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Versace_Trending_9e4f3d9636.jpg?updated_at=2022-11-29T17:34:51.724Z",
+            "ctaUrl": "/brand/c/search?brand_name=881"
+          },
+          {
+            "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Kora_Organics_Trending_8568adf21d.jpg?updated_at=2022-11-29T17:34:51.710Z",
+            "ctaUrl": "/brand/c/search?brand_name=10311"
+          },
+          {
+            "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Yves_Saint_Laurent_Trending_e84ea9a016.jpg?updated_at=2022-11-29T17:34:51.707Z",
+            "ctaUrl": "/brand/c/search?brand_name=9838"
+          },
+          {
+            "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Estee_Lauder_Trending_25efb42ceb.jpg?updated_at=2022-11-29T17:34:51.410Z",
+            "ctaUrl": "/brand/c/search?brand_name=9819"
+          },
+          {
+            "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/GK_Trending_9a844901e6.jpg?updated_at=2022-11-29T17:34:51.405Z",
+            "ctaUrl": "/brand/c/search?brand_name=9310"
+          },
+          {
+            "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Chambor_Trending_a7afc25fff.jpg?updated_at=2022-11-29T17:34:51.374Z",
+            "ctaUrl": "/brand/c/search?brand_name=86"
+          },
+          {
+            "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Clarins_Trending_3c00d814bc.jpg?updated_at=2022-11-29T17:34:51.373Z",
+            "ctaUrl": "/brand/c/search?brand_name=9300"
+          },
+          {
+            "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Smashbox_Trending_8bf07438b7.jpg?updated_at=2022-11-29T17:34:51.369Z",
+            "ctaUrl": "/brand/c/search?brand_name=9885"
+          },
+          {
+            "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Faces_Trending_a34c708939.jpg?updated_at=2022-11-29T17:34:51.368Z",
+            "ctaUrl": "/brand/c/search?brand_name=9880"
+          }
+        ]
+      },
+      {
+        "title": "Only @ SSBeauty",
+        "listOfBrands": [
+          {
+            "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Arcelia_Only_at_SS_beauty_acc92ce27d.jpg?updated_at=2022-11-29T17:33:07.227Z",
+            "ctaUrl": "/brand/c/search?brand_name=9862"
+          },
+          {
+            "brandImageUrl": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Earthi_Only_at_SS_beauty_5968df5e0e.jpg?updated_at=2022-11-29T17:33:07.189Z",
+            "ctaUrl": ""
+          }
+        ]
+      }
+    ]
+  }
+}

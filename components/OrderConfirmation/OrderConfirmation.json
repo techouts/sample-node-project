@@ -1,0 +1,68 @@
+{
+  "__component": "Order-Page",
+  "title": "Order Placed Successfully !",
+  "hey": "Hey Charin Shah,",
+  "pendingText": "We can take upto 20 mins for payment confirmation. In case you were not able to complete your payment, you can retry the payment.",
+  "failureText": "Your payment for this order could not be completed. Please retry the payment. If money has been deducted from your card/bank account, it will be refunded within 5-7 working days. ",
+  "codFailureText" : "Your Order could not be completed.",
+  "ccOrderlineOne" : "We’ve got your order! We’ll keep you updated when your order is ready for pickup.",
+  "lineone": "We’ve got your order! We’ll keep you updated when your order ships. Please find your order details below.",
+  "linetwo": " Visit <span> My Orders</span> section to get further updates on your order.",
+  "buttonText": "CONTINUE SHOPPING",
+  "orderid": "Order ID #",
+  "orderplaced": "Order Placed",
+  "orderstatus": "Order Status",
+  "id": "12342546754754334534",
+  "oplaced": "8th May, 2022",
+  "statuss": "Order Placed",
+  "deliveryadd": "Delivery Address",
+  "names": "Vasudha Mundra",
+  "address": "4, Kempanna layout, 8th Sector, HSR Layout, Bengaluru - 560102",
+  "mobileno": "+91 9836414174",
+  "rateurshpg": "Rate your Shopping Experience",
+  "ratingIcon": "* * * * *",
+  "wentwrong": "What Went Wrong?",
+  "siteisslow": "Site is Slow",
+  "lack": "Lack of Discoverability",
+  "lessvariety": "less variety",
+  "others": "Others",
+  "expierence": "Please describe your experience",
+  "writeexpierence": "Write about your experience here",
+  "items": [
+    {
+      "imageUrl": "https://i.ibb.co/yXNChGC/image-78.png",
+      "title": "Givenchy L’Interdit Eau De Parfum",
+      "subTitle": "Women's Perfume",
+      "qtyInMlText": "Size",
+      "qtyInMl": "250ml",
+      "quentity": "1",
+      "price": "1200"
+    },
+    {
+      "imageUrl": "https://i.ibb.co/yXNChGC/image-78.png",
+      "title": "Givenchy L’Interdit Eau De Parfum",
+      "subTitle": "Women's Perfume",
+      "qtyInMlText": "Size",
+      "qtyInMl": "250ml",
+      "quentity": "1",
+      "price": "1200"
+    }
+  ],
+  "itemsData": [
+    {
+      "title": "AMOUNT BREAKUP ",
+      "productName": "1 x Givenchy L’Interdit Eau De Parfum ",
+      "productPrice": "1,345",
+      "discountTitle": "Discount (10 % off)",
+      "discountPrice": "586",
+      "convenienceTitle": "Convenience Fee",
+      "convenienceFee": "100",
+      "deliveryLabel": "Delivery Charges",
+      "deliveryCharges": "100",
+      "totalTitle": "Total Paid",
+      "totalAmount": "759",
+      "modeText": "Mode of Payment: Cash On Delivery",
+      "buttonName": "download invoice"
+    }
+  ]
+}

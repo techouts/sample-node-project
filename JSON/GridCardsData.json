@@ -1,0 +1,58 @@
+{
+    "__component": "grid-cards",
+    "id": "1236",
+    "data": {
+        "bgColor": "#FFFFFF",
+        "bgPadding": "20px",
+        "title": "MORE OFFERS",
+        "showTextOnHover": false,
+        "showGradient": false,
+        "cardBorder":true,
+        "itemPaddingBottom":"12px",
+        "itemPaddingX":"50px",
+        "offerTextColor": "#AD184C",
+        "offerBackground": "rgba(255,255,255,0.7)",
+        "itemBackgroundSpacing": "18px",
+        "smallTextColor":"#7B7979",
+        "desktopColumns": 2,
+        "mobileColumns": 2,
+        "items": [
+            {
+                "imageUrl": "https://i.ibb.co/LvKBzXQ/Rectangle-250-1.png",
+                "offerText": "Very Peri Makeup Looks",
+                "smallText": "on minimum order of Rs. 3000",
+                "path": ""
+            },
+            {
+                "imageUrl": "https://i.ibb.co/CsPfdJf/Rectangle-2312.png",
+                "offerText": "Lipstains We Love!",
+                "smallText": "on minimum order of Rs. 3000",
+                "path": ""
+            },
+            {
+                "imageUrl": "https://i.ibb.co/PrxV85d/Rectangle-250.png",
+                "offerText": "Spring Scents To Hoard Right Away",
+                "smallText": "on minimum order of Rs. 3000",
+                "path": ""
+            },
+            {
+                "imageUrl": "https://i.ibb.co/1TFMb1x/Rectangle-2254.png",
+                "offerText": "Moisturising Shampoos That Banish Frizz",
+                "smallText": "on minimum order of Rs. 3000",
+                "path": ""
+            },
+            {
+                "imageUrl": "https://i.ibb.co/CsPfdJf/Rectangle-2312.png",
+                "offerText": "Lipstains We Love!",
+                "smallText": "on minimum order of Rs. 3000",
+                "path": ""
+            },
+            {
+                "imageUrl": "https://i.ibb.co/PrxV85d/Rectangle-250.png",
+                "offerText": "Spring Scents To Hoard Right Away",
+                "smallText": "on minimum order of Rs. 3000",
+                "path": ""
+            }
+        ]
+    }
+}

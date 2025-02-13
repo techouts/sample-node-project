@@ -1,0 +1,56 @@
+{
+  "__component": "shop-by-category",
+  "id": "1235",
+  "data": {
+    "bgColor": "#f6f6f6",
+    "bgPadding": "55px",
+    "title": "Top Categories For You",
+    "viewMore": "View More",
+    "viewMoreLink": "",
+    "isTextHover": false,
+    "items": [
+      {
+        "imageUrl": "https://sslimages.shoppersstop.com/sys-master/root/hcf/hd9/27487173541918/CHAMBOR_4-widget-web--beauty-page-25-april22new-top-brands.jpg",
+        "textHoverBG": "#834932",
+        "text": "Best Seller",
+        "path": "",
+        "isNewTab": false
+      },
+      {
+        "imageUrl": "https://sslimages.shoppersstop.com/sys-master/root/hf6/hef/27338301145118/web_bu_loreal_top-brands_20220331.jpg",
+        "textHoverBG": "#834932",
+        "text": "new arrivals",
+        "path": "",
+        "isNewTab": false
+      },
+      {
+        "imageUrl": "https://sslimages.shoppersstop.com/sys-master/root/h19/hcc/27487178457118/LAKME_4-widget-web--ravmp-25-04-2022apill-re-entry-bu-pg.jpg",
+        "textHoverBG": "#834932",
+        "text": "makeup",
+        "path": "",
+        "isNewTab": false
+      },
+      {
+        "imageUrl": "https://sslimages.shoppersstop.com/sys-master/root/h06/hf3/27338301210654/web_bu_sugar_top-brands_20220331.jpg",
+        "textHoverBG": "#834932",
+        "text": "Best Seller",
+        "path": "",
+        "isNewTab": false
+      },
+      {
+        "imageUrl": "https://sslimages.shoppersstop.com/sys-master/root/hc4/hf9/27338301407262/web_bu_colorbar_top-brands_20220331.jpg",
+        "textHoverBG": "#834932",
+        "text": "Best Seller",
+        "path": "",
+        "isNewTab": false
+      },
+      {
+        "imageUrl": "https://sslimages.shoppersstop.com/sys-master/root/h41/hcc/27487173935134/MY-GLAMM_4-widget-web-beauty-page-25-april22new-top-brands.jpg",
+        "textHoverBG": "#834932",
+        "text": "Best Seller",
+        "path": "",
+        "isNewTab": false
+      }
+    ]
+  }
+}

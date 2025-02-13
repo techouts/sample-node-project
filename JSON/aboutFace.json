@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "__component": "widget.brand-description",
+    "bgColor": "#FFFFFF",
+    "bgPadding": "0px 6%",
+    "title": "ABOUT THE BRAND",
+    "titleColor": "#1C191A",
+    "imgUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/about_faces_canada.png",
+    "imgUrlMobile": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/about_faces_canada.png",
+    "subTitleColor": "#AD184C",
+    "description": "<p>We entered the Indian market in 2009, fast becoming a local favourite. Our unique innovations and formulations combine international cosmetic technology with specific needs of Indian skin tones to bring truly world-class cosmetics to every Indian dressing table. We take pride in our diverse range of high quality globally acclaimed products. Made with high quality formulations to bring you the very best for your faces,</p><p> Our products are manufactured in Italy, Germany and Turkey.Our products are currently available in over 140 cities and towns at over 1500 cosmetic retail stores and select modern trade outlets across India.</p>"
+}

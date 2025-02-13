@@ -1,0 +1,35 @@
+{
+    "__Component": "Sign-in",
+    "id": "7878445",
+    "data": {
+        "title": "SIGN IN TO SSBeauty",
+        "subTitle": "Enter your phone number to sign in",
+        "PlaceHolder": "Enter your phone number",
+        "buttontext": "PROCEED",
+        "buttonUrl": "https://www.google.com",
+        "signupText": "Already have an account?",
+        "signuplink": "Sign up?",
+        "signupDescription": "If you are already an existing user of Shoppers Stop kindly use the same credentials to sign in",
+        "ImageUrl": "https://i.ibb.co/sJ7PyTn/image-73.png",
+        "helpIconUrl": "https://i.ibb.co/xJwCdLh/message-question.png",
+        "helpText": "Help",
+        "profileImgUrl": "https://i.ibb.co/B4fDrTK/profile-circle.png",
+        "items": [
+            {
+                "logoUrl": "https://i.ibb.co/C57v29n/Vector.png",
+                "redirectUrl": "",
+                "id": "apple"
+            },
+            {
+                "logoUrl": "https://i.ibb.co/gr5Q7gc/Group-48097349.png",
+                "redirectUrl": "",
+                "id": "facebook"
+            },
+            {
+                "logoUrl": "https://i.ibb.co/phbL4gf/Group-48097348.png",
+                "redirectUrl": "",
+                "id": "google"
+            }
+        ]
+    }
+}

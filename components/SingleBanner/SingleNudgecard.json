@@ -1,0 +1,16 @@
+            
+    {
+      "__component": "widget.single-banner",
+      "id": "1",
+      "bgColor": "#f6f6f6",
+      "bgPadding": "0",
+      "items": [
+        {
+          "imageUrl":
+          "https://www.linkpicture.com/q/Date-night-special.png",
+          "imageUrlMobile": "https://www.linkpicture.com/q/Date-night-special.png",
+          "path": "/components",
+          "isNewTab": true
+        }
+      ]
+    }

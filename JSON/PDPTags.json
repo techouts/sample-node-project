@@ -1,0 +1,26 @@
+{
+    "bgColor":"#FAFAFA",
+    "bgPadding": "1% 5%",
+    "items":[
+        {
+            "text":"Radiant",
+            "imageUrl":"https://i.ibb.co/7Gmz1DX/Group-1338.png",
+            "imagePath":"#"
+        },
+        {
+            "text":"Vegan",
+            "imageUrl":"https://i.ibb.co/F8NJPx2/Group-1339.png",
+            "imagePath":"#"
+        },
+        {
+            "text":"Hydrating",
+            "imageUrl":"https://i.ibb.co/5hSMtK1/Group-1339-1.png",
+            "imagePath":"#"
+        },
+        {
+            "text":"Dry Skin",
+            "imageUrl":"https://i.ibb.co/KFvHnj8/Group-1339-2.png",
+            "imagePath":"#"
+        }
+    ]
+}

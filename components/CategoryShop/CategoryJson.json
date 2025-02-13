@@ -1,0 +1,265 @@
+{
+  "titleForMobile": "Shop The Look",
+  "titleForWeb": "Shop the look",
+  "shopButton": "shop all makeup",
+  "listItems": [
+    {
+      "id": 0,
+      "imageUrl": "https://i.ibb.co/QkqJScC/Rectangle-432.png",
+      "plusImage": "https://i.ibb.co/jkn7L9M/image.png",
+      "circleImage": "https://i.ibb.co/XZg4Rvm/Ellipse-9.png",
+      "positions": [
+        {
+          "identifier": "plusOne",
+          "toolTipMessage": "Forehead",
+          "toolTipPlacment": "right",
+          "top": "3.4%",
+          "left": "9.6%"
+        },
+        {
+          "identifier": "plusTwo",
+          "toolTipMessage": "Eyebrows",
+          "toolTipPlacement": "right",
+          "top": "5.2%",
+          "left": "5%"
+        },
+        {
+          "identifier": "plusThree",
+          "toolTipMessage": "Cheeks",
+          "toolTipPlacement": "right",
+          "top": "6.8%",
+          "left": "10.2%"
+        },
+        {
+          "identifier": "plusFour",
+          "toolTipMessage": "Lips",
+          "toolTipPlacement": "right",
+          "top": "8.6%",
+          "left": "6.6%"
+        },
+        {
+          "identifier": "plusFive",
+          "toolTipMessage": "Chin",
+          "toolTipPlacement": "right",
+          "top": "10%",
+          "left": "8%"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://i.ibb.co/41f7sgV/Rectangle-429.png",
+      "plusImage": "https://i.ibb.co/jkn7L9M/image.png",
+      "circleImage": "https://i.ibb.co/XZg4Rvm/Ellipse-9.png",
+      "positions": [
+        {
+          "identifier": "plusOne",
+          "toolTipMessage": "Forehead",
+          "toolTipPlacment": "right",
+          "top": "3.4%",
+          "left": "9.6%"
+        },
+        {
+          "identifier": "plusTwo",
+          "toolTipMessage": "Eyebrows",
+          "toolTipPlacement": "right",
+          "top": "5.2%",
+          "left": "5%"
+        },
+        {
+          "identifier": "plusThree",
+          "toolTipMessage": "Cheeks",
+          "toolTipPlacement": "right",
+          "top": "6.8%",
+          "left": "10.2%"
+        },
+        {
+          "identifier": "plusFour",
+          "toolTipMessage": "Lips",
+          "toolTipPlacement": "right",
+          "top": "8.6%",
+          "left": "6.6%"
+        },
+        {
+          "identifier": "plusFive",
+          "toolTipMessage": "Chin",
+          "toolTipPlacement": "right",
+          "top": "10%",
+          "left": "8%"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://i.ibb.co/QkqJScC/Rectangle-432.png",
+      "plusImage": "https://i.ibb.co/jkn7L9M/image.png",
+      "circleImage": "https://i.ibb.co/XZg4Rvm/Ellipse-9.png",
+      "positions": [
+        {
+          "identifier": "plusOne",
+          "toolTipMessage": "Forehead",
+          "toolTipPlacment": "right",
+          "top": "3.4%",
+          "left": "9.6%"
+        },
+        {
+          "identifier": "plusTwo",
+          "toolTipMessage": "Eyebrows",
+          "toolTipPlacement": "right",
+          "top": "5.2%",
+          "left": "5%"
+        },
+        {
+          "identifier": "plusThree",
+          "toolTipMessage": "Cheeks",
+          "toolTipPlacement": "right",
+          "top": "6.8%",
+          "left": "10.2%"
+        },
+        {
+          "identifier": "plusFour",
+          "toolTipMessage": "Lips",
+          "toolTipPlacement": "right",
+          "top": "8.6%",
+          "left": "6.6%"
+        },
+        {
+          "identifier": "plusFive",
+          "toolTipMessage": "Chin",
+          "toolTipPlacement": "right",
+          "top": "10%",
+          "left": "8%"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://i.ibb.co/41f7sgV/Rectangle-429.png",
+      "plusImage": "https://i.ibb.co/jkn7L9M/image.png",
+      "circleImage": "https://i.ibb.co/XZg4Rvm/Ellipse-9.png",
+      "positions": [
+        {
+          "identifier": "plusOne",
+          "toolTipMessage": "Forehead",
+          "toolTipPlacment": "right",
+          "top": "3.4%",
+          "left": "9.6%"
+        },
+        {
+          "identifier": "plusTwo",
+          "toolTipMessage": "Eyebrows",
+          "toolTipPlacement": "right",
+          "top": "5.2%",
+          "left": "5%"
+        },
+        {
+          "identifier": "plusThree",
+          "toolTipMessage": "Cheeks",
+          "toolTipPlacement": "right",
+          "top": "6.8%",
+          "left": "10.2%"
+        },
+        {
+          "identifier": "plusFour",
+          "toolTipMessage": "Lips",
+          "toolTipPlacement": "right",
+          "top": "8.6%",
+          "left": "6.6%"
+        },
+        {
+          "identifier": "plusFive",
+          "toolTipMessage": "Chin",
+          "toolTipPlacement": "right",
+          "top": "10%",
+          "left": "8%"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://i.ibb.co/QkqJScC/Rectangle-432.png",
+      "plusImage": "https://i.ibb.co/jkn7L9M/image.png",
+      "circleImage": "https://i.ibb.co/XZg4Rvm/Ellipse-9.png",
+      "positions": [
+        {
+          "identifier": "plusOne",
+          "toolTipMessage": "Forehead",
+          "toolTipPlacment": "right",
+          "top": "3.4%",
+          "left": "9.6%"
+        },
+        {
+          "identifier": "plusTwo",
+          "toolTipMessage": "Eyebrows",
+          "toolTipPlacement": "right",
+          "top": "5.2%",
+          "left": "5%"
+        },
+        {
+          "identifier": "plusThree",
+          "toolTipMessage": "Cheeks",
+          "toolTipPlacement": "right",
+          "top": "6.8%",
+          "left": "10.2%"
+        },
+        {
+          "identifier": "plusFour",
+          "toolTipMessage": "Lips",
+          "toolTipPlacement": "right",
+          "top": "8.6%",
+          "left": "6.6%"
+        },
+        {
+          "identifier": "plusFive",
+          "toolTipMessage": "Chin",
+          "toolTipPlacement": "right",
+          "top": "10%",
+          "left": "8%"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://i.ibb.co/41f7sgV/Rectangle-429.png",
+      "plusImage": "https://i.ibb.co/jkn7L9M/image.png",
+      "circleImage": "https://i.ibb.co/XZg4Rvm/Ellipse-9.png",
+      "positions": [
+        {
+          "identifier": "plusOne",
+          "toolTipMessage": "Forehead",
+          "toolTipPlacment": "right",
+          "top": "3.4%",
+          "left": "9.6%"
+        },
+        {
+          "identifier": "plusTwo",
+          "toolTipMessage": "Eyebrows",
+          "toolTipPlacement": "right",
+          "top": "5.2%",
+          "left": "5%"
+        },
+        {
+          "identifier": "plusThree",
+          "toolTipMessage": "Cheeks",
+          "toolTipPlacement": "right",
+          "top": "6.8%",
+          "left": "10.2%"
+        },
+        {
+          "identifier": "plusFour",
+          "toolTipMessage": "Lips",
+          "toolTipPlacement": "right",
+          "top": "8.6%",
+          "left": "6.6%"
+        },
+        {
+          "identifier": "plusFive",
+          "toolTipMessage": "Chin",
+          "toolTipPlacement": "right",
+          "top": "10%",
+          "left": "8%"
+        }
+      ]
+    }
+  ]
+}

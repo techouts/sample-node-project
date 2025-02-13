@@ -1,0 +1,6 @@
+{
+    "__component" : "FirstCitizenSignUp",
+  "title": "Not a First Citizen club Member yet?",
+  "subTitle": "Please complete your SSBeauty login/signup to link your existing First Citizen club Card",
+  "buttons": [{ "button": "LOG IN" }, { "button": "SIGN UP" }]
+}

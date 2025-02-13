@@ -1,0 +1,23 @@
+{
+    "__component": "social-blog",
+    "id": "0000",
+    "data": {
+      "bgColor": "#f6f6f6",
+      "bgPadding": "5%",
+      "columns": 1,
+      "items": [
+        {
+          "imageUrl": "https://i.ibb.co/b38g6rN/Screen-Shot-2022-05-23-at-12-15-1.png",
+          "mobileImageurl": "https://i.ibb.co/PCPrcWZ/Screen-Shot-2022-05-23-at-12-15-1-1.png",
+          "title": "How To Work Frosted Eyeshadow",
+          "description": "‘With this look you definitely want to prep your eyes with a primer,’ says Skinner, ‘this will stop the shadow from falling.’ Next, apply your chosen frosted shadow using your fingertips. ‘Start on the inner edge of your eye and sweep your finger towards the outer edge of the eye to get that full-on frosted shine.’ <span>To finish, Skinner recommends taking a small fluffy brush to blend the shadow from the lid to the socket and way up to the brow. Feeling adventurous? ‘Take a deep frosted shade and work it into the crease to smoke out the eye.’</span>"
+        },
+        {
+          "imageUrl": "https://i.ibb.co/kGRpgWt/Screen-Shot-2022-05-23-at-12-14-1.png",
+          "mobileImageurl": "https://i.ibb.co/q5LG4w4/Screen-Shot-2022-05-23-at-12-14-1-1.png",
+          "title": "How To Work Frosted Eyeshadow",
+          "description": "‘With this look you definitely want to prep your eyes with a primer,’ says Skinner, ‘this will stop the shadow from falling.’ Next, apply your chosen frosted shadow using your fingertips. ‘Start on the inner edge of your eye and sweep your finger towards the outer edge of the eye to get that full-on frosted shine.’ <span>To finish, Skinner recommends taking a small fluffy brush to blend the shadow from the lid to the socket and way up to the brow. Feeling adventurous? ‘Take a deep frosted shade and work it into the crease to smoke out the eye.’</span>"
+        }
+      ]
+    }
+  }

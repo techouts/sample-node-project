@@ -1,0 +1,42 @@
+{
+  "id": 1234,
+  "data": {
+    "title": "Share it with friends",
+    "bgColor": "#f6f6f6",
+    "bgPadding": "30px",
+    "items": [
+      {
+        "imageUrl": "https://i.ibb.co/6DYzsRb/Rectangle-2221.png",
+        "imageUrlMobile": "hello",
+        "path": "",
+        "textInfo": "Loreal Hydrating Makeup Primer",
+        "textCost": "₹1200",
+        "textStrick": "₹1500",
+        "textDiscount": "20% discount",
+        "textTaxes": "(Inclusive of all taxes)"
+      }
+    ],
+    "socialMedia": [
+      {
+        "backgroundColor": "#AD184C",
+        "mediaName": "FACEBOOK",
+        "path": "https://www.facebook.com/sharer/sharer.php?u="
+      },
+      {
+        "backgroundColor": "#AD184C",
+        "mediaName": "WHATSAPP",
+        "path": "https://api.whatsapp.com/send?text="
+      },
+      {
+        "backgroundColor": "#AD184C",
+        "mediaName": "PINTEREST",
+        "path": "http://pinterest.com/pin/create/link/?url="
+      },
+      {
+        "backgroundColor": "#AD184C",
+        "mediaName": "EMAIL",
+        "path": "mailto:?body="
+      }
+    ]
+  }
+}

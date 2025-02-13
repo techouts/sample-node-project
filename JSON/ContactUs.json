@@ -1,0 +1,134 @@
+{
+  "__component": "Contact Us",
+  "id": "12345",
+  "bgPadding":"2% 5%",
+  "title": "Contact Us",
+  "subText": "We would love to hear from you. Our team is always here to chat.",
+  "formTitle": "SUBMIT YOUR QUERY",
+  "caution_note": "*All fields are mandatory",
+  "ctaLabel": "SUBMIT",
+  "contact_details": [
+    {
+      "header": "CHAT WITH US",
+      "details": "Representatives and Beauty Advisors are available: <br>MON-SUN: 8am - 9pm IST"
+    },
+    {
+      "header": "OUR OFFICE",
+      "details": "Shoppers Stop Limited<br>Umang Tower, 5th Floor,<br> Mindspace, Off. Link Road,<br> Malad (West), Mumbai, Maharashtra – 400 064"
+    },
+    {
+      "header": "PHONE",
+      "details": "Call us on Customer Care no. : 1800-419-6648 <br> Email us at customercare@shoppersstop.com <br> (Operational Timings: 08:00AM to 10:00PM)"
+    },
+    {
+      "header": "Grievance Related Queries",
+      "details": "Important: Grievance desk must be approached post <br> contacting the “Customer Care” of Shoppers Stop with a <br> complaint number where desired resolution was not <br>  received.<br> <br> Any first time query would be redirected to Customer <br> Care. <br> <br> Email ID: Grievance.redressal@shoppersstop.com <br> (Operational Timings: Mon-Fri: 10:00am to 5:00pm)"
+    }
+  ],
+  "form_list": [
+    {
+      "isRequired": true,
+      "label": "First Name",
+      "name": "first_name",
+      "type": "text",
+      "placeholder": "Enter Name",
+      "validationType": "none",
+      "input_type": "text",
+      "xs":6,
+      "md":6
+    },
+    {
+      "isRequired": true,
+      "label": "Last Name",
+      "name": " last_name",
+      "type": "text",
+      "placeholder": "Enter Name",
+      "validationType": "none",
+      "input_type": "text",
+      "xs":6,
+      "md":6
+    },
+    {
+      "isRequired": true,
+      "label": "Email ID",
+      "name": "email",
+      "type": "email",
+      "placeholder": "Email ID",
+      "validationType": "email",
+      "input_type": "text",
+      "xs":12,
+      "md":6
+    },
+    {
+      "isRequired": true,
+      "label": "Mobile No.",
+      "type": "number",
+      "name": "mobile_no",
+      "placeholder": "Mobile No",
+      "validationType": "mobile",
+      "errorMessage": "mobile no. should have 10 digits",
+      "input_type": "text",
+      "xs":12,
+      "md":6
+    },
+    {
+      "label": "Category",
+      "name": "category",
+      "placeholder": "Select Category",
+      "list": [
+        {
+          "value": "Payment Related"
+        },
+        {
+          "value": "Order Related"
+        },
+        {
+          "value": "Delivery Related"
+        }
+      ],
+      "input_type": "select",
+      "xs":6,
+      "md":6
+    },
+    {
+      "label": "Sub Category",
+      "name": "sub_category",
+      "placeholder": "Select Sub Category",
+      "list": [
+        {
+          "value": "Refund not received"
+        },
+        {
+          "value": "Payment Stuck"
+        }
+      ],
+      "input_type": "select",
+      "xs":6,
+      "md":6
+    },
+    {
+      "isRequired": true,
+      "label": "Order No",
+      "name": "order_no",
+      "type": "none",
+      "placeholder": "Order No",
+      "validationType": "none",
+      "input_type": "text",
+      "xs":6,
+      "md":6
+    },
+    {
+      "isRequired": true,
+      "label": "Comment",
+      "type": "none",
+      "name": "comment",
+      "placeholder": "Write your comment ( Max 500 characters)*",
+      "validationType": "multiline",
+      "input_type": "text",
+      "multiline":true,
+      "rows":6,
+      "xs":12,
+      "md":12
+    }
+  ]
+}

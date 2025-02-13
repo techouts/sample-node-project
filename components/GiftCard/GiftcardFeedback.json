@@ -1,0 +1,45 @@
+{
+    "cardTitle":"Gift Card Sent!",
+    "userName":"Hey Ashwini Vaidya, your SSBeauty E-Gift Card has been successfully delivered.Please find your order details below.",
+    "orderDetail":"Order Details",
+    "orderId":"Order ID # ",
+    "ordernumber":" 1203438 09546013302601",
+    "orderDate":"Order Placed:",
+    "date":"8th May, 2022",
+    "orderstatus":"Order Status: Shipped" ,
+    "todelivered":"To be delivered on 16th May, 2022",
+    "viewbreakup":"View Breakup",
+    "E_Gift_Card":"SSBeauty E-Gift Card " ,
+    "price":"1,345",
+    "discount":"Discount ",
+    "dPrice":"0",
+    "convenience":"Convenience Fee",
+    "deliverycharges":"Delivery Charges",
+    "Payableamount":"total Payable amount",
+    "PaymentMode": "Mode of Payment: ",
+    "invoice":"download invoice",
+    "ratingtilte":"Rate Your Shopping Experience",
+    "wentwrong":"What Went Wrong?",
+    "descriptiontitle":"Please describe your experience",
+    "placeholder":"Write about your experience here",
+    "submit":"submit",
+    "info":[
+        {
+            "options":"Variety of options"  ,
+            "belowRating":"Not enough options"
+        } ,
+        {
+            "options":"Easy to navigate",
+            "belowRating":"Site was slow"
+        },
+        {
+            "options":"Easy to customize" ,
+            "belowRating":"Difficult to navigate" 
+        },
+        {
+            "options":"Others"  ,
+            "belowRating":"Others"
+        }
+    ]
+    
+}

@@ -1,0 +1,14 @@
+{
+  "title": "First Citizen",
+  "items": [
+    {
+      "label": "Available Balance"
+    },
+    {
+      "label": "Mobile Number"
+    },
+    {
+      "label": "Enter Amount To Redeem"
+    }
+  ]
+}

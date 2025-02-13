@@ -1,0 +1,83 @@
+{
+  "id": 6,
+  "title": null,
+  "subText": null,
+  "data": [
+    {
+      "id": 36,
+      "title": "My Orders",
+      "identiier": "orders",
+      "titlePath": "/account/orders",
+      "selected": false
+    },
+    {
+      "id": 37,
+      "title": "My Profile",
+      "identiier": "profile",
+      "titlePath": "/account/profile",
+      "selected": false
+    },
+    {
+      "id": 38,
+      "title": "Beauty Profile",
+      "identiier": "profile",
+      "titlePath": "/account/beauty-profile",
+      "selected": false
+    },
+    {
+      "id": 45,
+      "title": "Fragrance Profile",
+      "identiier": "profile",
+      "titlePath": "/account/fragrance-profile",
+      "selected": false
+    },
+    {
+      "id": 39,
+      "title": "First Citizen Club",
+      "identiier": "firstcitizen",
+      "titlePath": "/account/first-citizen",
+      "selected": false
+    },
+    {
+      "id": 40,
+      "title": "My Wallet",
+      "identiier": "mywallet",
+      "titlePath": "/account/wallet",
+      "selected": false
+    },
+    {
+      "id": 41,
+      "title": "Saved Payments",
+      "identiier": "savedpayments",
+      "titlePath": "/account/saved-payments",
+      "selected": true
+    },
+    {
+      "id": 82,
+      "title": "My Service Request",
+      "identiier": null,
+      "titlePath": "/account/service-request",
+      "selected": false
+    },
+    {
+      "id": 82,
+      "title": "My Ratings & Reviews",
+      "identiier": null,
+      "titlePath": "/account/ratings-reviews",
+      "selected": false
+    },
+    {
+      "id": 90,
+      "title": "Wishlist",
+      "identiier": "wishlist",
+      "titlePath": "/account/wishlist",
+      "selected": false
+    },
+    {
+      "id": 42,
+      "title": "Logout",
+      "identiier": "logout",
+      "selected": false
+    }
+  ]
+}

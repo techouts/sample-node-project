@@ -1,0 +1,1 @@
+export const BRANDLIST = `{customAttributeMetadata(attributes:[{attribute_code:"brand_name",entity_type:"catalog_product"}]){items{attribute_code attribute_type entity_type input_type attribute_options{value label}storefront_properties{use_in_product_listing use_in_layered_navigation use_in_search_results_layered_navigation visible_on_catalog_pages position}}}}`;

@@ -1,0 +1,46 @@
+{
+  "filter": "FILTER",
+  "items": [
+    {
+      "label": "All Orders",
+      "value": "default",
+      "disable": false,
+      "isDefault": true
+    },
+    {
+      "label": " Past 30 Days",
+      "value": "1M",
+      "disable": false,
+      "isDefault": false
+    },
+    {
+      "label": " Past 6 months ",
+      "value": "6M",
+      "disable": false,
+      "isDefault": false
+    },
+    {
+      "label": " Past Year ",
+      "value": "12M",
+      "disable": false
+    },
+    {
+      "label": "Refund Completed",
+      "value": "refund_complete",
+      "disable": false,
+      "isDefault": false
+    },
+    {
+      "label": "Delivered",
+      "value": "Delivered",
+      "disable": false,
+      "isDefault": false
+    },
+    {
+      "label": " Cancelled ",
+      "value": "Cancelled",
+      "disable": false,
+      "isDefault": false
+    }
+  ]
+}

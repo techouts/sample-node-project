@@ -1,0 +1,33 @@
+{
+    "componentId": "beauty-advice",
+    "_id": "1265",
+      "items": [
+        {
+          "imageUrl": "https://i.ibb.co/m8C5WWF/card1.png",
+          "title": "Perfect palettes to light up your summer",
+          "subTitle": "It’s that time of the year when it’s sunny and bright outside, flowers are abloom and colours seem a lot ",
+          "readMoreText":"READ MORE",
+           "viewText":"5.2k",
+           "view":"Views",
+           "shareText":"SHARE"
+        },
+        {
+          "imageUrl": "https://i.ibb.co/bJtgH1w/card-2.png",
+          "title": "Perfect palettes to light up your summer",
+          "subTitle": "It’s that time of the year when it’s sunny and bright outside, flowers are abloom and colours seem a lot ",
+          "readMoreText":"READ MORE",
+           "viewText":"5.2k",
+           "view":"Views",
+           "shareText":"SHARE"
+        },
+        {
+          "imageUrl": "https://i.ibb.co/QdkYv2Y/card3.png",
+          "title": "Perfect palettes to light up your summer",
+          "subTitle": "It’s that time of the year when it’s sunny and bright outside, flowers are abloom and colours seem a lot ",
+          "readMoreText":"READ MORE",
+           "viewText":"5.2k",
+           "view":"Views",
+           "shareText":"SHARE"
+        }
+      ]
+    }

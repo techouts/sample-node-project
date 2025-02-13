@@ -1,0 +1,72 @@
+{
+  "__component": "Gift Card Form",
+  "id": "123456",
+  "chooseAmount": "CHOOSE  AN AMOUNT",
+  "whosThisFor": "WHO IS THIS FOR ?",
+  "senderDetails": "SENDER’S DETAILS",
+  "helperText": "We will be sending you the confirmation over here",
+  "proceed": "PROCEED TO PAY",
+  "preview": "Preview",
+  "pleaseNote": "Please Note:",
+  "notes": "1. The Gift Card can't be cancelled after being purchased.<br> 2. Recipient Email ID can't be modified once the Gift Card is purchased as it is sent to the recipient immediately after payment has been completed.",
+  "message": "You have received a Gift Card.",
+  "from": "From :",
+  "giftCardno": "Gift Card No. - 1234 XXXX XXXX 5678",
+  "giftAmount": "Gift Amount: Rs",
+  "expireDate": "Expiry Date : 24 June 2022",
+  "amount_List": [
+    { "amount_value": 500 },
+    { "amount_value": 1000 },
+    { "amount_value": 2000 }
+  ],
+  "form_List": [
+    {
+      "isRequired": false,
+      "label": "Name",
+      "name": "receivers_name",
+      "type": "text",
+      "placeHolder": "Enter Name",
+      "validationType": "none",
+      "errorMessage": ""
+    },
+    {
+      "isRequired": true,
+      "label": "Email ID",
+      "name": "receivers_email",
+      "type": "email",
+      "placeHolder": "Email ID",
+      "validationType": "email",
+      "errorMessage": "Invalid Email ID"
+    },
+    {
+      "isRequired": true,
+      "label": "Confirm Email ID",
+      "name": "receivers_confirm_email",
+      "type": "email",
+      "placeHolder": "Confirm Email ID",
+      "validationType": "compare",
+      "errorMessage": "Email does not match",
+      "compare_name":"receivers_email"
+    }
+  ],
+  "form_List_Two": [
+    {
+      "isRequired": false,
+      "label": "Name",
+      "name": "senders_name",
+      "type": "text",
+      "placeHolder": "Enter Name",
+      "validationType": "none",
+      "errorMessage": ""
+    },
+    {
+      "isRequired": true,
+      "label": "Email ID",
+      "name": "senders_email",
+      "type": "email",
+      "placeHolder": "Email ID",
+      "validationType": "email",
+      "errorMessage": "Invalid Email ID"
+    }
+  ]
+}

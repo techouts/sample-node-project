@@ -1,0 +1,11 @@
+{
+    "__Component":"Sign-in",
+    "id":"787",
+    "data":{
+        "title":"SIGN IN TO SSBeauty",
+        "subTitle": "Enter your phone number to sign in",
+        "PlaceHolder":"Enter your phone number",
+        "buttontext":"PROCEED",
+        "buttonUrl":"https://www.google.com"
+
+}}

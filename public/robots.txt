@@ -1,0 +1,10 @@
+User-agent: * 
+Disallow: /search 
+Disallow: /account 
+Disallow: /cart 
+Disallow: /beauty-products 
+Sitemap: https://www.ssbeauty.in/sitemap.xml
+User-agent: Googlebot
+Disallow:
+User-agent: Googlebot-image
+Disallow:

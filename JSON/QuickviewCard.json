@@ -1,0 +1,28 @@
+{
+    "id": 123,
+    "data": {
+      "title": "Loreal Hydrating Makeup Primer",
+      "buttonCart": "Add to cart",
+      "bgColor": "#E5E5E5",
+      "bgPadding": "1%",
+      "buttonBuy": "Buy now",
+      "delivery": "delivery & pick up",
+      "enterPin": "enter pincode",
+      "images": [
+        { "imageUrl": "https://i.ibb.co/mJwmHg1/firstimage.png" },
+        { "imageUrl": "https://i.ibb.co/XCFGWPw/carousel1.png" },
+        { "imageUrl": "https://i.ibb.co/txc67hb/carousel2.png" },
+        { "imageUrl": "https://i.ibb.co/SKRgNNb/carousel3.png"},
+        { "imageUrl": "https://i.ibb.co/HNXvYHC/carousel4.png" },
+        { "imageUrl": "" }
+      ],
+      "loveIcon": {
+        "imageUrl": "https://i.ibb.co/sQ2gZ0P/Group-48097459.png" ,
+        "path": "#"
+      },
+      "discountIcon": {
+          "imageUrl": "https://i.ibb.co/Nx2nH0k/discount-shape.png",
+          "path": "#"
+      }
+    }
+  }

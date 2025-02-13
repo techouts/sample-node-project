@@ -1,0 +1,69 @@
+{
+  "filterImage": "https://iili.io/sLFHPI.png",
+  "filterText": "Filter",
+  "findNearStoreTitle": "Find A Store Near You",
+  "findNearStores": [
+    {
+      "id": 1,
+      "storeName": "All"
+    },
+    {
+      "id": 2,
+      "storeName": "Shoppers Stop"
+    },
+    {
+      "id": 3,
+      "storeName": "SSBeauty"
+    },
+    {
+      "id": 4,
+      "storeName": "MAC"
+    },
+    {
+      "id": 5,
+      "storeName": "Bobbi Brown"
+    },
+    {
+      "id": 6,
+      "storeName": "Jo Malone"
+    },
+    {
+      "id": 7,
+      "storeName": "Estee Lauder"
+    },
+    {
+      "id": 8,
+      "storeName": "Too Faced"
+    },
+    {
+      "id": 9,
+      "storeName": "Smash Box"
+    },
+    {
+      "id": 10,
+      "storeName": "Clinique"
+    }
+  ],
+  "StoreAddress": [
+    {
+      "id": 1,
+      "particularStoreTitle": "SSBeauty - Mumbai - Bandra",
+      "storeName": "Suburbia Mall India Pvt Ltd",
+      "village": "Old Bandra,",
+      "streetName": "Linking Road,",
+      "platName": "Bandra",
+      "storePincode": "West Mumbai - 560076",
+      "phoneNumber": "Tel : +91 9836414174"
+    },
+    {
+      "id": 2,
+      "particularStoreTitle": "SSBeauty - Bengaluru - Bannergatta",
+      "storeName": "Commerce@ Mantri,",
+      "village": "Ground Floor,",
+      "platName": "N.S Palaya,",
+      "streetName": "Bannerghatta Road,",
+      "storePincode": "South 3 Bengaluru - 560076",
+      "phoneNumber": "+91 9836414174"
+    }
+  ]
+}

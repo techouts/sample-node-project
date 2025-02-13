@@ -1,0 +1,39 @@
+{
+  "dateAndTimeTitle": "Pick A Date And Time",
+  "timeDuration": "30 mins",
+  "availableSlotTitle": "Available Slots",
+  "slotTimings": [
+    {
+      "id": 1,
+      "slotTime": "02:00 PM"
+    },
+    {
+      "id": 2,
+      "slotTime": "02:30 PM"
+    },
+    {
+      "id": 3,
+      "slotTime": "03:00 PM"
+    },
+    {
+      "id": 4,
+      "slotTime": "04:00 PM"
+    },
+    {
+      "id": 5,
+      "slotTime": "05:00 PM"
+    },
+    {
+      "id": 6,
+      "slotTime": "05:30 PM"
+    },
+    {
+      "id": 7,
+      "slotTime": "07:00 PM"
+    },
+    {
+      "id": 8,
+      "slotTime": "07:30 PM"
+    }
+  ]
+}

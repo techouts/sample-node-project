@@ -1,0 +1,21 @@
+{
+  "__component": "BeautyAdviceForMiste",
+  "img": "https://i.ibb.co/T4DVcyd/Vector.png",
+  "BeautyAdvice": [
+    {
+      "title": "The Beauty Stop",
+      "SubTitle": "Check Out The Latest Beauty Edit",
+      "backgroundImageUrl": "https://i.ibb.co/9wCCWgt/image-50.png"
+    },
+    {
+      "title": "Buying Guides",     
+      "SubTitle": "Shop Better With Our Guided Selling Stores",
+      "backgroundImageUrl": "https://i.ibb.co/y4B8bQT/image-53.png"
+    },
+    {
+      "title": "Videos",
+      "SubTitle": "Learn The Latest Beauty Hacks, Tricks And Tips",
+      "backgroundImageUrl": "https://i.ibb.co/CQgQD0W/image-55.png"
+    }
+  ]
+}

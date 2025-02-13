@@ -1,0 +1,28 @@
+{
+  "data": {
+    "deliveryTypes": [
+      {
+        "index": 0,
+        "type": "Standard Delivery",
+        "metaData": [{"id": 0, "text": "Get it by Monday, 16th May" }]
+      },
+      {
+        "index": 1,
+        "type": "Express Delivery",
+        "metaData": [{ "id": 11 ,"text": "Not available for this location" }]
+      },
+      {
+        "index": 2,
+        "type": "Pay & Pickup",
+        "metaData": [
+          { "id": 1, "text": "8pm, Mantri Mall, Yeshwantpur" },
+          { "id": 2, "text": "5pm, Infinity Mall, Yeshwantpur" },
+          { "id": 3, "text": "8pm, Forum Mall, Yeshwantpur" },
+          { "id": 4, "text": "5pm, Shantiniketan Mall, Yeshwantpur" },
+          { "id": 5, "text": "8pm, Oasis Mall, Yeshwantpur" },
+          { "id": 6, "text": "5pm, Pheonix Mall, Yeshwantpur" }
+        ]
+      }
+    ]
+  }
+}

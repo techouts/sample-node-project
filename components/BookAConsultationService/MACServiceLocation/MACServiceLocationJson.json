@@ -1,0 +1,151 @@
+{
+  "searchImage": "https://iili.io/sic0vf.png",
+  "expandMoreImage": "https://iili.io/silaoB.png",
+  "locationTitle": "Select Your Location",
+  "listOfCities": [
+    {
+      "id": 1,
+      "cityName": "Agra"
+    },
+    {
+      "id": 2,
+      "cityName": "Ahmedabad"
+    },
+    {
+      "id": 3,
+      "cityName": "Amritsar"
+    },
+    {
+      "id": 4,
+      "cityName": "Assam"
+    },
+    {
+      "id": 5,
+      "cityName": "Bangalore"
+    },
+    {
+      "id": 6,
+      "cityName": "Bhuvaneshwar"
+    },
+    {
+      "id": 7,
+      "cityName": "Chandigarh"
+    },
+    {
+      "id": 8,
+      "cityName": "Chennai"
+    },
+    {
+      "id": 9,
+      "cityName": "Cochin"
+    },
+    {
+      "id": 10,
+      "cityName": "Coimbatore"
+    },
+    {
+      "id": 11,
+      "cityName": "Durgapur"
+    },
+    {
+      "id": 12,
+      "cityName": "Gurugram"
+    },
+    {
+      "id": 13,
+      "cityName": "Hyderabad"
+    },
+    {
+      "id": 14,
+      "cityName": "Indore"
+    },
+    {
+      "id": 15,
+      "cityName": "Jalandhar"
+    },
+    {
+      "id": 16,
+      "cityName": "Kolkata"
+    },
+    {
+      "id": 17,
+      "cityName": "Kozhikode"
+    },
+    {
+      "id": 18,
+      "cityName": "Latur"
+    },
+    {
+      "id": 19,
+      "cityName": "Lucknow"
+    },
+    {
+      "id": 20,
+      "cityName": "Mangalore"
+    },
+    {
+      "id": 21,
+      "cityName": "Meerut"
+    },
+    {
+      "id": 22,
+      "cityName": "Mumbai"
+    },
+    {
+      "id": 23,
+      "cityName": "Navi Mumbai"
+    },
+    {
+      "id": 24,
+      "cityName": "New Delhi"
+    },
+    {
+      "id": 25,
+      "cityName": "Noida"
+    },
+    {
+      "id": 26,
+      "cityName": "Panvel"
+    },
+    {
+      "id": 27,
+      "cityName": "Pune"
+    },
+    {
+      "id": 28,
+      "cityName": "Punjab"
+    },
+    {
+      "id": 29,
+      "cityName": "Raipur"
+    },
+    {
+      "id": 30,
+      "cityName": "Siliguri"
+    },
+    {
+      "id": 31,
+      "cityName": "Surat"
+    },
+    {
+      "id": 32,
+      "cityName": "Thane"
+    },
+    {
+      "id": 33,
+      "cityName": "Vadodara"
+    },
+    {
+      "id": 34,
+      "cityName": "Varanasi"
+    },
+    {
+      "id": 35,
+      "cityName": "Vijayawada"
+    },
+    {
+      "id": 36,
+      "cityName": "Visakhapatnam"
+    }
+  ]
+}

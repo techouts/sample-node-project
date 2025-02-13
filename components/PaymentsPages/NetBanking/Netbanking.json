@@ -1,0 +1,33 @@
+{
+  "title": "Net Banking",
+  "items": [
+    {
+      "image": "https://storage.googleapis.com/images_cms_prod_ssb/axis_web_image_6f753e0543/axis_web_image_6f753e0543.svg",
+      "description": "Axis Bank",
+      "juspay_bank_code": "JP_AXIS",
+      "payment_method": "NB_AXIS",
+      "payment_method_type": "NB"
+    },
+    {
+      "image": "https://storage.googleapis.com/images_cms_prod_ssb/icici_web_image_14dc98f49d/icici_web_image_14dc98f49d.svg",
+      "description": "ICICI Netbanking",
+      "juspay_bank_code": "JP_ICICI",
+      "payment_method": "NB_ICICI",
+      "payment_method_type": "NB"
+    },
+    {
+      "image": "https://storage.googleapis.com/images_cms_prod_ssb/sbi_web_image_fe6f25455e/sbi_web_image_fe6f25455e.svg",
+      "description": "State Bank of India",
+      "juspay_bank_code": "JP_SBI",
+      "payment_method": "NB_SBI",
+      "payment_method_type": "NB"
+    },
+    {
+      "image": "https://storage.googleapis.com/images_cms_prod_ssb/punjab_web_image_a3f028ed67/punjab_web_image_a3f028ed67.svg",
+      "description": "Kotak Bank",
+      "juspay_bank_code": "JP_KOTAK",
+      "payment_method": "NB_KOTAK",
+      "payment_method_type": "NB"
+    }
+  ]
+}

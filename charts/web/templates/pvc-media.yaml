@@ -1,0 +1,13 @@
+{{- if .Values.gke_filestore_pvc.enabled -}}
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: "{{ include "web.fullname" . }}-cache"
+spec:
+  accessModes:
+    - ReadWriteMany
+  storageClassName: csi-filestore-sharedvpc
+  resources:
+    requests:
+      storage: 10Gi
+{{- end }}

@@ -1,0 +1,38 @@
+{
+  "expandMoreImage": "https://iili.io/silaoB.png",
+  "titleTextMAC": "Select Your M.A.C Service",
+  "listOfServices": [
+    {
+      "id": 1,
+      "serviceType": "Get The Look - Rs. 0"
+    },
+    {
+      "id": 2,
+      "serviceType": "Express Make Up -  Rs. 3600"
+    },
+    {
+      "id": 3,
+      "serviceType": "Make Up in 60 Mins - Rs. 5500"
+    },
+    {
+      "id": 4,
+      "serviceType": "M.A.C Technique - Rs. 4200"
+    },
+    {
+      "id": 5,
+      "serviceType": "One on One Lessons 30 Mins - Rs. 3600"
+    },
+    {
+      "id": 6,
+      "serviceType": "One on One Lessons 90 Mins - Rs. 8000"
+    },
+    {
+      "id": 7,
+      "serviceType": "Wedding Make Up - Rs. 11000"
+    },
+    {
+      "id": 8,
+      "serviceType": "The M.A.C Bride Service - Rs. 18000"
+    }
+  ]
+}

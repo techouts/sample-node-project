@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Horizontal Spacer renders a horizontal spacer component 1`] = `
+<div>
+  <div
+    class="widget.horizontal-spacer_10 MuiBox-root css-4evupm"
+  />
+</div>
+`;

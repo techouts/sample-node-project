@@ -1,0 +1,16 @@
+{
+    "MyReferrals" : "My Referrals",
+    "rewards" : "TOTAL REWARDS",
+    "rewardsPoints" : [
+        {
+            "name" : "Yashal Sharma",
+            "date" : "26 May, 2022",
+            "points" : 250
+        },
+        {
+            "name" : "Yashal Sharma",
+            "date" : "26 May, 2022",
+            "points" : 250
+        }
+    ]
+}

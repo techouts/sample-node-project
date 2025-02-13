@@ -1,0 +1,60 @@
+{
+  "Component": "Editor-Pick",
+  "id": "12345",
+  "title": "EDITOR'S PICK",
+  "button": "VIEWS ALL",
+  "items": [
+    {
+      "imageUrl": "https://i.ibb.co/0nj6cxw/Rectangle-32-2.png",
+      "mobileImageUrl": "https://i.ibb.co/0Xxvw6b/Rectangle-34.png",
+      "buttonText": "Beauty",
+      "noOfViews": "5.2K",
+      "view":"Views",
+      "heading": "Perfect palettes to light up your summer",
+      "text": "Its that time of the year when its sunny and bright outside, flowers are abloom and colours seem a lot",
+      "subText": "Read more",
+      "shareText": "Share",
+      "viewIcon":"https://i.ibb.co/TTTn3S2/eye.png",
+      "shareIcon":"https://i.ibb.co/mJ0X4XJ/Vector-1.png"
+    },
+    {
+      "imageUrl": "https://i.ibb.co/0nj6cxw/Rectangle-32-2.png",
+      "mobileImageUrl": "https://i.ibb.co/M8m8kwN/Rectangle-32-11.png",
+      "buttonText": "Beauty",
+      "noOfViews": "5.2K ",
+      "view": "Views",
+      "heading": "Perfect palettes to light up your summer",
+      "text": "Its that time of the year when its sunny and bright outside, flowers are abloom and colours seem a lot",
+      "subText": "Read more",
+      "shareText": "Share",
+      "viewIcon":"https://i.ibb.co/TTTn3S2/eye.png",
+      "shareIcon":"https://i.ibb.co/mJ0X4XJ/Vector-1.png"
+    },
+    {
+      "imageUrl": "https://i.ibb.co/0nj6cxw/Rectangle-32-2.png",
+      "mobileImageUrl": "https://i.ibb.co/M8m8kwN/Rectangle-32-11.png",
+      "buttonText": "Beauty",
+      "noOfViews": "5.2K",
+      "view": "Views",
+      "heading": "Perfect palettes to light up your summer",
+      "text": "Its that time of the year when its sunny and bright outside, flowers are abloom and colours seem a lot",
+      "subText": "Read more",
+      "shareText": "Share",
+      "viewIcon":"https://i.ibb.co/TTTn3S2/eye.png",
+      "shareIcon":"https://i.ibb.co/mJ0X4XJ/Vector-1.png"
+    },
+    {
+      "imageUrl": "https://i.ibb.co/0nj6cxw/Rectangle-32-2.png",
+      "mobileImageUrl": "https://i.ibb.co/M8m8kwN/Rectangle-32-11.png",
+      "buttonText": "Beauty",
+      "noOfViews": "5.2K",
+      "view": "Views",
+      "heading": "Perfect palettes to light up your summer",
+      "text": "Its that time of the year when its sunny and bright outside, flowers are abloom and colours seem a lot",
+      "subText": "Read more",
+      "shareText": "Share",
+      "viewIcon":"https://i.ibb.co/TTTn3S2/eye.png",
+      "shareIcon":"https://i.ibb.co/mJ0X4XJ/Vector-1.png"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "component": "Cart Carousel",
+  "wishlist": "",
+  "addToCart": "ADD TO CART",
+  "buyNow": "BUY NOW",
+  "items": [
+    {
+      "delevery": "Express delivery",
+      "title": "Bobbi Brown Crushed Lip Color - Cocoa",
+      "image": "",
+      "shades": "23 Shades",
+      "price": "1200",
+      "originPrice": "1500",
+      "off": "20% OFF",
+      "offers": "4 Offers Available"
+    },
+    {
+      "delevery": "Express delivery",
+      "title": "Maybelline New York Fit Me Matte and Poreless Powder",
+      "image": "",
+      "shades": "2 sizes available",
+      "price": "1200",
+      "originPrice": "1500",
+      "off": "20% OFF",
+      "offers": "4 Offers Available"
+    },
+    {
+      "delevery": "Express delivery",
+      "title": "Chambor PINK PEARL Orosa Highlighting Stick",
+      "image": "",
+      "shades": "6 Gms",
+      "price": "1200",
+      "originPrice": "1500",
+      "off": "20% OFF",
+      "offers": "4 Offers Available"
+    },
+    {
+      "delevery": "Express delivery",
+      "title": "Lakmé Absolute Spotlight Eyeshadow Palette",
+      "image": "",
+      "shades": "4 Shades",
+      "price": "1200",
+      "originPrice": "1500",
+      "off": "20% OFF",
+      "offers": "4 Offers Available"
+    },
+    {
+      "delevery": "Express delivery",
+      "title": "Lakmé Absolute Spotlight Eyeshadow Palette",
+      "image": "",
+      "shades": "23 Shades",
+      "price": "1200",
+      "originPrice": "1500",
+      "off": "20% OFF",
+      "offers": "4 Offers Available"
+    },
+    {
+      "delevery": "Express delivery",
+      "title": "Bobbi Brown Crushed Lip Color - Cocoa",
+      "image": "",
+      "shades": "23 Shades",
+      "price": "1200",
+      "originPrice": "1500",
+      "off": "20% OFF",
+      "offers": "4 Offers Available"
+    }
+  ]
+}

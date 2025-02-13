@@ -1,0 +1,73 @@
+{
+  "id": 1916,
+  "data": {
+    "SearchInput": "",
+    "text": "Cropped top",
+    "bottomText": "Edit Actions...",
+    "tabList": [
+      {
+        "listText": "Add to Reading List",
+        "listIcon": ""
+      },
+      {
+        "listText": "Add to Reading List",
+        "listIcon": ""
+      }
+    ],
+    "personalSuggest": [
+      {
+        "mediaIcon": "",
+        "mediaName": "AirDrop",
+        "path": ""
+      },
+      {
+        "mediaIcon": "",
+        "mediaName": "Messages",
+        "path": ""
+      },
+      {
+        "mediaIcon": "#",
+        "mediaName": "Mail",
+        "path": ""
+      },
+      {
+        "mediaIcon": "",
+        "mediaName": "Instagram",
+        "path": ""
+      },
+
+      {
+        "mediaIcon": "",
+        "mediaName": "Whatsapp",
+        "path": ""
+      }
+    ],
+    "socialMedia": [
+      {
+        "mediaIcon": "",
+        "mediaName": "AirDrop",
+        "path": ""
+      },
+      {
+        "mediaIcon": "",
+        "mediaName": "Messages",
+        "path": ""
+      },
+      {
+        "mediaIcon": "#",
+        "mediaName": "Mail",
+        "path": ""
+      },
+      {
+        "mediaIcon": "",
+        "mediaName": "Instagram",
+        "path": ""
+      },
+      {
+        "mediaIcon": "",
+        "mediaName": "Whatsapp",
+        "path": ""
+      }
+    ]
+  }
+}

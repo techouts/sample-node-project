@@ -1,0 +1,25 @@
+{
+    "_id":2711,
+    "__component": "footer-bottom ",
+    "bgColor": "#F5F5F5",
+    "bgPadding": "0 5%",
+    "text": "© ShoppersStopBeauty. 2022. All Rights Reserved.",
+    "path": "",
+    "items": [
+      {
+        "id": 1,
+        "subtext": "Privacy Policy",
+        "path": ""
+      },
+      {
+        "id": 2,
+        "subtext": "Terms & Conditions",
+        "path": ""
+      },
+      {
+        "id": 3,
+        "subtext": "Disclaimer",
+        "path": ""
+      }
+    ]
+  }

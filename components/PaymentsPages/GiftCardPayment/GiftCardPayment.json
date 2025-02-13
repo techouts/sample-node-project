@@ -1,0 +1,23 @@
+{
+  "Component": "Giftcard/E-Gift-voucher",
+  "id": "12334",
+
+  "Data": {
+    "title": "Gift Card/ E-Gift Voucher",
+    "radioIcon": "",
+    "radioText": "Gift Card",
+    "radioIcons": "",
+    "radioTextTwo": "E-Gift Voucher",
+    "cardNumber": "cardNumber",
+    "pin": "pinNo",
+    "balance": "checkBalance",
+    "amount": "enter amount to be reedemed",
+    "availableBalance": "Available Balance",
+    "availableValue": "₹ 1000",
+    "expairyDate": "Expiry Date",
+    "expairyValue": "23 May 2022",
+    "redeemAount": "Enter Amount To Redeem*",
+    "redeemValue": "500",
+    "buttonText": "REDEEM AMOUNT"
+  }
+}

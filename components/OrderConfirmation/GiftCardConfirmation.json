@@ -1,0 +1,41 @@
+{
+  "title": "Gift Card Sent!",
+  "logo": "https://i.ibb.co/pW1G9JS/Vector.png",
+  "giftText": "Hey Ashwini Vaidya, your SSBeauty E-Gift Card has been successfully delivered.",
+  "OrderText": "Please find your order details below.",
+  "OrderId": "1203438 09546013302601",
+  "OrderPlaced": "8th May, 2022",
+  "devileryDate": "16th May, 2022",
+  "giftImage": "https://i.ibb.co/02rtqb9/Rectangle-2318.png",
+  "experienceTitle": "Rate Your Shopping Experience",
+  "wentWrong": [
+    {
+      "buttonText": "Not enough options"
+    },
+    {
+      "buttonText": "Site was slow"
+    },
+    {
+      "buttonText": "Difficult to navigate"
+    },
+    {
+      "buttonText": "Others"
+    }
+  ],
+  "orderWhatWentWrong": [
+    {
+      "buttonText": "Site is Slow"
+    },
+    {
+      "buttonText": "less variety"
+    },
+    {
+      "buttonText": "Lack of Discoverability"
+    },
+    {
+      "buttonText": "Others"
+    }
+  ],
+  "ExperienceHeading": "Please describe your experience",
+  "WriteAbout": "Write about your experience here"
+}

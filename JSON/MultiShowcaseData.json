@@ -1,0 +1,28 @@
+{
+    "__componentId": "widget.multi-showcase",
+    "id": "1007",
+    "bgColor": "#f6f6f6",
+    "bgPadding": "2% 6%",
+    "title": "category in focus",
+    "itemPadding": "",
+    "itemStyle": "",
+    "contentLeft": false,
+    "contentImageUrl":"",
+   
+    "items": [
+        {
+            "imageUrl": "https://i.ibb.co/7Yp5RJ1/image-61.png",
+            "mobileImageUrl": "https://i.ibb.co/ZKMprLB/image-61-1.png",
+            "path": "",
+            "ctaText": "SHOP NOW",
+            "isNewTab": true
+        },
+        {
+            "imageUrl": "https://i.ibb.co/7Yp5RJ1/image-61.png",
+            "mobileImageUrl": "https://i.ibb.co/3N8TG7n/image-63-2.png",
+            "path": "",
+            "ctaText": "SHOP NOW",
+            "isNewTab": true
+        }
+    ]
+}

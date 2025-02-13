@@ -1,0 +1,30 @@
+{
+  "title": "APPLY COUPON",
+  "searchHolder": "Enter Coupon Code",
+  "data": [
+    {
+      "couponTitle": "SSBEAUTY25",
+      "offerCDescription": "Enjoy 5% off your purchases with this special coupon",
+      "maxDiscoiunt": "10000",
+      "terms": "T&Cs Apply"
+    },
+    {
+      "couponTitle": "SSBEAUTY26",
+      "offerCDescription": "Enjoy 5% off your purchases with this special coupon",
+      "maxDiscoiunt": "20000",
+      "terms": "T&Cs Apply"
+    },
+    {
+      "couponTitle": "SSBEAUTY27",
+      "offerCDescription": "Enjoy 5% off your purchases with this special coupon",
+      "maxDiscoiunt": "30000",
+      "terms": "T&Cs Apply"
+    },
+    {
+      "couponTitle": "SSBEAUTY28",
+      "offerCDescription": "Enjoy 5% off your purchases with this special coupon",
+      "maxDiscoiunt": "40000",
+      "terms": "T&Cs Apply"
+    }
+  ]
+}

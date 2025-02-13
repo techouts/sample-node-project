@@ -1,0 +1,48 @@
+{
+  "componentId": "beauty-advice",
+  "_id": "1265",
+  "data": {
+    "title": "THE BEAUTY SHOP",
+    "description": [
+      {
+        "text1": "With SSBeauty, you can now hear makeup advice, tips&tricks,",
+        "text2": " straight from the experts. From articles to video consults, we have it all!"
+      }
+    ],
+    "bgPadding": "200px",
+    "imageUrl": "https://i.ibb.co/M668dfb/Rectangle-32.png",
+    "subText": "Why it’s important to switch to Earth Friendly...",
+    "ctaText": "Read More",
+    "ctaUrl": "",
+    "ctaType": "external",
+    "items": [
+      {
+        "imageUrl": "https://i.ibb.co/8K8TrMm/Rectangle-39.png",
+        "title": "The perfect pre-wedding skincare routine everyday",
+        "mtitle": "Perfect skincare routine",
+        "subText": "With SSBeauty, you can now hear makeup advice, tips & tricks, straight from the experts.",
+        "webUrl": "",
+        "contentType": "video",
+        "isNewTab": true
+      },
+      {
+        "imageUrl": "https://i.ibb.co/82YS3PK/Rectangle-39-1.png",
+        "title": "The perfect pre-wedding skincare routine everyday",
+        "mtitle": "Perfect skincare routine",
+        "subText": "With SSBeauty, you can now hear makeup advice, tips & tricks, straight from the experts.",
+        "webUrl": "",
+        "contentType": "video",
+        "isNewTab": true
+      },
+      {
+        "imageUrl": "https://i.ibb.co/LrYSv3C/Rectangle-39-2.png",
+        "title": "The perfect pre-wedding skincare routine everyday",
+        "mtitle": "Perfect skincare routine",
+        "subText": "With SSBeauty, you can now hear makeup advice, tips & tricks, straight from the experts.",
+        "webUrl": "",
+        "contentType": "video",
+        "isNewTab": true
+      }
+    ]
+  }
+}

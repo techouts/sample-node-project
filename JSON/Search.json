@@ -1,0 +1,249 @@
+{
+  "__component": "trending-stores",
+  "id": 1234,
+  
+  "trendheaderTitle": "TRENDING SEARCHES",
+  "trendheaderLogo": "https://i.ibb.co/MDB0xfF/Vector.png",
+  "trendcolumns": 3,
+  "listlogo": "",
+  "recentheaderTitle": "YOUR RECENT SEARCHES ",
+  "trendingsearchesTitle": " TRENDING SEARCHES ",
+  "recentheaderLogo": "https://i.ibb.co/xF63wp3/Group-1116599338.png",
+  "recentcolumns": 2,
+  "popularheaderTitle": "POPULAR BRANDS",
+  "popularheaderLogo": "https://i.ibb.co/0BdVM4n/Vector-1.png",
+  "popularcolumns": 4,
+  "popularcategoriesTitle": "POPULAR CATEGORIES",
+  "popularcategoriesLogo": "https://i.ibb.co/0BdVM4n/Vector-1.png",
+  "popularcategoriescolumns": 2,
+  "trendlistItems": [
+    {
+      "ctaLabel": "M.A.C Ruby Woo Lipstick",
+      "trendLogo": "https://i.ibb.co/R4cQBPS/image-36.png",
+      "path": "",
+      "isNewTab": true
+    },
+    {
+      "ctaLabel": "Face Masks",
+      "trendLogo": "https://i.ibb.co/R4cQBPS/image-36.png",
+      "path": "",
+      "isNewTab": true
+    },
+    {
+      "ctaLabel": "Nails",
+      "trendLogo": "https://i.ibb.co/R4cQBPS/image-36.png",
+      "path": "",
+      "isNewTab": true
+    },
+    {
+      "ctaLabel": "Eyeshadow",
+      "trendLogo": "https://i.ibb.co/R4cQBPS/image-36.png",
+      "path": "",
+      "isNewTab": true
+    },
+    {
+      "ctaLabel": "Lipsticks",
+      "trendLogo": "https://i.ibb.co/R4cQBPS/image-36.png",
+      "path": "",
+      "isNewTab": true
+    },
+    {
+      "ctaLabel": "Aveno Body Lotion",
+      "trendLogo": "https://i.ibb.co/R4cQBPS/image-36.png",
+      "path": "",
+      "isNewTab": true
+    }
+  ],
+  "recentlistItems": [
+    {
+      "ctaRecent": "Loreal Lipstick",
+      "path": "",
+      "isNewTab": true
+    },
+    {
+      "ctaRecent": "Hair Straightner",
+      "path": "",
+      "isNewTab": true
+    },
+    {
+      "ctaRecent": "Huda Beauty Eyeshadow",
+      "path": "",
+      "isNewTab": true
+    },
+    {
+      "ctaRecent": "Sunscreen",
+      "path": "",
+      "isNewTab": true
+    }
+  ],
+  "popularlistItems": [
+    {
+      "ctaLogo": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Mac_Popular_brands_14bd3cfad3.jpg?updated_at=2022-11-29T17:33:51.700Z",
+      "path": "MAC/c/brand?brand_name=9882",
+      "isNewTab": true,
+      "title": "Mac"
+    },
+    {
+      "ctaLogo": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Givenchy_Paris_Popular_Brands_dbf636a25b.jpg?updated_at=2022-11-29T17:33:51.724Z",
+      "path": "",
+      "isNewTab": true,
+      "title": "Givenchy paris"
+    },
+    {
+      "ctaLogo": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/ralph_lauren_Popular_Brands_efa22af73e.jpg?updated_at=2022-11-29T17:33:51.845Z",
+      "path": "RalphnLauren/c/brand?brand_name=9836",
+      "isNewTab": true,
+      "title": "ralph lauren"
+    },
+    {
+      "ctaLogo": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Lakme_Popular_Brands_bdd6fac33f.jpg?updated_at=2022-11-29T17:33:51.686Z",
+      "path": "Lakme/c/brand?brand_name=84",
+      "isNewTab": true,
+      "title": "Lakme"
+    },
+    {
+      "ctaLogo": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Arcelia_Popualr_Brands_05918bc20e.jpg?updated_at=2022-11-29T17:33:51.596Z",
+      "path": "Arcelia/c/brand?brand_name=9862",
+      "isNewTab": true,
+      "title": "Arcelia"
+    },
+    {
+      "ctaLogo": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Mac_Popular_brands_14bd3cfad3.jpg?updated_at=2022-11-29T17:33:51.700Z",
+      "path": "MAC/c/brand?brand_name=9882",
+      "isNewTab": true,
+      "title": "Mac"
+    },
+    {
+      "ctaLogo": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Givenchy_Paris_Popular_Brands_dbf636a25b.jpg?updated_at=2022-11-29T17:33:51.724Z",
+      "path": "",
+      "isNewTab": true,
+      "title":"Givenchy paris"
+    },
+    {
+      "ctaLogo": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/ralph_lauren_Popular_Brands_efa22af73e.jpg?updated_at=2022-11-29T17:33:51.845Z",
+      "path": "RalphnLauren/c/brand?brand_name=9836",
+      "isNewTab": true,
+      "title":"ralph lauren"
+    },
+    {
+      "ctaLogo": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Lakme_Popular_Brands_bdd6fac33f.jpg?updated_at=2022-11-29T17:33:51.686Z",
+      "path": "Lakme/c/brand?brand_name=84",
+      "isNewTab": true,
+      "title":"Lakme"
+    },
+    {
+      "ctaLogo": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Arcelia_Popualr_Brands_05918bc20e.jpg?updated_at=2022-11-29T17:33:51.596Z",
+      "path": "Arcelia/c/brand?brand_name=9862",
+      "isNewTab": true,
+      "title":"Arcelia"
+    },
+    {
+      "ctaLogo": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/House_of_Beauty_Popular_Brands_d36a2b39cb.jpg?updated_at=2022-11-29T17:33:51.702Z",
+      "path": "HouseOfBeauty/c/brand?brand_name=10317",
+      "isNewTab": true,
+      "title":"House of Beauty"
+    },
+    {
+      "ctaLogo": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/Clarins_Popular_Brands_0e64bd9324.jpg?updated_at=2022-11-29T17:33:51.567Z",
+      "path": "Clarins/c/brand?brand_name=9300",
+      "isNewTab": true,
+      "title":"Clarins"
+    },
+    {
+      "ctaLogo": "https://s3.ap-south-1.amazonaws.com/images-cms.sit.shopper-stop.in/The_Body_Shop_Popular_Brands_17e6589442.jpg?updated_at=2022-11-29T17:33:51.897Z",
+      "path": "TheBodyShop/c/brand?brand_name=9234",
+      "isNewTab": true,
+      "title":"The Body Shop"
+    }
+  ],
+  "filterdata": [
+    {
+      "recentdata": "makeupkit",
+      "path": "",
+      "isNewTab": true
+    },
+    {
+      "recentdata": "lipstick",
+      "path": "",
+      "isNewTab": true
+    },
+    {
+      "recentdata": "facemask",
+      "path": "",
+      "isNewTab": true
+    },
+    {
+      "recentdata": "reyeshadown",
+      "path": "",
+      "isNewTab": true
+    },
+    {
+      "recentdata": "nails",
+      "path": "",
+      "isNewTab": true
+    }
+  ],
+
+  "popularcategorieslistItems": [
+    {
+      "path": "",
+      "isNewTab": true,
+      "title": "Serums & Essence"
+    },
+    {
+      "path": "",
+      "isNewTab": true,
+      "title": "Fce Wash"
+    },
+    {
+      "path": "",
+      "isNewTab": true,
+      "title": "Liquid lipstick"
+    },
+    {
+      "path": "",
+      "isNewTab": true,
+      "title": "Serums & Essence"
+    },
+    {
+      "path": "",
+      "isNewTab": true,
+      "title": "Fce Wash"
+    },
+    {
+      "path": "",
+      "isNewTab": true,
+      "title": "Liquid lipstick"
+    },
+    {
+      "path": "",
+      "isNewTab": true,
+      "title": "The Body Shop"
+    },
+    {
+      "path": "",
+      "isNewTab": true,
+      "title": "Fce Wash"
+    },
+    {
+      "path": "",
+      "isNewTab": true,
+      "title": "Liquid lipstick"
+    },
+    {
+      "path": "",
+      "isNewTab": true,
+      "title": "The Body Shop"
+    },
+    {
+      "path": "",
+      "isNewTab": true,
+      "title": "Fce Wash"
+    },
+    {
+      "path": "",
+      "isNewTab": true,
+      "title": "Fce Wash"
+    }
+  ]
+}

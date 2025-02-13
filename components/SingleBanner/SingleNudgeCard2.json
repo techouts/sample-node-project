@@ -1,0 +1,17 @@
+
+        
+    {
+      "__component": "widget.single-banner",
+      "id": "2",
+      "bgColor": "#f6f6f6",
+      "bgPadding": "20px",
+      "items": [
+        {
+          "imageUrl":
+          "https://www.linkpicture.com/q/Screenshot-2022-04-28-at-12.53-1.png",
+          "imageUrlMobile": "https://www.linkpicture.com/q/Rectangle-2319.png",
+          "path": "/components",
+          "isNewTab": true
+        }
+      ]
+    }

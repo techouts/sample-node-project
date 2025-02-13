@@ -1,0 +1,77 @@
+{
+  "headerData": {
+    "title": "First Citizen Program Details",
+    "buttons": [
+      { "title": "Silver Edge" },
+      { "title": "Black Tier" },
+      { "title": "Platinum Aura" },
+      { "title": "Golden Glow" }
+    ]
+  },
+
+  "loggedIn": {
+    "bannerImage":"https://i.ibb.co/59SxrhH/Group-1116600090.png",
+    "notAMember": {
+      "title": "INTRODUCING THE FIRST CITIZEN PROGRAM",
+      "subTitle": "Be a part of Shoppers Stop’s Exclusive Membership Program and enjoy a host of benefits across both Shoppers Stop and SSBeauty",
+      "buttonText1": "",
+      "buttonText2": "",
+      "imageUrlweb": "https://i.ibb.co/55ZMbXT/Group-1116600087.png",
+      "imageUrlMobile": "https://i.ibb.co/mDXKXBR/Group-1116600075.png",
+      "overView": {
+        "TierInfo": {
+          "title": "Let’s Get Started",
+          "SubText": "Check Out The Different Types Of Cards"
+        },
+        "tiersData": [
+          {
+            "tier1": {
+              "tierHeader": "Silver Edge",
+              "crownLogo": "https://i.ibb.co/FJk16Zz/premium-9.png",
+              "imageURL": "https://i.ibb.co/DwdvGT7/Screenshot-2022-05-19-at-10-35-1.png",
+              "alignment": true,
+              "tierDescription": "<span>Pay ₹350 for a 1-year membership and get:</span><p><li>500 Bonus Points on enrolment</li><li> 2 First Citizen Reward Points on every purchase of ₹200</li> <li>Extended membership benefits to up to 6 family members</li><li> Parking fee reimbursements with First Citizen Reward Points</li></p>",
+              "enrollButtonText": "Enrol Now",
+              "quote": "Psst! Shop Worth ₹15000 In A Year And Get Upgraded To Golden Glow. "
+            }
+          },
+          {
+            "tier1": {
+              "tierHeader": "Black Tier",
+              "crownLogo": "https://i.ibb.co/FJk16Zz/premium-9.png",
+              "imageURL": "https://i.ibb.co/300SCzd/Screenshot-2022-05-19-at-10-35-1-1.png",
+              "alignment": false,
+              "bgImageURL": "https://i.ibb.co/82xZnQz/12-4.png",
+              "tierDescription": "<span>Pay ₹4500 for a 1-year membership and experience mind-blowing benefits:</span><p><li>1000 Bonus Points on enrolment</li><li> Brand vouchers worth ₹3800</li><li>20 First Citizen Reward Points on every purchase of ₹200</li><li> 5 Book Reward Points on every purchase of ₹200 at (company-owned)</li><li>Extended exchange period of up to 1 year</li><li>   Personal shopper assistance</li><li>  Black Assist – Direct access to the Store Manager</li><li>    No queue billing  </li><li>   Access to First Citizen Black Lounge</li><li>  Birthday and Anniversary surprises and offers </li><li> Extended membership benefits to up to 6 family members</li><li> Parking fee reimbursements with First Citizen Reward Points</li> </p>",
+              "enrollButtonText": "Enrol Now",
+              "quote": "You’ll soon be hooked. Pay ₹4500 to renew your membership and don’t stop shopping! "
+            }
+          },
+          {
+            "tier1": {
+              "tierHeader": "Platinum Aura",
+              "crownLogo": "https://i.ibb.co/FJk16Zz/premium-9.png",
+              "imageURL": "https://i.ibb.co/3N8CbXM/Screenshot-2022-05-19-at-10-35-1.png",
+              "alignment": true,
+              "tierDescription": "<span>Pay ₹4500 for a 1-year membership and experience mind-blowing benefits:</span><p><li>1000 Bonus Points on enrolment</li><li>  Personal shopper assistance</li><li> Access to First Citizen Black Lounge</li><li>  Birthday and Anniversary surprises and offers </li><li> Extended membership benefits to up to 6 family members</li><li> Parking fee reimbursements with First Citizen Reward Points</li> </p>",
+              "enrollButtonText": "Enrol Now",
+              "quote": "You’ll soon be hooked. Pay ₹4500 to renew your membership and don’t stop shopping! "
+            }
+          },
+          {
+            "tier1": {
+              "tierHeader": "Golden Glow",
+              "crownLogo": "https://i.ibb.co/FJk16Zz/premium-9.png",
+              "imageURL": "https://i.ibb.co/BCL1cnp/Screenshot-2022-05-19-at-10-35-1-1.png",
+              "alignment": false,
+              "bgImageURL": "https://i.ibb.co/82xZnQz/12-4.png",
+              "tierDescription": "<span>Pay ₹4500 for a 1-year membership and experience mind-blowing benefits:</span><p><li>1000 Bonus Points on enrolment</li><li> Brand vouchers worth ₹3800</li><li>20 First Citizen Reward Points on every purchase of ₹200</li><li> 5 Book Reward Points on every purchase of ₹200 at (company-owned)</li><li>Extended exchange period of up to 1 year</li><li>   Personal shopper assistance</li><li>  Black Assist – Direct access to the Store Manager</li><li>    No queue billing  </li><li>   Access to First Citizen Black Lounge</li><li>  Birthday and Anniversary surprises and offers </li><li> Extended membership benefits to up to 6 family members</li><li> Parking fee reimbursements with First Citizen Reward Points</li> </p>",
+              "enrollButtonText": "",
+              "quote": "You’ll soon be hooked. Pay ₹4500 to renew your membership and don’t stop shopping! "
+            }
+          }
+        ]
+      }
+    }
+  }
+}

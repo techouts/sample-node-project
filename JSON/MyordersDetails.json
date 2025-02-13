@@ -1,0 +1,50 @@
+{
+  "name": "My Orders",
+  "title": "Order Details",
+  "orderId": "Order ID #1203438 09546013302601",
+  "orderDate": "Order Placed: 8th May, 2022",
+  "orderStatus": "Order Status: Shipped To be delivered on 16th May, 2022",
+  "button": "Track order",
+  "title1": "Delivery Address",
+  "namephnumber": "Priyanka Kundu | 9051983895",
+  "address":" RKN mansion building no 35 14th B Cross Rd, Gowda Muniswamy Garden, Ejipura, Bengaluru, 560047",
+  "title2": "Total Order Price",
+  "price": "₹1200",
+  "saveAmount": "You saved Rs. 568 on this order",
+  "viewBreakup": "View breakup",
+  "paymentMethod": "Cash On Delivery",
+  "button1": "download invoice",
+  "titleCarousel": "Purchases in the same order",
+  "orderFeedback":"Order feedback",
+  "rating":"Rate The Product: Givenchy L’Interdit Eau De Parfum",
+  "writeAreview":"Write a review",
+  "items":[
+    "Delayed Delivery",
+    "Associate Behaviour",
+    "Product Not Delivered",
+    "others"
+  ],
+
+  "data": [
+    {
+      "imageUrl": "https://i.ibb.co/fkVDh8G/10785711-2014927585578942-2-1.png" ,
+      "text": "Jouer Cosmetics Essential Liquid Concealer"
+    },
+    {
+      "imageUrl": "https://i.ibb.co/fkVDh8G/10785711-2014927585578942-2-1.png" ,
+      "text": "Chambor PINK PEARL Orosa Highlighting Stick"
+    },
+    {
+      "imageUrl": "https://i.ibb.co/fkVDh8G/10785711-2014927585578942-2-1.png" ,
+      "text": "Maybelline New York Fit Me Matte and Poreless Powder"
+    },
+    {
+      "imageUrl": "https://i.ibb.co/fkVDh8G/10785711-2014927585578942-2-1.png" ,
+      "text": "Jouer Cosmetics Essential Liquid Concealer"
+    },
+    {
+        "imageUrl": "https://i.ibb.co/fkVDh8G/10785711-2014927585578942-2-1.png" ,
+        "text": "Jouer Cosmetics Essential Liquid Concealer"
+      }
+  ]
+}

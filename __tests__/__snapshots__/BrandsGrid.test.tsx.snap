@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Brands Grid renders a brands grid component 1`] = `
+<div>
+  <div
+    class="MuiBox-root css-10grsak"
+    imagesource="https://s3.ap-south-1.amazonaws.com/images-cms.uat.shopper-stop.in/Top_Brands_Mobile_84f472044f.png?updated_at=2022-10-03T14:23:49.866Z"
+  >
+    
+    <div
+      class="MuiBox-root css-11dqbsu"
+    >
+      <img
+        class="css-idoo5b"
+        src="https://images-cms.uat.shopper-stop.in/Top_Brands_Mobile_84f472044f.png"
+      />
+    </div>
+    <div
+      class="MuiBox-root css-xby94j"
+    >
+      <img
+        alt="background image"
+        class="css-idoo5b"
+        src="https://images-cms.sit.shopper-stop.in/Top_Banrdsbg_Image_Msite_66128a17c8.png"
+      />
+      <div
+        class="MuiGrid-root css-1bb64vp-MuiGrid-root"
+        imagesource="https://s3.ap-south-1.amazonaws.com/images-cms.uat.shopper-stop.in/Top_Brands_Mobile_84f472044f.png?updated_at=2022-10-03T14:23:49.866Z"
+      >
+        <div
+          class="MuiBox-root css-1bpan0e"
+        >
+          <img
+            class="css-7nqtc1"
+            src="https://images-cms.uat.shopper-stop.in/Smashbox_bf109553e7.jpg"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root css-1l4w6pd"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-fwm6to-MuiButtonBase-root-MuiButton-root"
+        imagesource="https://s3.ap-south-1.amazonaws.com/images-cms.uat.shopper-stop.in/Top_Brands_Mobile_84f472044f.png?updated_at=2022-10-03T14:23:49.866Z"
+        tabindex="0"
+        type="button"
+      >
+        EXPLORE BRANDS
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+      
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,48 @@
+{ 
+    "__component": "offers-grid",
+    "id": "1236",
+    "data": {
+      "bgColor": "#f6f6f6",
+      "bgPadding": "20px",
+      "title": "MORE OFFERS",
+      "showTextOnHover": false,
+      "showGradient": false,
+      "width":"60%",
+      "itemBackgroundSpacing": "30px",
+      "columns": 2,
+      "items": [
+        {
+          "imageUrl": "https://i.ibb.co/5R2RnqS/image.png",
+          "offerText": "ELIZABETH ARDEN",
+          "offerTextColor": "#576958",
+          "offerBackground": "#f6f6f6",
+          "smallText": "flat 50% Off",
+          "path": ""
+        },
+        {
+          "imageUrl": "https://i.ibb.co/5R2RnqS/image.png",
+          "offerText": "COLORBAR",
+          "offerTextColor": "#576958",
+          "offerBackground": "#f6f6f6",
+          "smallText": "flat 60% Off",
+          "path": ""
+        },
+        {
+          "imageUrl": "https://i.ibb.co/6WhNffP/image-1.png",
+          "offerText": "ARCELIA",
+          "offerTextColor": "#576958",
+          "offerBackground": "#f6f6f6",
+          "smallText": "flat 60% Off",
+          "path": ""
+        },
+        {
+          "imageUrl": "https://i.ibb.co/XsqkH34/image-2.png",
+          "offerText": "MAMAEARTH",
+          "offerTextColor": "#576958",
+          "offerBackground": "#f6f6f6",
+          "smallText": "flat 60% Off",
+          "path": ""
+        }
+      ]
+    }
+  }

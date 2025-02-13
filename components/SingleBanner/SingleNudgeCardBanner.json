@@ -1,0 +1,16 @@
+
+    {
+      "__component": "widget.single-banner",
+      "id": "4",
+      "bgColor": "#f6f6f6",
+      "bgPadding": "20px",
+      "items": [
+        {
+          "imageUrl":
+          "https://www.linkpicture.com/q/premium-fragrances_1.png",
+          "imageUrlMobile": "https://www.linkpicture.com/q/Rectangle-2319.png",
+          "path": "/components",
+          "isNewTab": true
+        }
+      ]
+    }

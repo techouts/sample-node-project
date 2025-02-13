@@ -1,0 +1,18 @@
+{
+  "title": "Wallets",
+  "items": [
+    {
+      "image": "https://i.ibb.co/JBNjjWq/Ellipse-62.png",
+      "name": "Airtel Money"
+    },
+    {
+      "image": "https://i.ibb.co/hsrrRcr/Ellipse-62-1.png",
+      "name": "Freecharge"
+    },
+    {
+      "image": "https://i.ibb.co/YT02vdH/Ellipse-62-2.png",
+      "name": "Jio Money"
+    },
+    { "image": "https://i.ibb.co/rf5hYk4/Ellipse-62-3.png", "name": "Mobikwik" }
+  ]
+}

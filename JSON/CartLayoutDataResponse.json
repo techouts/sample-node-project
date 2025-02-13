@@ -1,0 +1,42 @@
+
+
+{
+    "data": {
+      "cart": {
+        "email": null,
+        "items": [
+          {
+            "uid": "MTQw",
+            "prices": {
+              "total_item_discount": {
+                "value": 100
+              },
+              "price": {
+                "value": 500
+              },
+              "discounts": 100
+            },
+            "product": {
+              "name": "Thierry Mugler Womens Eau De Parfum Shooting Star Spray 50 ml",
+              "sku": "3038244",
+              "created_at": "2022-05-19 05:58:46",
+              "image": {
+                "url": "https://magento.dev.shopper-stop.in:3443/static/version1655886757/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/image.jpg"
+              }
+            },
+            
+            "quantity": 3
+          }
+        ],
+        "applied_coupons": null,
+        "prices": {
+          "discounts": 100,
+          "grand_total": {
+            "value": 400
+          }
+        }
+      }
+    }
+  }
+  
+  

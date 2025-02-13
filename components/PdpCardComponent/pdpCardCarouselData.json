@@ -1,0 +1,41 @@
+{
+  "id": 123,
+  "data": {
+    "title": "Loreal Hydrating Makeup Primer",
+    "buttonCart": "Add to cart",
+    "bgColor": "#E5E5E5",
+    "bgPadding": "1%",
+    "buttonBuy": "Buy now",
+    "delivery": "delivery & pick up",
+    "enterPin": "enter pincode",
+    "images": [
+      { "imageUrl": "https://i.ibb.co/Tw8SHhj/image-4.png" },
+      { "imageUrl": "https://i.ibb.co/xJKpDJW/Rectangle-389-2.png" },
+      { "imageUrl": "https://i.ibb.co/x16P0vm/Rectangle-389.png" },
+      { "imageUrl": "https://i.ibb.co/4jKRYzV/Rectangle-389-1.png" },
+      { "imageUrl": "https://i.ibb.co/nkSRDM6/Rectangle-389-2.png" },
+      { "imageUrl": "https://i.ibb.co/yRs1c8T/Rectangle-2220.png" }
+    ],
+    "loveIcon": {
+      "imageUrl": "https://i.ibb.co/sQ2gZ0P/Group-48097459.png" ,
+      "path": "#"
+    },
+    "sellerTag": {
+      "imageUrl": "https://i.ibb.co/ZNzy728/Group-1116599803.png" ,
+      "path": "#"
+    },
+    "imageCards": {
+      "imageUrl": "https://i.ibb.co/X4TJrzX/Group-1116599702.png" ,
+      "path": "#"
+    },
+    "easyIcon": {
+      "imageUrl": "https://i.ibb.co/r0xWsdF/Frame.png",
+      "text": "Easy exchange & return"
+    },
+    "auther": {
+      "imageUrl": "https://i.ibb.co/9bQN06H/Frame-1.png",
+      "text": "Authentic product",
+      "hiddenText": "100% genuine"
+    }
+  }
+}

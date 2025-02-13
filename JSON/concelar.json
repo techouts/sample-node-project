@@ -1,0 +1,57 @@
+{
+  "data": {
+    "title": "Loreal Hydrating Makeup Primer",
+    "buttonCart": "Add to cart",
+    "buttonBuy": "Buy now",
+    "delivery": "delivery & pick up",
+    "enterPin": "enter pincode",
+    "items": [
+      { "imageUrl": "https://i.ibb.co/X8qYDBM/image-4.png" },
+      { "imageUrl": "https://i.ibb.co/X8qYDBM/image-4.png" },
+      { "imageUrl": "https://i.ibb.co/X8qYDBM/image-4.png" },
+      { "imageUrl": "https://i.ibb.co/X8qYDBM/image-4.png" },
+      { "imageUrl": "https://i.ibb.co/X8qYDBM/image-4.png" },
+      { "imageUrl": "https://i.ibb.co/X8qYDBM/image-4.png" }
+    ],
+    "reviews": [{
+        "rating": "4.3",
+        "write a review":"true | false " 
+    }],
+    "offers": [
+      {
+        "OfferList": "FREE Matte As Hell Crayon Lipstick on a spend of Rs.799."
+      },
+      {
+        "OfferList": "FREE Matte As Hell Crayon Lipstick on a spend of Rs.799."
+      }
+    ],
+    "productList": [
+      {
+        "category": "Shades",
+        "categoryText": "select shade",
+        "type": "colorBox",
+        "categoryList": [
+          {
+            "categoryType": "#ffff",
+            "outOfstock": "true"
+          }
+        ]
+      },
+      {
+        "category": "size",
+        "categoryText": "selectsize",
+        "type": "Box",
+        "categoryList": [
+          {
+            "categoryType": "100ml"
+          }
+        ]
+      }
+    ],
+    "deliveries": [
+      { "standdeliv": "standard delivery and pickup" },
+      { "standdeliv": "express delivery" },
+      { "standdeliv": "pay and pickup" }
+    ]
+  }
+}

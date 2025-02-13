@@ -1,0 +1,70 @@
+{
+  "_component": "My Profile",
+  "id": 12345,
+  "bgColor": "#F7F6F9",
+  "bgPadding": "20px",
+  "data": {
+    "title": "Address",
+    "addLogo": "https://i.ibb.co/Z23gxYJ/Vector.png",
+    "addressText": "Add Address",
+    "items": [
+      {
+        "id": 12,
+        "locationPlace": ["Default", "Home", "Bangalore"],
+        "logo": {
+          "editLogo": "https://i.ibb.co/f0jmJ6t/Group-1116599909.png",
+          "deleteLogo": "https://i.ibb.co/1mS66Mz/Group-1116599908.png"
+        },
+        "details": {
+          "name": "Vasudha Mundra",
+          "addressDetails": "4, Kempanna layout, ",
+          "addressStreet": "8th Sector,HSR Layout,",
+          "addressCity": " Bengaluru - 560102",
+          "mobileNumber": "+91 9836414174"
+        }
+      },
+      {
+        "locationPlace": ["Office", "Bangalore"],
+        "logo": {
+          "editLogo": "https://i.ibb.co/f0jmJ6t/Group-1116599909.png",
+          "deleteLogo": "https://i.ibb.co/1mS66Mz/Group-1116599908.png"
+        },
+        "details": {
+          "name": "Vasudha Mundra",
+          "addressDetails": "4, Kempanna layout, ",
+          "addressStreet": "8th Sector,HSR Layout,",
+          "addressCity": " Bengaluru - 560102",
+          "mobileNumber": "+91 9836414174"
+        }
+      },
+      {
+        "locationPlace": ["Home", "Bangalore"],
+        "logo": {
+          "editLogo": "https://i.ibb.co/f0jmJ6t/Group-1116599909.png",
+          "deleteLogo": "https://i.ibb.co/1mS66Mz/Group-1116599908.png"
+        },
+        "details": {
+          "name": "Vasudha Mundra",
+          "addressDetails": "4, Kempanna layout, ",
+          "addressStreet": "8th Sector,HSR Layout,",
+          "addressCity": " Bengaluru - 560102",
+          "mobileNumber": "+91 9836414174"
+        }
+      },
+      {
+        "locationPlace": ["Priyanka", "Bangalore"],
+        "logo": {
+          "editLogo": "https://i.ibb.co/f0jmJ6t/Group-1116599909.png",
+          "deleteLogo": "https://i.ibb.co/1mS66Mz/Group-1116599908.png"
+        },
+        "details": {
+          "name": "Vasudha Mundra",
+          "addressDetails": "4, Kempanna layout, ",
+          "addressStreet": "8th Sector,HSR Layout,",
+          "addressCity": " Bengaluru - 560102",
+          "mobileNumber": "+91 9836414174"
+        }
+      }
+    ]
+  }
+}

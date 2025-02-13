@@ -1,0 +1,131 @@
+{
+    "__component": "widget.tabs",
+    "id": "12356",
+    "bgPadding":"2%",
+    "bgColor":"#EAEAEA",
+    "tabs":[
+      {
+        "title":"About The Product",
+        "items": [
+          {
+            "title": "What it is : ",
+            "subtitle": "An award-winning invisible makeup primer with a 94% natural gel formula that smooths skin, grips makeup up to 12 hours, and locks in hydrationaward-winning invisible makeup primeaward-winning invisible makeup primeaward-winning invisible makeup prime."
+          },
+          {
+            "title": "Finish:",
+            "subtitle": " Radiant"
+          },
+          {
+            "title": "Highlighted Ingredients:",
+            "subtitle":"",
+            "notes": [
+              " Blue Agave Extract: Helps form an invisible layer to lock in makeup.",
+              " Hyaluronic Acid and Hemp-Derived Cannabis Seed Extract: Boost hydration to visibly smooth skin."
+            ]
+          },
+          {
+            "title": "Expiry date :",
+            "subtitle": " 15th May, 2023"
+          },
+          {
+            "title": "Country of Origin:",
+            "subtitle": " France"
+          },
+          {
+            "title": "Manufacturer Details:",
+            "subtitle": " Hindustan Unilever Ltd,  Unilever House, B D Sawant Marg, Chakala Andheri East - 400099"
+          },
+          {
+            "title": "Packer Details:",
+            "subtitle": " Hindustan Unilever Ltd,  Unilever House, B D Sawant Marg, Chakala Andheri East - 400099"
+          },
+          {
+            "title": "Importer Details:",
+            "subtitle": " Hindustan Unilever Ltd,  Unilever House, B D Sawant Marg, Chakala Andheri East - 400099"
+          }
+        ]
+      },
+      {
+        "title":"Ingredients",
+        "items": [
+          {
+            "title": "Ingredients you need:",
+            "subtitle": " An award-winning invisible makeup primer with a 94% natural gel formula that smooths skin, grips makeup up to 12 hours, and locks in hydration."
+          },
+          {
+            "title": "Ingredients are mandatory:",
+            "subtitle": " Radiant"
+          },
+          {
+            "title": "Highlighted Ingredients:",
+            "subtitle":"",
+            "notes": [
+              " Blue Agave Extract: Helps form an invisible layer to lock in makeup.",
+              " Hyaluronic Acid and Hemp-Derived Cannabis Seed Extract: Boost hydration to visibly smooth skin."
+            ]
+          },
+          {
+            "title": "Expiry date:",
+            "subtitle": " 15th May, 2023"
+          },
+          {
+            "title": "Country of Origin:",
+            "subtitle": " France"
+          },
+          {
+            "title": "Manufacturer Details:",
+            "subtitle": " Hindustan Unilever Ltd,  Unilever House, B D Sawant Marg, Chakala Andheri East - 400099"
+          },
+          {
+            "title": "Packer Details:",
+            "subtitle": " Hindustan Unilever Ltd,  Unilever House, B D Sawant Marg, Chakala Andheri East - 400099"
+          },
+          {
+            "title": "Importer Details:",
+            "subtitle": " Hindustan Unilever Ltd,  Unilever House, B D Sawant Marg, Chakala Andheri East - 400099"
+          }
+        ]
+      },
+      {
+        "title":"How To Use",
+        "items": [
+          {
+            "title": "Importer Details:",
+            "subtitle": " An award-winning invisible makeup primer with a 94% natural gel formula that smooths skin, grips makeup up to 12 hours, and locks in hydration."
+          },
+          {
+            "title": "Importer Details:",
+            "subtitle": " Radiant"
+          },
+          {
+            "title": "Importer Details:",
+            "subtitle":"",
+            "notes": [
+              " Blue Agave Extract: Helps form an invisible layer to lock in makeup.",
+              " Hyaluronic Acid and Hemp-Derived Cannabis Seed Extract: Boost hydration to visibly smooth skin."
+            ]
+          },
+          {
+            "title": "Expiry date:",
+            "subtitle": " 15th May, 2023"
+          },
+          {
+            "title": "Country of Origin:",
+            "subtitle": " France"
+          },
+          {
+            "title": "Manufacturer Details:",
+            "subtitle": " Hindustan Unilever Ltd,  Unilever House, B D Sawant Marg, Chakala Andheri East - 400099"
+          },
+          {
+            "title": "Packer Details:",
+            "subtitle": " Hindustan Unilever Ltd,  Unilever House, B D Sawant Marg, Chakala Andheri East - 400099"
+          },
+          {
+            "title": "Importer Details:",
+            "subtitle": " Hindustan Unilever Ltd,  Unilever House, B D Sawant Marg, Chakala Andheri East - 400099"
+          }
+        ]
+      }
+    ]
+  }

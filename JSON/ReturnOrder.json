@@ -1,0 +1,57 @@
+{
+    "__component": "return-order",
+    "id": "007",
+    "appropriateMethodTypography": "Please select the appropriate method to refund your amount  *",
+    "appropriateMethodDescription": "Since the payment was made through COD, please select the appropriate method to refund Your amount.",
+    "howToSendItBackTypography": "How would you want to send it back? *",
+    "selectTimeSlots": [
+        "8:00 AM to 10:00 AM",
+        "9:00 AM to 11:00 AM",
+        "10:00 AM to 12:00 PM",
+        "11:00 AM to 1:00 PM",
+        "12:00 PM to 2:00 PM",
+        "1:00 PM to 3:00 PM",
+        "2:00 PM to 4:00 PM",
+        "3:00 PM to 5:00 PM",
+        "4:00 PM to 6:00 PM",
+        "5:00 PM to 7:00 PM",
+        "6:00 PM to 8:00 PM"
+    ],
+    "parcelDeliveryInfo": "The parcel will be picked up by our courier partner from the address it was delivered to",
+    "noteText": " We aren’t able to offer policy exceptions in response to comments. Do not include personal information as these comments may be shared with external services providers to identify product defects.",
+    "exchangeAndReturnPolicyTypography": " Exchange and Return policy",
+    "addPhotoTitle": "Add a photo or video <span> (mandatory) </span>",
+    "maxPhotos": " Max 5 photos",
+    "addPhotoSubtitle": "Shoppers find images and videos more helpful",
+    "photo": "Photo",
+    "photoTextOne": "Jpg, Png files only.",
+    "photoTextTwo": "Max file size 5 MB",
+    "photoTextThree": "Max 5 files",
+    "chooseImage": "https://i.ibb.co/zJYKkgb/Group-1116599404.png",
+    "originalPaymentMethodData": [
+        {
+            "text": "SS Wallet",
+            "value": "₹18 "
+        },
+        {
+            "text": "Gift Carđ",
+            "value": "₹30 "
+        },
+        {
+            "text": "Credit Card Xx 2625",
+            "value": "₹500 "
+        }
+    ],
+    "courierTypography": "Courier Address",
+    "courierDescription": "Shoppers Stop Limited, Umang Tower, 5th Floor, Mindspace, Off. Link Road,Malad (West),  Mumbai,  Maharashtra – 400 064",
+    "bankDetails": [
+        {
+            "id": 100,
+            "name": "Navya",
+            "accountNumber": " 3456 3456 3456 3456",
+            "confirmAccountNumber": "3456 3456 3456 3456",
+            "IFSCCode": "7899",
+            "mobileNumber": "77777"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": 123,
+  "data": {
+    "title": "Authentic Product",
+    "bgColor": "#E5E5E5",
+    "bgPadding": "30px",
+    "text": "100% Authentic, Directly Purchased from ",
+    "button": "OKAY, GOT IT"
+  }
+}

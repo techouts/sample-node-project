@@ -1,0 +1,36 @@
+{
+    "__component": "pdp-banner",
+    "id": "2121",
+    "bgColor": "#f6f6f6",
+    "bgPadding": "84px",
+    "title": "Looking for some advice?",
+    "subTitle": "Our beauty experts are just a call away!",
+    "carditem": [
+        {
+            "cardTitle": "More",
+            "cardSubTitle": "Products From",
+            "cardIcon": "https://i.ibb.co/PD2L3dy/Vector.png",
+            "brand": "L'Oreal Paris",
+            "category" : "Face",
+            "ctaLabelUrl" : "/products"
+        },
+        {
+            "cardTitle": "Shop All From",
+            "cardSubTitle": "",
+            "cardIcon": "https://i.ibb.co/PD2L3dy/Vector.png",
+            "category" : "",
+            "brand": "L'Oreal Paris",
+            "ctaLabelUrl" : "/products"
+        }
+      ],
+    "items": [
+      {
+        "buttonText":"Book A Consultation",
+        "buttonIcon":"https://i.ibb.co/M5J5Z0R/call-calling.png"
+      },
+      {
+        "buttonText":"Chat with us",
+        "buttonIcon":"https://i.ibb.co/kmQH6D1/messages.png"
+      }
+    ]
+  }

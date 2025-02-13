@@ -1,0 +1,61 @@
+{
+    "__component": "my-orders-review",
+    "id": "12896",
+    "courier_label": "Courier Partner",
+    "rating_label": "Rate your Delivery Experience",
+    "whats_wrong_label": "What went Wrong?",
+    "intrest_description": "Where Can we Improve?",
+    "buttons": [
+        {
+            "label_name": "Product Quality",
+            "label": "More Delivery Options"
+        },
+        {
+            "label_name": "Product Packaging",
+            "label": "Faster Delivery Timelines"
+        },
+        {
+            "label_name": "Missing or Wrong Item",
+            "label": "Better Order Tracking"
+        },
+        {
+            "label_name": "Delayed Delivery",
+            "label": "Faster Refunds"
+        },
+        {
+            "label_name": "Courier Associate Behaviour",
+            "label": "Customer Service"
+        },
+        {
+            "label_name": "Return/Refund Related Issue",
+            "label": "Others (Please add comment)"
+        },
+        {
+            "label_name": "Customer Service Related Issue",
+            "label": ""
+        },
+        {
+            "label_name": "Payment/Invoice Related Issue",
+            "label": ""
+        },
+        {
+            "label_name": "Damaged/Defective Product",
+            "label": ""
+        },
+        {
+            "label_name": "Product Not Delivered",
+            "label": ""
+        },
+        {
+            "label_name": "Others(Please add comment)",
+            "label": ""
+        }
+    ],
+    "experience_label": "Please describe your experience",
+    "experience_placeholder": "Write about your experience here",
+    "ctaText": "SUBMIT",
+    "ShareYourExperience": "Share Your Experience!",
+    "AboutYourOrderExperience": "Based on your recent shopping experience, how likely are you to recommend SSBeauty to your friends and family?",
+    "Notlikely": "Not likely",
+    "Likely": "Likely"
+}

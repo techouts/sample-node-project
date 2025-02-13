@@ -1,0 +1,29 @@
+{
+    "id":"000",
+        "items": [
+            {
+                "imagePath":"https://i.ibb.co/gjtD1sj/free-shipping.png",
+                "text":"Free Shipping Above ₹1000",
+                "textColor":"#231F20",
+                "webUrl":""
+            },
+            {
+                "imagePath":"https://i.ibb.co/wK8fQS1/easy-returns.png",
+                "text":"Easy Returns",
+                "textColor":"#231F20",
+                "webUrl":""
+            },
+            {
+                "imagePath":"https://i.ibb.co/y8HDSgd/genuine-product.png",
+                "text":"Genuine Products",
+                "textColor":"#231F20",
+                "webUrl":""
+            },
+            {
+                "imagePath":"https://i.ibb.co/zQ0fSW2/omnichannel.png",
+                "text":"Omnichannel Experience",
+                "textColor":"#231F20",
+                "webUrl":""
+            }
+        ]
+}

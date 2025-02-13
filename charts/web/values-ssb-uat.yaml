@@ -1,0 +1,17 @@
+image:
+  repository: asia-south1-docker.pkg.dev/ss-ecom-com-npd-svc-prj/ssb/dev/web
+
+replicaCount: 1
+autoscaling:
+  enabled: false
+  minReplicas: 1
+  maxReplicas: 1
+  # targetCPUUtilizationPercentage: 90
+  targetMemoryUtilizationPercentage: 90
+
+gke_filestore_pvc:
+  enabled: true
+  
+istio:
+  gateway: "istio-ssb-uat-gateways"
+  host: "maya-uat.ssecom.tech"    

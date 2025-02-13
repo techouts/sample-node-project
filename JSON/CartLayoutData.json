@@ -1,0 +1,125 @@
+{
+    "componentId": "cart-layout",
+    "_id": "3333",
+    "title": "Cart",
+    "bgPadding": "200px",
+    "isNewTab": true,
+    "details": [
+        {
+            "name": "Givenchy L’Interdit Eau De Parfum",
+            "image": {
+                "url": "https://i.ibb.co/xG3dn60/image-78.png"
+            },
+            "caption": "Women's Perfume",
+            "minimum_price": {
+                "regular_price": "1500",
+                "offer_price": "1200",
+                "offer_percent": "20%"
+            },
+            "features": [
+                {
+                    "image": {
+                        "url": "https://i.ibb.co/mS4zf2M/truck-tick.png"
+                    },
+                    "name": "Express delivery in 2 days"
+                },
+                {
+                    "image": {
+                        "url": "https://i.ibb.co/r7X5F84/cash-on-delivery.png"
+                    },
+                    "name": "Pay and Pick up by Tomorrow"
+                }
+            ],
+            "variants": {
+                "title": "Sizes",
+                "list": [
+                    {
+                        "valueid": 250,
+                        "label": "250ml"
+                    },
+                    {
+                        "value": 450,
+                        "label": "450ml"
+                    },
+                    {
+                        "value": 750,
+                        "label": "750ml"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Loreal Hydrating Makeup Primer - Nude Queen | 150 ml",
+            "image": {
+                "url": "https://i.ibb.co/HFxY8KD/Screenshot-2022-04-28-at-9-24-1.png"
+            },
+            "caption": "Women's Lipstick",
+            "minimum_price": {
+                "regular_price": "1500",
+                "offer_price": "1200",
+                "offer_percent": "20%"
+            },
+            "variants": {
+                "title": "Sizes",
+                "list": [
+                    {
+                        "valueid": 250,
+                        "label": "250ml"
+                    },
+                    {
+                        "value": 450,
+                        "label": "450ml"
+                    },
+                    {
+                        "value": 750,
+                        "label": "750ml"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Givenchy L’Interdit Eau De Parfum",
+            "image": {
+                "url": "https://i.ibb.co/xG3dn60/image-78.png"
+            },
+            "caption": "Women's Perfume",
+            "minimum_price": {
+                "regular_price": "1500",
+                "offer_price": "1200",
+                "offer_percent": "20%"
+            },
+            "features": [
+                {
+                    "image": {
+                        "url": "https://i.ibb.co/mTcTXBc/truck.png"
+                    },
+                    "name": "Estimated Delivery by 5th June 2022"
+                }
+            ],
+            "variants": {
+                "title": "Sizes",
+                "list": [
+                    {
+                        "valueid": 250,
+                        "label": "250ml"
+                    },
+                    {
+                        "value": 450,
+                        "label": "450ml"
+                    },
+                    {
+                        "value": 750,
+                        "label": "750ml"
+                    }
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "title": "First connect",
+            "desc": "By continuing I am agreeing to enroll for the free tier subscription for loyalty program"
+        }
+        
+    ]
+}

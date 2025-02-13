@@ -1,0 +1,247 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Montserrat, Arial, Verdana, Tahoma, sans-serif;
+  overflow-x: hidden;
+  min-height: 100vh !important;
+}
+
+#onedirect-messenger-main {
+  bottom: 25px !important;
+}
+
+@media screen and (max-width: 600px) {
+  #onedirect-messenger-main {
+    bottom: 65px !important;
+  }
+}
+
+@font-face {
+  font-family: Montserrat;
+  src: url("./montserrat/Montserrat-VariableFont_wght.ttf");
+} 
+
+a {
+  color: inherit;
+  text-decoration: none;
+  font-family: Montserrat, Arial, Verdana, Tahoma, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+  width: 20px;
+}
+.bs-nav-link:hover {
+  text-decoration: underline !important;
+   color: #AD184C
+  } 
+  .bs-nav-link{
+   color: #AD184C
+  }
+
+::-webkit-scrollbar-thumb {
+  background: #656263;
+  border-radius: 16px;
+  border: 8px solid #ffffff;
+}
+
+#payment_form iframe {
+  height: 54px !important;
+  margin-bottom: 16px !important;
+}
+
+#payment_form .card_number_div iframe {
+  height: 54px !important;
+  margin-bottom: 0 !important;
+}
+
+.name_on_card_div {
+  margin-top: 16px !important;
+}
+
+#payment_form input[type="checkbox"]:checked + label::after {
+  content: "";
+  position: absolute;
+  width: 10px;
+  height: 5px;
+  background: #fff;
+  top: 35%;
+  left: 3%;
+  border: 1px solid #ad184c;
+  border-top: none;
+  border-right: none;
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+#payment_form input[type="checkbox"] {
+  position: absolute;
+  left: -999em;
+  cursor: pointer;
+  line-height: 2.1ex;
+}
+
+#payment_form input[type="checkbox"] + label {
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+#payment_form input[type="checkbox"] + label::before {
+  content: "";
+  display: inline-block;
+  vertical-align: -25%;
+  height: 21.5px;
+  width: 21.5px;
+  background-color: white;
+  border: 1px solid rgb(166, 166, 166);
+  border-radius: 4px;
+  margin-right: 0.5em;
+}
+
+#payment_form input[type="checkbox"]:checked + label::before {
+  border: 1px solid #ad184c;
+}
+.netBanking > .MuiAutocomplete-popper {
+  margin-top: 10px !important;
+  box-shadow: none !important;
+  border: 1px solid #e7e7e7 !important;
+}
+
+input:-webkit-autofill {
+  background-color: unset !important;
+  appearance: unset !important;
+  color: inherit !important;
+}
+
+@media screen and (max-width: 600px) {
+  .shop-the-look-product-carousel .slick-track {
+    transform: unset !important;
+    overflow: auto !important;
+    display: flex !important;
+  }
+  .shop-the-look-product-carousel .slick-slider .slick-list,
+  .slick-slider .slick-track {
+    transform: translateZ(0);
+    overflow: auto;
+  }
+  .shop-the-look-product-carousel ::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+.box_container_add_to_cart {
+  min-width: 190px;
+}
+
+/* Media query for mobile screens */
+@media (max-width: 786px) {
+  .box_container_add_to_cart {
+    width: 100%;
+    /* Add more mobile-specific styles as needed */
+  }
+}
+
+.slick-slide img{
+  display: inline !important;
+}
+
+.blog-logo-responsive{
+  width: auto !important;
+  height: 100% !important;
+}
+.bag-image-EmptyUseCartComponent{
+  width: 100% !important;
+ height: 100% !important;
+}
+.secondImageUrlPath-footer-payment{
+  width:100% !important;
+  height:auto;
+}
+.no-imageUrlPath-footer-payment{
+  width: 47% !important;
+  height:auto !important;
+}
+
+
+.secondImageUrl{
+  margin-left: 10px;
+  cursor: pointer;
+}
+.first-imageUrl-cursor{
+  cursor: pointer;
+}
+.first-imageUrl-cursor-default{
+  cursor: default;
+}
+.my-order-image-list{
+  width:100% !important;
+  height:100% !important;
+  object-fit:contain;
+}
+.my-order-carousel{
+  padding-left: 11px;
+  object-fit: cover;
+  height: 60px !important;
+  width: 60px !important;
+}
+
+/* Home banner counter*/
+
+.banner-time-left-desktop{
+  background-color: #ebc7ca;
+  color: white;
+  border-radius: 5px;
+  padding: 5px;
+  font-size:  38px !important;
+  color: #ff4757;
+}
+
+@media (max-width: 600px) {
+  .banner-time-left-mobile {
+      font-size: 20px !important;
+      margin-top: 5px;
+      color: #ff4757;
+      background-color: #ebc7ca;
+      padding:2px;
+      border-radius: 2px;
+  }
+}
+
+.text-carousel-container {
+  height: 40px;
+  overflow: hidden;
+  position: relative;
+}
+
+.text-carousel-content {
+  display: flex;
+  flex-direction: row;
+  animation: scrollLeft 10s linear infinite;
+}
+
+.c-title {
+  font-size: 16px;
+  text-align: center;
+  height: 40px;
+  white-space: nowrap; 
+}
+
+@keyframes scrollLeft {
+  0% {
+    transform: translateX(0%); 
+  }
+  10% {
+    transform: translateX(0%); 
+  }
+  100% {
+    transform: translateX(-100%); 
+  }
+}

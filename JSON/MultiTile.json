@@ -1,0 +1,71 @@
+{
+  "__component": "multi-tiles",
+  "id": "2222",
+  "bgColor": "#f6f6f6",
+  "bgPadding": "84px",
+  "contentImageUrl": "https://i.ibb.co/BGgZmPD/Firstimage.png",
+  "contentMobileImageUrl": "https://i.ibb.co/G3WWp73/Rectangle-3786.png",
+  "path": "",
+  "isNewTab": true,
+  "bgImageUrl": "https://i.ibb.co/0YcHW5P/Rectangle-2336-1-1.png",
+  "bgMobileImageUrl": "https://i.ibb.co/wB3QjXg/Rectangle-2336-2.png",
+  "button":"Explore Brands",
+  "buttonPath":"",
+  "items": [
+    {
+      "imageUrl": "https://i.ibb.co/nn9JjJ2/Esteelauder.png",
+      "imageUrlMobile": "https://i.ibb.co/txZJ6G4/image-19.png",
+      "path": "",
+      "isNewTab": true
+    },
+    {
+      "imageUrl": "https://i.ibb.co/sC8mCwb/Shiseido.png",
+      "imageUrlMobile": "https://i.ibb.co/KDQCjzG/image-28.png",
+      "path": "",
+      "isNewTab": true
+    },
+    {
+      "imageUrl": "https://i.ibb.co/8xnwHyY/Guerlain.png",
+      "imageUrlMobile": "https://i.ibb.co/jhnfHmY/image-29.png",
+      "path": "",
+      "isNewTab": true
+    },
+    {
+      "imageUrl": "https://i.ibb.co/x69WNvW/Dior.png",
+      "imageUrlMobile": "https://i.ibb.co/NpbbPqz/image-30.png",
+      "path": "",
+      "isNewTab": true
+    },
+    {
+      "imageUrl": "https://i.ibb.co/nDHLtJ6/Anastasia.png",
+      "imageUrlMobile": "https://i.ibb.co/hYJZfd3/image-31.png",
+      "path": "",
+      "isNewTab": true
+    },
+    {
+      "imageUrl": "https://i.ibb.co/HXZh4yV/Maybelline.png",
+      "imageUrlMobile": "https://i.ibb.co/PZ7k4mX/image-32.png",
+      "path": "",
+      "isNewTab": true
+    },
+    {
+      "imageUrl": "https://i.ibb.co/cQQTt1Z/Mac.png",
+      "imageUrlMobile": "https://i.ibb.co/jTc8JSc/image-33.png",
+      "path": "",
+      "isNewTab": true
+    },
+    {
+      "imageUrl": "https://i.ibb.co/k1vVr93/Clarins.png",
+      "imageUrlMobile": "https://i.ibb.co/47WzMVZ/image-34.png",
+      "path": "",
+      "isNewTab": true
+    },
+
+    {
+      "imageUrl": "https://i.ibb.co/K0dg2ZN/Yvessaintlaurent.png",
+      "imageUrlMobile": "https://i.ibb.co/dmqfc2B/image-35.png",
+      "path": "",
+      "isNewTab": true
+    }
+  ]
+}

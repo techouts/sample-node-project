@@ -1,0 +1,21 @@
+{
+  "__component": "shop-by-concern",
+  "id": "1235",
+  "data": {
+    "title": "SHOP BY CONCERN",
+    "items": [
+      {
+        "imageUrl": "https://i.ibb.co/RBTMvvY/Group-1116599530-1.png"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/n0XWY9F/Group-1116599529.png"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/D7CT5PD/Group-1116599528.png"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/YhPThbt/Group-1116599527.png"
+      }
+    ]
+  }
+}

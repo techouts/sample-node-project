@@ -1,0 +1,82 @@
+{
+  "__component": "AccessQuickActions",
+  "id": "1992",
+  "title": "Access Quick Actions",
+  "logButton": "LOG OUT",
+  "imgs": "https://i.ibb.co/T4DVcyd/Vector.png",
+  "ContentTitle": "Manage Your Profile",
+  "Content": [
+    {
+      "title": "My Profile",
+      "subTitle": "Manage addresses, reviews, etc...",
+      "path": "/account/MyProfile"
+    },
+    {
+      "title": "My Orders",
+      "subTitle": "Track orders, order again & more",
+      "path": "/account/MyOrders"
+    },
+    {
+      "title": "My Beauty Profile",
+      "subTitle": "Get personalized recommendations",
+      "path": "/account/MyBeautyProfile"
+    },
+    {
+      "title": "My Wallet",
+      "subTitle": "Check your SS Wallet balance",
+      "path": "/account/MyWallet"
+    },
+    {
+      "title": "My Wishlist",
+      "subTitle": "Save your favorite items",
+      "path": "/account/MyWishlist"
+    },
+    {
+      "title": "Gift Card/EGV",
+      "subTitle": "Buy Gift Cards for every occasion",
+      "path": "/account/GiftCard/EGV"
+    },
+    {
+      "title": "First Citizen Club",
+      "subTitle": "Manage your membership",
+      "path": "/account/FirstCitizen"
+    },
+    {
+      "title": "Saved Payments",
+      "subTitle": "Refer your friends & earn extra discounts",
+      "path": "/account/SavedPayments"
+    },
+    {
+      "title": "My Reviews",
+      "subTitle": "Check, edit & update your past reviews",
+      "path": "/account/MyReviews"
+    },
+    {
+      "title": "Stores And Events",
+      "subTitle": "Find stores & participate in events near you",
+      "path": "/account/StoresAndEvents"
+    },
+    {
+      "title": "Refer & Earn",
+      "subTitle": "Refer your friends & earn extra discounts",
+      "path": "/account/Refer&Earn"
+    }
+  ],
+  "Buttons": [
+    {
+      "text": "Past Orders"
+    },
+    {
+      "text": "Wishlist"
+    },
+    {
+      "text": "gift Card/eGV"
+    },
+    {
+      "text": "My Wallet"
+    },
+    {
+      "text": "My Wishlist"
+    }
+  ]
+}

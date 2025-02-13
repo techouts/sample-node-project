@@ -1,0 +1,37 @@
+{
+    "id": 18,
+    "__component": "widget.benefits",
+    "bgColor": "#F5F5F5",
+    "bgPadding": "2% 5%",
+    "display": null,
+    "items": [
+      {
+        "id": 70,
+        "imageUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/easy_exchange_f53f9f32bb.png",
+        "text": "Easy exchange & return",
+        "subText": null,
+        "textColor": "#231F20"
+      },
+      {
+        "id": 71,
+        "imageUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/secure_payment_1_ccf185b352.png",
+        "text": "Secure payment",
+        "subText": "Secure payment",
+        "textColor": "#A7A5A6"
+      },
+      {
+        "id": 72,
+        "imageUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/box_time_459d3c9154.png",
+        "text": "Express Pickup",
+        "subText": "Stores near you",
+        "textColor": "#A7A5A6"
+      },
+      {
+        "id": 73,
+        "imageUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/authentic_products_cd84352bc7.png",
+        "text": "Authentic products",
+        "subText": "100% Genuine",
+        "textColor": "#A7A5A6"
+      }
+    ]
+  }

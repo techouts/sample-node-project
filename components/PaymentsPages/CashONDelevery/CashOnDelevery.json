@@ -1,0 +1,10 @@
+{
+  "Component": "CASH-ON-DELIVERY",
+  "id": "1234567",
+  "Data": {
+    "title": "Cash On Delivery",
+    "text": "Your SS Wallet/EGV/First Citizen redeemed value will be deselected for Cash on Delivery Mode",
+    "textOne": "Click below to place your order through cash on delivery",
+    "buttonText": "Place Order"
+  }
+}

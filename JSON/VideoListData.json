@@ -1,0 +1,40 @@
+{
+  "bgcolor": "",
+  "bgpadding": "",
+  "isLarge": true,
+  "items": [
+    {
+      "text": "1. Telephone by Lady Gaga ft Beyonce",
+      "imageUrl": "https://i.ibb.co/6PcNS7M/best-perfumes-of-all-time-1629733262-3.png",
+      "mobileImageUrl": "https://i.ibb.co/P9dbPYM/Video-1.png",
+      "videoButtonImageUrl": "https://i.ibb.co/W567tr3/Group-1116599455.png",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
+      "ContentText": "Whether it’s a sharp graphic cat eyeliner or Queen B’s American flag-print nails, Lady Gaga pulled out all the stops with her Coco-Cola can hair rollers in Telephone’s music video. Created by Danilo, Lady Gaga’s hairstylist, this look became one of the most iconic looks for Halloween."
+    },
+    {
+      "text": "2. 7 Rings by Ariana Grande",
+      "imageUrl": "https://i.ibb.co/sJ26J3B/best-perfumes-of-all-time-1629733262-6-1.png",
+      "mobileImageUrl": "https://i.ibb.co/rvtpj3t/Video-2.png",
+      "videoButtonImageUrl": "https://i.ibb.co/W567tr3/Group-1116599455.png",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
+      "ContentText": "Ariana Grande’s Princess Leia inspired space buns became quite popular in 2020 right after the release of the 7 Rings and were then seen on countless YouTube tutorials. TBH, who actually forgot that look? We all remember Rachel Green wearing the look for a ‘fun’ night with Ross in a popular sitcom F.R.I.E.N.D.S!"
+    },
+    {
+      "text": "3. We’re Good by Dua Lipa",
+      "imageUrl": "https://i.ibb.co/NVkhZ3n/best-perfumes-of-all-time-1629733262-4-1.png",
+      "mobileImageUrl": "https://i.ibb.co/nkNnzgr/Video-3.png",
+      "videoButtonImageUrl": "https://i.ibb.co/W567tr3/Group-1116599455.png",
+      "videoUrl": "https://www.youtube.com/embed/PVUCnmnHI8s?autoplay=",
+      "ContentText": "The list isn’t complete without our music industry’s favourite! Dua Lipa’s eccentric spaced out orange eye look that was paired with a nude lipstick in this music video became an all time fan favourite ever since she dropped the music video."
+    }, 
+    {
+      "text": "4. Material Girl by Madonna",
+      "imageUrl": "https://i.ibb.co/JqDcJYv/best-perfumes-of-all-time-1629733262-5-1.png",
+      "mobileImageUrl": "https://i.ibb.co/ZLcqzn1/Video-4.png",
+      "videoButtonImageUrl": "https://i.ibb.co/W567tr3/Group-1116599455.png",
+      "videoUrl": "https://www.youtube.com/embed/PVUCnmnHI8s?autoplay=",
+      "ContentText": "Madonna’s Marilyn Monroe inspired hair look with a coral eyeshadow, blushed cheeks, and shimmery lids was all things glam in this music video! We saw it making a comeback (and how) at this year’s red carpet."
+    }
+ 
+  ]
+}

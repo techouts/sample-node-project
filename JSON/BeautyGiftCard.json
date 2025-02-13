@@ -1,0 +1,50 @@
+{
+  "__component": "beauty-grid-cards",
+  "id": "10601",
+
+  "form_List": [
+    {
+      "isRequired": false,
+      "name": "receivers_name",
+      "type": "text",
+      "placeHolder": "Recipient Name",
+      "validationType": "none",
+      "errorMessage": "Please enter First Name and Last Name of Receiver"
+    },
+    {
+      "isRequired": true,
+      "name": "receivers_email",
+      "type": "email",
+      "placeHolder": "Recipient Email ID",
+      "validationType": "email",
+      "errorMessage": "Please enter valid e-mail id of receiver"
+    },
+    {
+      "isRequired": true,
+      "name": "receivers_confirm_email",
+      "type": "email",
+      "placeHolder": "Confirm Recipient Email ID",
+      "validationType": "compare",
+      "errorMessage": "Email does not match",
+      "compare_name": "receivers_email"
+    }
+  ],
+  "form_List_Two": [
+    {
+      "isRequired": false,
+      "name": "senders_name",
+      "type": "text",
+      "placeHolder": " Name",
+      "validationType": "none",
+      "errorMessage": "Please enter First Name and Last Name of Sender"
+    },
+    {
+      "isRequired": true,
+      "name": "senders_email",
+      "type": "email",
+      "placeHolder": "Email ID",
+      "validationType": "email",
+      "errorMessage": "Please enter valid e-mail id of sender"
+    }
+  ]
+}

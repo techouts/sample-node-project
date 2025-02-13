@@ -1,0 +1,91 @@
+{
+    "__component": "cart-address",
+    "id": "007",
+    "data": {
+        "addressTypography": "Address",
+        "deliveryOptionsTypography": "Delivery Options Available",
+        "estimatedDeliveryTypography": "Estimated delivery by 5th June 2022 ",
+        "expressDeliveryTypography": "Estimated delivery by Tomorrow",
+        "pickUpStoreTypography": "Select your pick up store from below ",
+        "selectDeliveryAddress": "Select delivery address",
+        "selectBillingAddress": "Select billing address",
+        "orderConfirmationData": {
+            "orderConfirmation": "Order Confirmation",
+            "totalMrp": "Total Mrp",
+            "totalMrpValue": "₹ 1,345",
+            "offerDiscount": "Offer Discount",
+            "offerDiscountValue": "- ₹ 586",
+            "convenienceFee": "Convenience Fee ",
+            "convenienceFeeValue": "₹ 100",
+            "totalSavings": "your total savings",
+            "totalSavingsValue": "₹ 820 ",
+            "payableAmount": "total Payable amount",
+            "payableAmountValue": "₹ 759",
+            "continueText": "CONTINUE",
+            "tooltipTitle": "Shipping Over order of ₹500 is free "
+        }
+    },
+    "addressData": {
+        "addresses": [
+            {
+                "addressTabs": [
+                    "Default",
+                    "Home",
+                    "Bengaluru"
+                ],
+                "defaultAddress": "Default address",
+                "otherAddress": "other Addresses",
+                "name": "Vasudha Mundra",
+                "address": "4 , Kempanna layout, , 8th Sector, HSR Layout,  Bengaluru - 506218 ",
+                "pinCode": "560102",
+                "phone": "+91 9836414174",
+                "city": "Banglore",
+                "id": 100,
+                "state": "karnataka",
+                "isDefault": true
+            }
+        ]
+    },
+    "selectStoreData": {
+        "selectStoreTypography": "Select Store",
+        "nearestStoreTypography": "Nearest Store",
+        "otherStoreTypography": "other Stores",
+        "stores": [
+            {
+                "id": 100,
+                "name": "SSBeauty - Malad",
+                "distance": "(7km away)",
+                "address": "4 , Kempanna layout, , 8th Sector, HSR Layout,  Bengaluru - 506218 ",
+                "directionTypography": "Direction",
+                "isNearest": true
+            },
+            {
+                "id": 101,
+                "name": "SSBeauty - Malad",
+                "distance": "(7km away)",
+                "address": "4 , Kempanna layout, , 8th Sector, HSR Layout,  Bengaluru - 506218 ",
+                "directionTypography": "Direction",
+                "isNearest": false
+            },
+            {
+                "id": 102,
+                "name": "SSBeauty - Malad",
+                "distance": "(7km away)",
+                "address": "4 , Kempanna layout, , 8th Sector, HSR Layout,  Bengaluru - 506218 ",
+                "directionTypography": "Direction",
+                "isNearest": false
+            },
+            {
+                "id": 103,
+                "name": "SSBeauty - Malad",
+                "distance": "(7km away)",
+                "address": "4 , Kempanna layout, , 8th Sector, HSR Layout,  Bengaluru - 506218 ",
+                "directionTypography": "Direction",
+                "isNearest": false
+            }
+        ]
+    },
+    "addressFormData": {
+        "addNewAddress": "Add New Address"
+    }
+}

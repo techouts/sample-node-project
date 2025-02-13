@@ -1,0 +1,40 @@
+{
+  "title": "Bottom-Nav",
+  "items": [
+    {
+      "id": 0,
+      "image": "https://i.ibb.co/dcmLJpw/Home.png",
+      "text": "Home",
+      "path": "/home",
+      "textColor": "#000000"
+    },
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/hBkbcwN/Category.png",
+      "text": "Categories",
+      "path": "/categories",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/XyQ0h26/Luxe.png",
+      "text": "Luxe",
+      "path": "/luxe",
+      "textColor": "#F4D119"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/MBqfhSf/Beauty-Advice.png",
+      "text": "Beauty Advice",
+      "path": "/beautyadvice",
+      "textColor": "#000000"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/9hBPzZK/Account.png",
+      "text": "Account",
+      "path": "/account",
+      "textColor": "#000000"
+    }
+  ]
+}

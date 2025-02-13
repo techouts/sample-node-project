@@ -1,0 +1,77 @@
+{
+    "id": 1,
+    "__component": "widget.shop-by-collection",
+    "bgColor": "#FFFFFF",
+    "bgPadding": "0 5%",
+    "title": "MORE IN FACE",
+    "viewMore": "",
+    "viewMoreLink": null,
+    "isTextHover": true,
+    "display": null,
+    "mobileItems": null,
+    "items": [
+        {
+            "id": 1,
+            "imageUrl": "https://i.ibb.co/fYhwqGp/Rectangle-2260.png",
+            "text": "Foundation",
+            "path": "#",
+            "textHoverBG": "#FD7786"
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://i.ibb.co/LkKZ967/Rectangle-2260.png",
+            "text": "Blush",
+            "path": "#",
+            "textHoverBG": "#FD7786"
+        },
+        {
+            "id": 3,
+            "imageUrl": "https://i.ibb.co/6DV4Lc8/Rectangle-2255.png",
+            "text": "Bronze",
+            "path": "#",
+            "textHoverBG": "#FD7786"
+        },
+        {
+            "id": 4,
+            "imageUrl": "https://i.ibb.co/VHPktS3/Rectangle-2256.png",
+            "text": "Face Palettes & Sets",
+            "path": "#",
+            "textHoverBG": "#FD7786"
+        },
+        {
+            "id": 5,
+            "imageUrl": "https://i.ibb.co/xfWb08H/Rectangle-2256.png",
+            "text": "BB & CC Creams",
+            "path": "#",
+            "textHoverBG": "#FD7786"
+        },
+        {
+            "id": 6,
+            "imageUrl": "https://i.ibb.co/k1TZG3k/Rectangle-2259.png",
+            "text": "Highlighters",
+            "path": "#",
+            "textHoverBG": "#FD7786"
+        },
+        {
+            "id": 7,
+            "imageUrl": "https://i.ibb.co/fYhwqGp/Rectangle-2260.png",
+            "text": "Foundation",
+            "path": "#",
+            "textHoverBG": "#FD7786"
+        },
+        {
+            "id": 8,
+            "imageUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/HD_Makeup_Web_66d070a2ee.png",
+            "text": "Make Up",
+            "path": "#",
+            "textHoverBG": "#FD7786"
+        },
+        {
+            "id": 9,
+            "imageUrl": "https://i.ibb.co/xfWb08H/Rectangle-2256.png",
+            "text": "BB & CC Creams",
+            "path": "#",
+            "textHoverBG": "#FD7786"
+        }
+    ]
+}

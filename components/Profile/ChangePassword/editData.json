@@ -1,0 +1,17 @@
+{
+  "imageUrlOne": "https://i.ibb.co/4JDgdC4/Logo.png",
+
+  "imageUrlTwo": "https://i.ibb.co/wQrJ6zt/image-73.png",
+
+  "otpTitle": "VERIFY MOBILE NUMBER",
+
+  "phoneNumber": "9812345678",
+
+  "otpSubtitle": "Please enter OTP to verify your phone number",
+
+  "otpnumber": "OTP sent to",
+
+  "otpText": "Didn't receive an SMS? <span>Resend OTP</span>",
+
+  "otpButton": "VERIFY OTP"
+}

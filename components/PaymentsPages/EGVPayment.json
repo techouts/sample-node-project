@@ -1,0 +1,20 @@
+{
+    "title": "payment compoment",
+    "TabsData": [
+      {
+        "Tabs": "Credit Card / Debit Card"
+      },
+      {
+        "Tabs": "Net Banking"
+      },
+      {
+        "Tabs": "UPI",
+        "subText":"PhonePe / Google Pay / BHIM UPI"
+      },
+      {
+        "Tabs": "Wallets",
+        "subText":"Paytm"
+      }
+    ]
+  }
+  

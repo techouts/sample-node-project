@@ -1,0 +1,162 @@
+{
+    "__component": "widget.filter",
+    "id": "89974",
+    "bgColor": "#ffffff",
+    "bgPadding": "0px",
+    "title":"Filters",
+    "ViewMore":"View More",
+    "istagTitle":"",
+    "ViewMoreLink": "",
+    "options":[
+        {
+            "optionName":"Brands",
+            "isSearch":true,
+            "placeholder":"Search for brands",
+            "items":[
+                "Maybeline",
+                "Bobbi Brown",
+                "Chambox",
+                "Clarris",
+                "Clinique",
+                "Clarins",
+                "Colorbar",
+                "Deborah Milano"
+            ]
+        },
+        {
+            "optionName":"Category",
+            "placeholder":"Search for Category",
+            "isSearch":true,
+            "items":[
+                "Sensitive",
+                "Normal",
+                "Oily",
+                "Clarris",
+                "Shekar Lmson",
+                "Deborah Milano",
+                "Colorbar",
+                "Deborah Milano"
+            ]
+        },
+        {
+            "optionName":"Price Range",
+            "placeholder":"Search for Price Range",
+            "isSearch":false,
+            "items":[
+                "Chambox",
+                "Bobbi Brown",
+                "Chambox",
+                "Clarris",
+                "Shekar Lmson",
+                "Laxman Fashion",
+                "Colorbar",
+                "Deborah Milano"
+            ]
+        },
+        {
+            "optionName":"Percentage discount",
+            "placeholder":"Search for Percentage discount",
+            "isSearch":true,
+            "items":[
+                "Maybeline",
+                "Bobbi Brown",
+                "Chambox",
+                "Clarris",
+                "Shekar Lmson",
+                "Laxman Fashion",
+                "Colorbar",
+                "Deborah Milano"
+            ]
+        },
+        {
+            "optionName":"Average Customer Rating",
+            "placeholder":"Search for brands",
+            "isSearch":false,
+            "items":[
+                "Maybeline",
+                "Bobbi Brown",
+                "Chambox",
+                "Clarris",
+                "Shekar Lmson",
+                "Laxman Fashion",
+                "Colorbar",
+                "Deborah Milano"
+            ]
+        },
+        {
+            "optionName":"Preference",
+            "placeholder":"Search for brands",
+            "isSearch":true,
+            "items":[
+                "Maybeline",
+                "Bobbi Brown",
+                "Chambox",
+                "Clarris",
+                "Shekar Lmson",
+                "Laxman Fashion",
+                "Colorbar",
+                "Deborah Milano"
+            ]
+        },
+        {
+            "optionName":"Concern",
+            "placeholder":"Search for brands",
+            "isSearch":true,
+            "items":[
+                "Maybeline",
+                "Bobbi Brown",
+                "Chambox",
+                "Clarris",
+                "Shekar Lmson",
+                "Laxman Fashion",
+                "Colorbar",
+                "Deborah Milano"
+            ]
+        },
+        {
+            "optionName":"Skin Type",
+            "placeholder":"Search for brands",
+            "isSearch":true,
+            "items":[
+                "Maybeline",
+                "Bobbi Brown",
+                "Chambox",
+                "Clarris",
+                "Shekar Lmson",
+                "Laxman Fashion",
+                "Colorbar",
+                "Deborah Milano"
+            ]
+        },
+        {
+            "optionName":"Brands",
+            "placeholder":"Search for brands",
+            "isSearch":true,
+            "items":[
+                "Maybeline",
+                "Bobbi Brown",
+                "Chambox",
+                "Clarris",
+                "Shekar Lmson",
+                "Laxman Fashion",
+                "Colorbar",
+                "Deborah Milano"
+            ]
+        },
+        {
+            "optionName":"Brands",
+            "placeholder":"Search for brands",
+            "isSearch":false,
+            "items":[
+                "Maybeline",
+                "Bobbi Brown",
+                "Chambox",
+                "Clarris",
+                "Shekar Lmson",
+                "Laxman Fashion",
+                "Colorbar",
+                "Deborah Milano"
+            ]
+        }
+    ]
+  }

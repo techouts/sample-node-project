@@ -1,0 +1,11 @@
+{
+    "componentId":"widget.Order.Component",
+    "title":"Order Details",
+    "orderIdTitle":"Order ID #",
+    "orderId":"1203438 09546013302601",
+    "orderDateTitle":"Order Placed",
+    "orderDate":"8th May, 2022",
+    "orderStatus":"Order Status: <span> Shipped </span>",
+    "expectedDelivery":"To be delivered on 16th May, 2022",
+    "statusButton":"Track Order"
+}

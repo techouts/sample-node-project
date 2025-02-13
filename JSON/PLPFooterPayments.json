@@ -1,0 +1,51 @@
+{
+    "id": 9,
+    "__component": "widget.footer-payment",
+    "bgColor": "#F5F5F5",
+    "bgPadding": "0 5%",
+    "items": [
+      {
+        "id": 33,
+        "title": "PAY SECURELY WITH",
+        "imageUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/payment_Visa_00c510afb2.png",
+        "imagePath": "#",
+        "subText": null,
+        "isNewTab": null,
+        "secondImageUrl": null,
+        "secondImageUrlPath": null,
+        "subTextMobile": null
+      },
+      {
+        "id": 34,
+        "title": "REACH OUT TO US",
+        "imageUrl": null,
+        "imagePath": null,
+        "subText": "For any queries, Please write to : <span>customercare@ssbeauty.com</span>",
+        "isNewTab": null,
+        "secondImageUrl": null,
+        "secondImageUrlPath": null,
+        "subTextMobile": "Please write to : <span>customercare@ssbeauty.com</span>"
+      },
+      {
+        "id": 35,
+        "title": "DOWNLOAD THE APP",
+        "imageUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/Googleplay_b8b79afb6e.png",
+        "imagePath": "#",
+        "subText": null,
+        "isNewTab": null,
+        "secondImageUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/Download_Googlepay_7d15d7bdcb.png",
+        "secondImageUrlPath": "#",
+        "subTextMobile": null
+      },
+      {
+        "id": 36,
+        "title": "VERIFIED BY",
+        "imageUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/verify_By_06868cfcf2.png",
+        "imagePath": "#",
+        "subText": null,
+        "isNewTab": null,
+        "secondImageUrl": null,
+        "secondImageUrlPath": null,
+        "subTextMobile": null
+      }]
+    }

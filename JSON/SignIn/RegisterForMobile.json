@@ -1,0 +1,43 @@
+{
+    "Registration": {
+        "Component": "Registration",
+        "id": "7878445",
+        "title": "ALMOST THERE !",
+        "subTitle": "Complete your profile for the best experience",
+        "Gender": "Gender",
+        "Male": "Male",
+        "Female": "Female",
+        "Others": "Others ",
+        "button": "save",
+        "skipnow": "Skip for now",
+        "cartTitle":"FILL IN YOUR CONTACT DETAILS",
+        "cartSubTitle":"Fill in your details to continue as a guest",
+        "mtitle": "REGISTER WITH US",
+        "msubTitle": "Enter your phone number to register",
+        "termsText": "By clicking on Proceed, I agree with the",
+        "terms": "Terms of Use",
+        "privacy": "Privacy Policy",
+        "buttontext": "PROCEED",
+        "buttonUrl": "https://www.google.com",
+        "signupText": "Already have an account?",
+        "signuplink": "Sign in",
+        "signupDescription": "If you are already an existing user of Shoppers Stop kindly use the same credentials to sign in",
+        "items": [
+            {
+                "logoUrl": "https://i.ibb.co/C57v29n/Vector.png",
+                "redirectUrl": ""
+            },
+            {
+                "logoUrl": "https://i.ibb.co/gr5Q7gc/Group-48097349.png",
+                "redirectUrl": ""
+            },
+            {
+                "logoUrl": "https://i.ibb.co/phbL4gf/Group-48097348.png",
+                "redirectUrl": ""
+            }
+        ],
+        "ImageUrl": "https://i.ibb.co/sJ7PyTn/image-73.png",
+        "helpIconUrl": "https://i.ibb.co/xJwCdLh/message-question.png",
+        "helpText": "Help"
+    }
+}

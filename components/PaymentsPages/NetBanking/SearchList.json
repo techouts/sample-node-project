@@ -1,0 +1,167 @@
+{
+  "__componentId": "widget.bank_list",
+  "id": "5555",
+  "title": "Banks List",
+  "items": [
+    {
+      "bank_id": "",
+      "bank_name": "Axis Bank",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "Bank of India",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "Bank of Maharashtra",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "Canara Bank",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "Central Bank of India",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "CSB Bank",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "City Union Bank",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "DCB Bank",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "Dhanlaxmi Bank",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "Federal Bank",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "HDFC Bank Ltd",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "ICICI Bank",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "IDBI Bank",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "IDFC First Bank",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "Indian Bank",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "Indian Overseas Bank",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "Induslnd Bank Ltd",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "Jammu & Kashmir Bank",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "Karnataka Bank",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "Karur Vysya Bank",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "Kotak Mahindra Bank Ltd",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "Lakshmi Vilas Bank",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "Nainital Bank",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "Punjab & Sind Bank",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "Punjab National Bank",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "RBL Bank",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "South Indian Bank",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "State Bank of India",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "Tamilnad Mercantile Bank",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "UCO Bank",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "Union Bank of India",
+      "bank_logo": ""
+    },
+    {
+      "bank_id": "",
+      "bank_name": "YES Bank",
+      "bank_logo": ""
+    }
+  ]
+}

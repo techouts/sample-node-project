@@ -1,0 +1,36 @@
+{
+  "title": "payment compoment",
+  "TabsData": [
+    {
+      "Tabs": "SS Wallet",
+      "available": "1000",
+      "uid": 1,
+      "childData": [
+        {
+          "cId": 1,
+          "title": "SS Wallet",
+          "text": "759"
+        }
+      ]
+    },
+    {
+      "Tabs": "Credit Card / Debit Card"
+    },
+    {
+      "Tabs": "Net Banking"
+    },
+    {
+      "Tabs": "Pay by any UPI app",
+      "subText":"PhonePe / Google Pay / BHIM UPI"
+    },
+    {
+      "Tabs": "Wallets"
+    },
+    {
+      "Tabs": "Gift Card / E-Gift Voucher"
+    },
+    {
+      "Tabs": "Cash On Delivery"
+    }
+  ]
+}

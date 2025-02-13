@@ -1,0 +1,23 @@
+
+{
+  "data":{
+    "title": "YOU MAY ALSO LIKE",
+    "items": [
+      {
+        "imageUrl": "https://i.ibb.co/k5DdqF3/image-119.png",
+        "title": "3 Quick-N-Cheerful",
+        "subTitle": "Summer Nail Art"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/prH8b4W/image-120.png",
+        "title": "The Nail Polish Faux",
+        "subTitle": "Pas And Their Fixes"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/qDDBVvz/image-121.png",
+        "title": "Nail Care Tips For Your",
+        "subTitle": "Best Nails (And Hands) Yet"
+      }
+    ]
+  }
+}

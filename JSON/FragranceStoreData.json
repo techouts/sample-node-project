@@ -1,0 +1,266 @@
+{
+  "title": "FRAGRANCE STORE",
+  "subTitle": "Fragrances You Will Love",
+  "listItems": [
+    {
+      "topTags": [
+        {
+          "logo": "https://i.ibb.co/ZGFy1jD/Star-1.png",
+          "tagTitle": "FEATURED",
+          "textColor": "#AD184c",
+          "istagTitle": true
+        },
+        {
+          "logo": "https://i.ibb.co/7XvkZ3X/truck-tick.png",
+          "tagTitle": "EXPRESS DELIVERY",
+          "textColor": "black",
+          "istagTitle": true
+        },
+        {
+          "logo": "https://i.ibb.co/1RbgFjG/image-70.png",
+          "tagTitle": "BEST SELLER",
+          "textColor": "black",
+          "istagTitle": false
+        }
+      ],
+      "backgroundImage": "https://i.ibb.co/2dsNcWq/image-41.png",
+      "rating": "(4.3)",
+      "productTitle": "Bvlgari Omnia golden Citrine Eau De Toilette Spray",
+      "favIcon": false,
+      "price": "₹1200",
+      "oldPrice": "₹1500",
+      "discount": "20% off",
+      "sizeAvail": "2 ",
+      "freeAvail": "Free Gift Available",
+      "addTocartText": "ADD TO CART",
+      "addtoCartdurl": "string",
+      "ctaUrl": "string",
+      "ctaType": "string",
+      "buyNowText": "BUY NOW",
+      "buyNow": "Url"
+    },
+    {
+      "topTags": [
+        {
+          "logo": "https://i.ibb.co/ZGFy1jD/Star-1.png",
+          "tagTitle": "FEATURED",
+          "textColor": "#AD184c",
+          "istagTitle": true
+        },
+        {
+          "logo": "https://i.ibb.co/7XvkZ3X/truck-tick.png",
+          "tagTitle": "EXPRESS DELIVERY",
+          "textColor": "black",
+          "istagTitle": true
+        },
+        {
+          "logo": "https://i.ibb.co/1RbgFjG/image-70.png",
+          "tagTitle": "BEST SELLER",
+          "textColor": "black",
+          "istagTitle": false
+        }
+      ],
+      "backgroundImage": "https://i.ibb.co/2dsNcWq/image-41.png",
+      "rating": "(4.3)",
+      "productTitle": "Bvlgari Omnia golden Citrine Eau De Toilette Spray",
+      "favIcon": false,
+      "price": "₹1200",
+      "oldPrice": "₹1500",
+      "discount": "20% off",
+      "sizeAvail": "2 ",
+      "freeAvail": "Free Gift Available",
+      "addTocartText": "ADD TO CART",
+      "addtoCartdurl": "string",
+      "ctaUrl": "string",
+      "ctaType": "string",
+      "buyNowText": "BUY NOW",
+      "buyNow": "Url"
+    },
+    {
+      "topTags": [
+        {
+          "logo": "https://i.ibb.co/ZGFy1jD/Star-1.png",
+          "tagTitle": "FEATURED",
+          "textColor": "#AD184c",
+          "istagTitle": true
+        },
+        {
+          "logo": "https://i.ibb.co/7XvkZ3X/truck-tick.png",
+          "tagTitle": "EXPRESS DELIVERY",
+          "textColor": "black",
+          "istagTitle": true
+        },
+        {
+          "logo": "https://i.ibb.co/1RbgFjG/image-70.png",
+          "tagTitle": "BEST SELLER",
+          "textColor": "black",
+          "istagTitle": false
+        }
+      ],
+      "backgroundImage": "https://i.ibb.co/2dsNcWq/image-41.png",
+      "rating": "(4.3)",
+      "productTitle": "Bvlgari Omnia golden Citrine Eau De Toilette Spray",
+      "favIcon": false,
+      "price": "₹1200",
+      "oldPrice": "₹1500",
+      "discount": "20% off",
+      "sizeAvail": "2 ",
+      "freeAvail": "Free Gift Available",
+      "addTocartText": "ADD TO CART",
+      "addtoCartdurl": "string",
+      "ctaUrl": "string",
+      "ctaType": "string",
+      "buyNowText": "BUY NOW",
+      "buyNow": "Url"
+    },
+    {
+      "topTags": [
+        {
+          "logo": "https://i.ibb.co/ZGFy1jD/Star-1.png",
+          "tagTitle": "FEATURED",
+          "textColor": "#AD184c",
+          "istagTitle": true
+        },
+        {
+          "logo": "https://i.ibb.co/7XvkZ3X/truck-tick.png",
+          "tagTitle": "EXPRESS DELIVERY",
+          "textColor": "black",
+          "istagTitle": true
+        },
+        {
+          "logo": "https://i.ibb.co/1RbgFjG/image-70.png",
+          "tagTitle": "BEST SELLER",
+          "textColor": "black",
+          "istagTitle": false
+        }
+      ],
+      "backgroundImage": "https://i.ibb.co/2dsNcWq/image-41.png",
+      "rating": "(4.3)",
+      "productTitle": "Bvlgari Omnia golden Citrine Eau De Toilette Spray",
+      "favIcon": false,
+      "price": "₹1200",
+      "oldPrice": "₹1500",
+      "discount": "20% off",
+      "sizeAvail": "2 ",
+      "freeAvail": "Free Gift Available",
+      "addTocartText": "ADD TO CART",
+      "addtoCartdurl": "string",
+      "ctaUrl": "string",
+      "ctaType": "string",
+      "buyNowText": "BUY NOW",
+      "buyNow": "Url"
+    },
+    {
+      "topTags": [
+        {
+          "logo": "https://i.ibb.co/ZGFy1jD/Star-1.png",
+          "tagTitle": "FEATURED",
+          "textColor": "#AD184c",
+          "istagTitle": true
+        },
+        {
+          "logo": "https://i.ibb.co/7XvkZ3X/truck-tick.png",
+          "tagTitle": "EXPRESS DELIVERY",
+          "textColor": "black",
+          "istagTitle": true
+        },
+        {
+          "logo": "https://i.ibb.co/1RbgFjG/image-70.png",
+          "tagTitle": "BEST SELLER",
+          "textColor": "black",
+          "istagTitle": false
+        }
+      ],
+      "backgroundImage": "https://i.ibb.co/2dsNcWq/image-41.png",
+      "rating": "(4.3)",
+      "productTitle": "Bvlgari Omnia golden Citrine Eau De Toilette Spray",
+      "favIcon": false,
+      "price": "₹1200",
+      "oldPrice": "₹1500",
+      "discount": "20% off",
+      "sizeAvail": "2 ",
+      "freeAvail": "Free Gift Available",
+      "addTocartText": "ADD TO CART",
+      "addtoCartdurl": "string",
+      "ctaUrl": "string",
+      "ctaType": "string",
+      "buyNowText": "BUY NOW",
+      "buyNow": "Url"
+    },
+    {
+      "topTags": [
+        {
+          "logo": "https://i.ibb.co/ZGFy1jD/Star-1.png",
+          "tagTitle": "FEATURED",
+          "textColor": "#AD184c",
+          "istagTitle": true
+        },
+        {
+          "logo": "https://i.ibb.co/7XvkZ3X/truck-tick.png",
+          "tagTitle": "EXPRESS DELIVERY",
+          "textColor": "black",
+          "istagTitle": true
+        },
+        {
+          "logo": "https://i.ibb.co/1RbgFjG/image-70.png",
+          "tagTitle": "BEST SELLER",
+          "textColor": "black",
+          "istagTitle": false
+        }
+      ],
+      "backgroundImage": "https://i.ibb.co/2dsNcWq/image-41.png",
+      "rating": "(4.3)",
+      "productTitle": "Bvlgari Omnia golden Citrine Eau De Toilette Spray",
+      "favIcon": false,
+      "price": "₹1200",
+      "oldPrice": "₹1500",
+      "discount": "20% off",
+      "sizeAvail": "2 ",
+      "freeAvail": "Free Gift Available",
+      "addTocartText": "ADD TO CART",
+      "addtoCartdurl": "string",
+      "ctaUrl": "string",
+      "ctaType": "string",
+      "buyNowText": "BUY NOW",
+      "buyNow": "Url"
+    },
+    {
+      "topTags": [
+        {
+          "logo": "https://i.ibb.co/ZGFy1jD/Star-1.png",
+          "tagTitle": "FEATURED",
+          "textColor": "#AD184c",
+          "istagTitle": true
+        },
+        {
+          "logo": "https://i.ibb.co/7XvkZ3X/truck-tick.png",
+          "tagTitle": "EXPRESS DELIVERY",
+          "textColor": "black",
+          "istagTitle": true
+        },
+        {
+          "logo": "https://i.ibb.co/1RbgFjG/image-70.png",
+          "tagTitle": "BEST SELLER",
+          "textColor": "black",
+          "istagTitle": false
+        }
+      ],
+      "backgroundImage": "https://i.ibb.co/2dsNcWq/image-41.png",
+      "rating": "(4.3)",
+      "productTitle": "Bvlgari Omnia golden Citrine Eau De Toilette Spray",
+      "favIcon": false,
+      "price": "₹1200",
+      "oldPrice": "₹1500",
+      "discount": "20% off",
+      "sizeAvail": "2 ",
+      "freeAvail": "Free Gift Available",
+      "addTocartText": "ADD TO CART",
+      "addtoCartdurl": "string",
+      "ctaUrl": "string",
+      "ctaType": "string",
+      "buyNowText": "BUY NOW",
+      "buyNow": "Url"
+    }
+         
+  ]
+}

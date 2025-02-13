@@ -1,0 +1,52 @@
+{
+  "__component": "NavigationForMsite",
+  "id": "19992",
+  "title": "Create your account to avail benefits",
+  "logButton": "Sign up / log in",
+  "imgs": "https://i.ibb.co/T4DVcyd/Vector.png",
+  "ContentTitle": "Explore More",
+  "Content": [
+    {
+      "title": "First Citizen",
+      "subTitle": "Manage your membership"
+    },
+    {
+      "title": "Stores And Events",
+      "subTitle": "Find stores & participate in events near you"
+    },
+    {
+      "title": "Gift Card/EGV",
+      "subTitle": "Buy Gift Cards for every occasion"
+    }
+  ],
+  "benefits": [
+    {
+      "text": "Track your order and receive personalized notifications",
+      "images": "https://i.ibb.co/418QjT3/Frame-1.png"
+    },
+    {
+      "text": "Get personalized recommendations for your skin and style",
+      "images": "https://i.ibb.co/0DWJ7fS/carbon-user-favorite.png"
+    },
+    {
+      "text": "Manage your membership, stay updated with sales & offers",
+      "images": "https://i.ibb.co/pyWd0Qf/Frame.png"
+    },
+    {
+      "text": "Refer and earn extra discounts for your purchase",
+      "images": "https://i.ibb.co/kG4vk4b/lucide-users.png"
+    }
+  ],
+  "footer": [
+    { "text": "About Us" },
+    { "text": "CSR" },
+    { "text": "Terms Of Use" },
+    { "text": "Privacy Policy" },
+    { "text": "Delivery Policy" },
+    { "text": "Exchange And Return Policy" },
+    { "text": "Help" },
+    { "text": "Contact Us" }
+  ],
+  "AppVersion": "App Version - ",
+  "Allrightsreserved": "© 2022 Shoppers Stop Ltd. All rights reserved"
+}

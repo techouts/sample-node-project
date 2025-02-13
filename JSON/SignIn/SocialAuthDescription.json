@@ -1,0 +1,28 @@
+{
+    "__Component": "Sign-in",
+    "id": "7878445",
+    "data": {
+        "signupText": "Don’t have an account? ",
+        "signuplink": "Sign Up",
+        "signinText": "Already have an account?",
+        "signinlink": "Sign In",
+        "signupDescription": "If you are already an existing user of Shoppers Stop, kindly use the same credentials to sign in.",
+        "items": [
+            {
+                "logoUrl": "https://i.ibb.co/C57v29n/Vector.png",
+                "redirectUrl": "",
+                "id": "apple"
+            },
+            {
+                "logoUrl": "https://i.ibb.co/phbL4gf/Group-48097348.png",
+                "redirectUrl": "",
+                "id": "facebook"
+            },
+            {
+                "logoUrl": "https://i.ibb.co/gr5Q7gc/Group-48097349.png",
+                "redirectUrl": "",
+                "id": "google"
+            }
+        ]
+    }
+}

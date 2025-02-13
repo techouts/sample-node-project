@@ -1,0 +1,72 @@
+{
+    "__component": "Blog-author",
+    "id": "1256",
+    "data": {
+      "bgColor": "#f6f6f6",
+      "bgPadding": "20px",
+       "Authorname":"Zoya Dadarkar",
+       "Authorimage":"https://i.ibb.co/rwvLnTn/Ellipse-355.pnglo",
+       "Title":"Zoya Dadarka’s Blog",
+       "AuthorDescription":"A style and beauty enthusiast, I also love exploring new places, cuisines and cultures. In my free time you will find me watching reruns of Gossip Girl or blogging about anything that catches my eye.",
+       "items": [
+            {
+                "imageUrl": "https://i.ibb.co/5r6gbtM/Rectangle-32.png",
+                "title": "Perfect palettes to light up your summer",
+                "subTitle": "It’s that time of the year when it’s sunny and bright outside, flowers are abloom and colours seem a lot ",
+                "readMoreText":"READ MORE",
+                "viewText":"5.2k Views",
+                "chiptext":"Beauty",
+                "ReadMorePath":"",
+                "isSharable" : true
+              },
+              {
+                "imageUrl": "https://i.ibb.co/dBfdndF/Rectangle-32-1.png",
+                "title": "Perfect palettes to light up your summer",
+                "subTitle": "It’s that time of the year when it’s sunny and bright outside, flowers are abloom and colours seem a lot ",
+                "readMoreText":"READ MORE",
+                "chiptext":"Beauty",
+                 "viewText":"5.2k Views",
+                 "ReadMorePath":"",
+                 "isSharable":true  
+              },
+              {
+                "imageUrl": "https://i.ibb.co/F8ryfqz/Rectangle-32-2.png",
+                "title": "Perfect palettes to light up your summer",
+                "subTitle": "It’s that time of the year when it’s sunny and bright outside, flowers are abloom and colours seem a lot ",
+                "readMoreText":"READ MORE",
+                "viewText":"5.2k Views",
+                "chiptext":"Beauty",
+                "ReadMorePath":"",
+               "isSharable":true
+              },  {
+                "imageUrl": "https://i.ibb.co/F8ryfqz/Rectangle-32-2.png",
+                "title": "Perfect palettes to light up your summer",
+                "subTitle": "It’s that time of the year when it’s sunny and bright outside, flowers are abloom and colours seem a lot ",
+                "readMoreText":"READ MORE",
+                "chiptext":"Beauty",
+                 "viewText":"5.2k Views",
+                "ReadMorePath":"",
+                 "isSharable":true
+              },{
+                "imageUrl": "https://i.ibb.co/F8ryfqz/Rectangle-32-2.png",
+                "title": "Perfect palettes to light up your summer",
+                "subTitle": "It’s that time of the year when it’s sunny and bright outside, flowers are abloom and colours seem a lot ",
+                "readMoreText":"READ MORE",
+                "chiptext":"Beauty",
+                 "viewText":"5.2k Views",
+                "ReadMorePath":"",
+                  "isSharable":true
+              },{
+                "imageUrl": "https://i.ibb.co/F8ryfqz/Rectangle-32-2.png",
+                "title": "Perfect palettes to light up your summer",
+                "subTitle": "It’s that time of the year when it’s sunny and bright outside, flowers are abloom and colours seem a lot ",
+                "readMoreText":"READ MORE",
+                "chiptext":"Beauty",
+                 "viewText":"5.2k Views",
+                "ReadMorePath":"",
+                "isSharable":true
+              }
+      ]
+    }
+  }
+  

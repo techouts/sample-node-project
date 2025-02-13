@@ -1,0 +1,134 @@
+{
+  "offertitle": "Applied offers",
+  "kMore": "Know More",
+  "vMore": "View More",
+  "offers": [
+    {
+      "offerId": 1,
+      "desc": "FREE Matte As Hell Crayon Lipstick on a spend of Rs.799."
+    },
+    {
+      "offerId": 2,
+      "desc": "Get a Lip Service Sugar Scrub on a spend of Rs. 1198."
+    },
+    {
+      "offerId": 3,
+      "desc": "FREE Matte As Hell Crayon Lipstick on a spend of Rs.899."
+    },
+    {
+      "offerId": 4,
+      "desc": "Get a Lip Service Sugar Scrub on a spend of Rs. 1198."
+    },
+    {
+      "offerId": 5,
+      "desc": "FREE Matte As Hell Crayon Lipstick on a spend of Rs.799."
+    },
+    {
+      "offerId": 6,
+      "desc": "Get a Lip Service Sugar Scrub on a spend of Rs. 1198."
+    }
+  ],
+
+  "payBy": [
+    {
+      "title": "Saved UPI ID’s",
+      "icon": "https://i.ibb.co/VpKRQwQ/image-28.png",
+      "subtitle": "UPI",
+      "details": "navyasharmatest@upi"
+    },
+    {
+      "title": "Saved Credit/debit Cards",
+      "icon": "https://i.ibb.co/6mCc5nn/image-29.png",
+      "subtitle": "HDFC Credit Card",
+      "details": "608171XXXXXX7269"
+    }
+  ],
+  "OtherPay": "Other Payment Methods",
+  "TabsData": [
+    {
+      "Tabs": "SS Wallet",
+      "Tab": "panel1"
+    },
+    {
+      "Tabs": "Credit Card / Debit Card",
+      "Tab": "panel2"
+    },
+    {
+      "Tabs": "Saved Payment Options",
+      "Tab": "panel3"
+    },
+
+    {
+      "Tabs": "Net Banking",
+      "Tab": "panel4"
+    },
+    {
+      "Tabs": "UPI",
+      "Tab": "panel5"
+    },
+    {
+      "Tabs": "Wallets",
+      "Tab": "panel6"
+    },
+    {
+      "Tabs": "First Citizen Club",
+      "Tab": "panel7"
+    },
+    {
+      "Tabs": "Gift Card / E-Gift Voucher",
+      "Tab": "panel8"
+    },
+    {
+      "Tabs": "Cash On Delivery",
+      "Tab": "panel9"
+    }
+  ],
+
+  "addressData": {
+    "addresses": [
+      {
+        "addressTabs": ["Default", "Home", "Bengaluru"],
+        "defaultAddress": "Default address",
+        "otherAddress": "other Addresses",
+        "name": "Vasudha Mundra",
+        "address": "4 , Kempanna layout, , 8th Sector, HSR Layout,  Bengaluru - 506218 ",
+        "pinCode": "560102",
+        "phone": "+91 9836414174",
+        "city": "Banglore",
+        "id": 100,
+        "state": "karnataka",
+        "isDefault": true
+      }
+    ]
+  },
+  "PriceDetails": {
+    "PDtitle": "Price Details",
+    "PDlist": [
+      { "subTitle": " Have a Coupon Code?", "path": "Apply Coupon" },
+      { "subTitle": " View Cart Items (5 products)", "path": "View" }
+    ],
+    "Breakuptitle": "View Breakup",
+    "BreakupList": [
+      { "subTitle": "Total MRP", "value": "₹ 1,345" },
+      { "subTitle": " Discount", "value": " -₹ 586" },
+      { "subTitle": " SS Wallet", "value": " -₹ 58" },
+      { "subTitle": " First CitiZen Club", "value": " -₹ 120" },
+      { "subTitle": " Gift Card", "value": " -₹ 500" },
+      {
+        "subTitle": " Convenience Fee",
+        "icon": "https://i.ibb.co/xHdTTJW/info-circle.png",
+        "value": "FREE"
+      }
+    ],
+    "totalSave": " Your Total Savings",
+    "value": "₹ 820",
+    "icon": "https://i.ibb.co/5Mw6g3n/tick-circle.png",
+    "sample": " Free Sample Added !",
+    "total": "Total Payable Amount",
+    "totalAmount": "₹ 759"
+  },
+  "ButtonData": {
+    "PlaceHolder": "VIEW DETAILS",
+    "ButtonText": "CONTINUE"
+  }
+}

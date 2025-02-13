@@ -1,0 +1,31 @@
+{
+    "id":123232,
+    "__component":"widget.get-the-app",
+    "bgColor":"#FFF",
+    "bgPadding":"0% 5%",
+    "title":"Scan the QR code to install SSBEAUTY app today",
+    "path":"https://play.google.com/store/apps/details?id=shoppersstop.shoppersstop&hl=en",
+    "availableOn":"Availale on",
+    "playStoreWebImage":"https://i.ibb.co/1vvD7QH/image-44.png",
+    "playStoreMobileImage":"https://i.ibb.co/hR7mMyM/image-44-1.png",
+    "downloadText":"GET DOWNLOAD LINK VIA SMS",
+    "ctaLable":"SEND LINK",
+    "placeholder":"Enter your mobile number",
+    "items":[
+        {
+            "number":"01",
+            "label":"Download the app",
+            "description":"Quickly download your SSBEAUTY app and simply follow the steps."
+        },
+        {
+            "number":"02",
+            "label":"Mobile Verification",
+            "description":"Get OTP and Key Fact from your mobile number. This helps us to update you in real time"
+        },
+        {
+            "number":"03",
+            "label":"Congratulations!",
+            "description":"Keep track of your favourite products through notifications & reminders"
+        }
+    ]
+}

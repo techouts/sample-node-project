@@ -1,0 +1,27 @@
+{
+    "__component": "social-media",
+    "id": "0000",
+    "data": {
+        "bgColor": "#f6f6f6",
+        "bgPadding": "5%",
+        "followText": "Follow us on",
+        "subscibeText" : "Subscribe to our emails",
+        "buttonText" : "Subscribe",
+        "placeholderText" : "Enter your email",
+        "columns": 1,
+        "items" :[
+            {
+                "imageUrl" :"https://i.ibb.co/mS66g7G/Group-48097681.png",
+                "imagePath" : "https://www.facebook.com/r.php?locale=en_GB&display=page"
+                     },
+            {
+                "imageUrl" :"https://i.ibb.co/JKMG9NM/Twitter-Icon.png",
+                "imagePath" : "https://twitter.com/i/flow/login"
+            },
+            {
+                "imageUrl" :"https://i.ibb.co/56LHJF5/Instagram-Icon-undefined.png",
+                "imagePath" : "https://www.instagram.com/accounts/login/"
+                   }
+        ]
+}
+}

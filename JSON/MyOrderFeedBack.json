@@ -1,0 +1,20 @@
+{
+    "__component": "my-orders-review",
+    "id": "12896",
+    "CourierPartner": "Courier Partner: Delhivery",
+    "RateyourDeliveryExperience": "Rate your Delivery Experience",
+    "WhatWentWrong": "What Went Wrong?",
+    "Describeyourexperience": "Please describe your experience",
+    "submit": "submit",
+    "AboutYourExperience": "Write about your experience here",
+    "ShareYourExperience": "Share Your Experience!",
+    "AboutYourOrderExperience": "Based on your recent shopping experience, how likely are you to recommend SSBeauty to your friends and family?",
+    "Notlikely": "Not likely",
+    "Likely": "Likely",
+    "Buttons": [
+      { "button": "Delayed Delivery" },
+      { "button": "Associate Behaviour" },
+      { "button": "Product Not Delivered" },
+      { "button": "Others" }
+    ]
+  }

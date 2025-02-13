@@ -1,0 +1,44 @@
+{
+  "__component": "blog",
+  "id": "007",
+  "title": "MAKEUP",
+  "viewAllButton": "VIEW ALL",
+  "blog": [
+    {
+      "imageUrl": "https://i.ibb.co/BszW1L8/Rectangle-32.png",
+      "subTitle": "Perfect palettes to light up your summer",
+      "button": "Beauty",
+      "viewsText": "Views",
+      "shareText": "SHARE",
+      "numberOfViews": "5.2K",
+      "readMoreText": "READ MORE" 
+    },
+    {
+      "imageUrl": "https://i.ibb.co/CKVGTwy/Rectangle-32-3.png",
+      "subTitle": "Perfect palettes to light up your summer",
+      "button": "Beauty",
+      "viewsText": "Views",
+      "shareText": "SHARE",
+      "numberOfViews": "5.2K",
+      "readMoreText": "READ MORE" 
+    },
+    {
+      "imageUrl": "https://i.ibb.co/7b1S6py/Rectangle-32-1.png",
+      "subTitle": "Perfect palettes to light up your summer",
+      "button": "Beauty",
+      "viewsText": "Views",
+      "shareText": "SHARE",
+      "numberOfViews": "5.2K",
+      "readMoreText": "READ MORE" 
+    },
+    {
+      "imageUrl": "https://i.ibb.co/7CRRZhf/Rectangle-32-2.png",
+      "subTitle": "Perfect palettes to light up your summer",
+      "button": "Beauty",
+      "viewsText": "Views",
+      "shareText": "SHARE",
+      "numberOfViews": "5.2K",
+      "readMoreText": "READ MORE" 
+    }
+  ]
+}

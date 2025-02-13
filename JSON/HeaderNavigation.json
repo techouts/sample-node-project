@@ -1,0 +1,485 @@
+{
+  "data": {
+    "items": [
+      {
+        "id": 1,
+        "text": "Category",
+        "isNewTab": false,
+        "webUrl": null,
+        "mobileText": "Get The App",
+        "mobileIconUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/mobile_17d633070b.png",
+        "type": "subheader",
+        "mobileNavigationPath": "/categories",
+        "data": {
+          "items": [
+            {
+              "id": 0,
+              "text": "Makeup",
+              "backgroundImageUrl": "https://i.ibb.co/tz341jx/unsplash-e-Zyh-Mddu-U50.png",
+              "bgColor": "#F9EDF1",
+              "color": "#BD446E",
+              "type": "Accordion"
+            },
+            {
+              "id": 1,
+              "text": "Skin",
+              "backgroundImageUrl": "https://i.ibb.co/dfPY1wx/image-83.png",
+              "bgColor": "#F4F8FC",
+              "color": "#90B6E5",
+              "type": "Accordion"
+            },
+            {
+              "id": 2,
+              "text": "Hair",
+              "backgroundImageUrl": "https://i.ibb.co/fdX2nrw/unsplash-3w14-X-Yxffk.png",
+              "bgColor": "#F8F3EF",
+              "color": "#BA805A",
+              "type": "Accordion"
+            },
+            {
+              "id": 3,
+              "text": "Personal Care",
+              "backgroundImageUrl": "https://i.ibb.co/Tk1Ny7w/image-82.png",
+              "bgColor": "#FEF3F1",
+              "color": "#F28873",
+              "type": "Accordion"
+            },
+            {
+              "id": 4,
+              "text": "Fragrance",
+              "backgroundImageUrl": "https://i.ibb.co/Tk1Ny7w/image-82.png",
+              "bgColor": "#EBF7F7",
+              "color": "#30ADB2",
+              "type": "Accordion"
+            },
+            {
+              "id": 5,
+              "text": "Beauty & Hair Accessories",
+              "backgroundImageUrl": "https://i.ibb.co/Tk1Ny7w/image-82.png",
+              "bgColor": " #F9F7FE",
+              "color": " #C3B0F3",
+              "type": "Accordion"
+            },
+            {
+              "id": 6,
+              "text": "Men’s Grooming",
+              "backgroundImageUrl": "https://i.ibb.co/Tk1Ny7w/image-82.png",
+              "bgColor": "#E9EBEE",
+              "color": "#1F3152",
+              "type": "Accordion"
+            },
+            {
+              "id": 7,
+              "text": "Natural",
+              "backgroundImageUrl": "https://i.ibb.co/Tk1Ny7w/image-82.png",
+              "bgColor": "#F3F5EF",
+              "color": "#86985B",
+              "type": "Accordion"
+            },
+            {
+              "id": 8,
+              "text": "Home Body Beauty",
+              "backgroundImageUrl": "https://i.ibb.co/Tk1Ny7w/image-82.png",
+              "bgColor": "#FEFEFE",
+              "color": "#C3B0F3",
+              "type": "Accordion"
+            },
+            {
+              "id": 9,
+              "text": "Gifts",
+              "backgroundImageUrl": "https://i.ibb.co/Kj3d1vS/unsplash-mfv-Tt-NPjo-PY.png",
+              "bgColor": "#FAF3FC",
+              "color": " #D088DC",
+              "type": "Accordion"
+            },
+            {
+              "id": 10,
+              "text": "Top Offers",
+              "backgroundImageUrl": "https://i.ibb.co/Tk1Ny7w/image-82.png",
+              "bgColor": "#F7E8ED",
+              "color": "#AD184C",
+              "type": "Accordion"
+            }
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "text": "Luxe",
+        "isNewTab": false,
+        "webUrl": null,
+        "mobileText": "Gift Card",
+        "mobileIconUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/gift_491725bbb8.png",
+        "type": "subheader",
+        "mobileNavigationPath": "/luxe",
+        "data": {
+          "items": [
+            {
+              "id": 0,
+              "text": "Makeup",
+              "backgroundImageUrl": "https://i.ibb.co/27FD5Wg/unsplash-t7-Wr-Waewbtw.png",
+              "bgColor": "#F9EDF1",
+              "color": "#BD446E",
+              "type": "Accordion"
+            },
+            {
+              "id": 1,
+              "text": "Skin",
+              "backgroundImageUrl": "https://i.ibb.co/0GWsDQh/image-94.png",
+              "bgColor": "#F4F8FC",
+              "color": "#90B6E5",
+              "type": "Accordion"
+            },
+            {
+              "id": 2,
+              "text": "Hair",
+              "backgroundImageUrl": "https://i.ibb.co/P4NmhkP/beautiful-red-head-woman-with-close-eyes-posing-pink-wall-wavy-hairs-perfect-smile-1.png",
+              "bgColor": "#F8F3EF",
+              "color": "#BA805A",
+              "type": "Accordion"
+            },
+            {
+              "id": 3,
+              "text": "Bath & Body",
+              "backgroundImageUrl": "https://i.ibb.co/Px5BDnt/image-74.png",
+              "bgColor": "#FEF3F1",
+              "color": "#F28873",
+              "type": "Accordion"
+            },
+            {
+              "id": 4,
+              "text": "Fragrance",
+              "backgroundImageUrl": "https://i.ibb.co/Vg6n92V/image-72.png",
+              "bgColor": "#EBF7F7",
+              "color": "#30ADB2",
+              "type": "Accordion"
+            }
+          ]
+        }
+      },
+      {
+        "id": 3,
+        "text": "Brands",
+        "isNewTab": false,
+        "webUrl": null,
+        "mobileText": "Stores and Events",
+        "mobileIconUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/receipt_2_268c4c9d70.png",
+        "backgroundImageUrl": "https://i.ibb.co/Kj3d1vS/unsplash-mfv-Tt-NPjo-PY.png",
+        "bgColor": "#F8EDF1",
+        "color": "#DEA3B7",
+        "type": "nav",
+        "mobileNavigationPath": "/categories",
+        "brandsData": {
+          "mobileTabs": [
+            {
+              "title": "Trending Brands",
+              "items": [
+                {
+                  "title": "Customer Favorites",
+                  "listOfBrands": [
+                    {
+                      "brandImageUrl": "https://i.ibb.co/MNR9t46/image-38-1.png",
+                      "ctaUrl": ""
+                    },
+                    {
+                      "brandImageUrl": "https://i.ibb.co/BjYYHsV/image-41-2.png",
+                      "ctaUrl": ""
+                    },
+                    {
+                      "brandImageUrl": "https://i.ibb.co/RHVfv73/image-39-1.png",
+                      "ctaUrl": ""
+                    }
+                  ]
+                },
+                {
+                  "title": "Trending",
+                  "listOfBrands": [
+                    {
+                      "brandImageUrl": "https://i.ibb.co/S74hBdq/image-36-1.png",
+                      "ctaUrl": ""
+                    },
+                    {
+                      "brandImageUrl": "https://i.ibb.co/jHk5Lmq/image-37-1.png",
+                      "ctaUrl": ""
+                    },
+                    {
+                      "brandImageUrl": "https://i.ibb.co/JmfxS61/image-77.png",
+                      "ctaUrl": ""
+                    },
+                    {
+                      "brandImageUrl": "https://i.ibb.co/MNR9t46/image-38-1.png",
+                      "ctaUrl": ""
+                    },
+                    {
+                      "brandImageUrl": "https://i.ibb.co/BjYYHsV/image-41-2.png",
+                      "ctaUrl": ""
+                    },
+                    {
+                      "brandImageUrl": "https://i.ibb.co/RHVfv73/image-39-1.png",
+                      "ctaUrl": ""
+                    },
+                    {
+                      "brandImageUrl": "https://i.ibb.co/yXryy4h/image-42-1.png",
+                      "ctaUrl": ""
+                    },
+                    {
+                      "brandImageUrl": "https://i.ibb.co/jHk5Lmq/image-37-1.png",
+                      "ctaUrl": ""
+                    },
+                    {
+                      "brandImageUrl": "https://i.ibb.co/S74hBdq/image-36-1.png",
+                      "ctaUrl": ""
+                    }
+                  ]
+                },
+                {
+                  "title": "new At ssBeauty",
+                  "listOfBrands": [
+                    {
+                      "brandImageUrl": "https://i.ibb.co/S74hBdq/image-36-1.png",
+                      "ctaUrl": ""
+                    },
+                    {
+                      "brandImageUrl": "https://i.ibb.co/jHk5Lmq/image-37-1.png",
+                      "ctaUrl": ""
+                    },
+                    {
+                      "brandImageUrl": "https://i.ibb.co/JmfxS61/image-77.png",
+                      "ctaUrl": ""
+                    },
+                    {
+                      "brandImageUrl": "https://i.ibb.co/MNR9t46/image-38-1.png",
+                      "ctaUrl": ""
+                    },
+                    {
+                      "brandImageUrl": "https://i.ibb.co/BjYYHsV/image-41-2.png",
+                      "ctaUrl": ""
+                    },
+                    {
+                      "brandImageUrl": "https://i.ibb.co/RHVfv73/image-39-1.png",
+                      "ctaUrl": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "All brands"
+            }
+          ],
+          "brands": [
+            {
+              "title": "Top Brands",
+              "brandsList": [
+                {
+                  "brandTitle": "Aveeno"
+                },
+                {
+                  "brandTitle": "Avene"
+                },
+                {
+                  "brandTitle": "Maybelline"
+                },
+                {
+                  "brandTitle": "Alan Truman"
+                },
+                {
+                  "brandTitle": "M.A.C"
+                },
+                {
+                  "brandTitle": "HUDA BEAUTY"
+                },
+                {
+                  "brandTitle": "The Body Shop"
+                },
+                {
+                  "brandTitle": "Estee Lauder"
+                }
+              ]
+            },
+            {
+              "title": "Luxe Brands",
+              "brandsList": [
+                {
+                  "brandTitle": "Chanel"
+                },
+                {
+                  "brandTitle": "Yves Saint Lauren"
+                },
+                {
+                  "brandTitle": "Forest Essentials"
+                },
+                {
+                  "brandTitle": "M.A.C"
+                },
+                {
+                  "brandTitle": "Dior"
+                },
+                {
+                  "brandTitle": "Two Faced"
+                },
+                {
+                  "brandTitle": "Charlotte Tilbury"
+                },
+                {
+                  "brandTitle": "Benefit"
+                }
+              ]
+            },
+            {
+              "brandsList": [
+                {
+                  "brandTitle": "Chanel"
+                },
+                {
+                  "brandTitle": "Yves Saint Lauren"
+                },
+                {
+                  "brandTitle": "Forest Essentials"
+                },
+                {
+                  "brandTitle": "M.A.C"
+                },
+                {
+                  "brandTitle": "Dior"
+                },
+                {
+                  "brandTitle": "Two Faced"
+                },
+                {
+                  "brandTitle": "Charlotte Tilbury"
+                },
+                {
+                  "brandTitle": "Benefit"
+                }
+              ]
+            }
+          ],
+          "items": [
+            {
+              "title": "Customer Favorites",
+              "listOfBrands": [
+                {
+                  "brandImageUrl": "https://i.ibb.co/StMHY30/image-36.png",
+                  "ctaUrl": ""
+                },
+                {
+                  "brandImageUrl": "https://i.ibb.co/4TPCPXW/image-37.png",
+                  "ctaUrl": ""
+                },
+                {
+                  "brandImageUrl": "https://i.ibb.co/6y7qTZg/image-38.png",
+                  "ctaUrl": ""
+                },
+                {
+                  "brandImageUrl": "https://i.ibb.co/T2rJZxg/image-40.png",
+                  "ctaUrl": ""
+                },
+                {
+                  "brandImageUrl": "https://i.ibb.co/wLQbk1w/image-41-1.png",
+                  "ctaUrl": ""
+                },
+                {
+                  "brandImageUrl": "https://i.ibb.co/g31Z9Zr/image-42.png",
+                  "ctaUrl": ""
+                },
+                {
+                  "brandImageUrl": "https://i.ibb.co/2gr5tZm/image-39.png",
+                  "ctaUrl": ""
+                },
+                {
+                  "brandImageUrl": "https://i.ibb.co/HT1yCgf/image-43.png",
+                  "ctaUrl": ""
+                },
+                {
+                  "brandImageUrl": "https://i.ibb.co/Z8Q0gPz/image-44.png",
+                  "ctaUrl": ""
+                }
+              ]
+            },
+            {
+              "title": "Trending",
+              "listOfBrands": [
+                {
+                  "brandImageUrl": "https://i.ibb.co/S74hBdq/image-36-1.png",
+                  "ctaUrl": ""
+                },
+                {
+                  "brandImageUrl": "https://i.ibb.co/jHk5Lmq/image-37-1.png",
+                  "ctaUrl": ""
+                },
+                {
+                  "brandImageUrl": "https://i.ibb.co/JmfxS61/image-77.png",
+                  "ctaUrl": ""
+                },
+                {
+                  "brandImageUrl": "https://i.ibb.co/MNR9t46/image-38-1.png",
+                  "ctaUrl": ""
+                },
+                {
+                  "brandImageUrl": "https://i.ibb.co/BjYYHsV/image-41-2.png",
+                  "ctaUrl": ""
+                },
+                {
+                  "brandImageUrl": "https://i.ibb.co/RHVfv73/image-39-1.png",
+                  "ctaUrl": ""
+                }
+              ]
+            },
+            {
+              "title": "Only @ SSBeauty",
+              "listOfBrands": [
+                {
+                  "brandImageUrl": "https://i.ibb.co/StMHY30/image-36.png",
+                  "ctaUrl": ""
+                },
+                {
+                  "brandImageUrl": "https://i.ibb.co/4TPCPXW/image-37.png",
+                  "ctaUrl": ""
+                },
+                {
+                  "brandImageUrl": "https://i.ibb.co/6y7qTZg/image-38.png",
+                  "ctaUrl": ""
+                },
+                {
+                  "brandImageUrl": "https://i.ibb.co/T2rJZxg/image-40.png",
+                  "ctaUrl": ""
+                },
+                {
+                  "brandImageUrl": "https://i.ibb.co/wLQbk1w/image-41-1.png",
+                  "ctaUrl": ""
+                },
+                {
+                  "brandImageUrl": "https://i.ibb.co/g31Z9Zr/image-42.png",
+                  "ctaUrl": ""
+                },
+                {
+                  "brandImageUrl": "https://i.ibb.co/2gr5tZm/image-39.png",
+                  "ctaUrl": ""
+                },
+                {
+                  "brandImageUrl": "https://i.ibb.co/HT1yCgf/image-43.png",
+                  "ctaUrl": ""
+                },
+                {
+                  "brandImageUrl": "https://i.ibb.co/Z8Q0gPz/image-44.png",
+                  "ctaUrl": ""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": 4,
+        "text": "Beauty Advice",
+        "isNewTab": false,
+        "webUrl": null,
+        "mobileText": "Help",
+        "mobileIconUrl": "https://ssbeauty-cms.s3.ap-south-1.amazonaws.com/Help_fdcdea5a57.png",
+        "type": "none",
+        "mobileNavigationPath": "/beautyadvice"
+      }
+    ]
+  }
+}

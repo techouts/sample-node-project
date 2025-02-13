@@ -1,0 +1,123 @@
+import { Box } from "@mui/material";
+import { useEffect, useState } from "react";
+import dynamic from "next/dynamic";
+
+// import Header from "../../components/Header/Header";
+const Header = dynamic(() => import("../../components/Header/Header"), { ssr: true });
+import styles from "../../styles/Home.module.css";
+import Head from "next/head";
+import AxiosInstance from "../../utility/AxiosInstance";
+import { useRecoilState } from "recoil";
+import { SSBLogos } from "../../recoilstore";
+import Loader from "../../HOC/Loader/Loader";
+import BrandsMobile from "../../components/Header/HeaderNavigation/Navigations/Brands/BrandsMobile";
+import { BRANDLIST } from "../../graphQLQueries/BrandQuery";
+import { chatBotUtility } from "../../utility/chatBotObjUtility";
+import { Cookies } from "react-cookie";
+import Script from "next/script";
+import handleErrorResponse from "../../utility/ErrorHandling";
+const NEXT_PUBLIC_CMS_URL = process.env.NEXT_PUBLIC_CMS_URL;
+const DomainURL = process.env.NEXT_PUBLIC_DOMAIN_URL;
+
+export default function BrandPage() {
+  const cookie = new Cookies();
+  const [SSBeautyLogos, setSSBeautyLogos] = useRecoilState(SSBLogos);
+  const [headerComponent, setHeaderComponent] = useState<any>();
+  const [displayLoader, setLoader] = useState(true);
+  const [brands, setBrandData] = useState([]);
+  const structureData = {
+    "@context": `${process.env.NEXT_PUBLIC_SCHEMA_URL}`,
+    "@type": "Organization",
+    name: "SSBeauty",
+    alternateName: "SSBeauty By Shoppers Stop",
+    url: `${DomainURL}`,
+    logo: headerComponent?.logoImageUrl,
+    sameAs: [
+      `${process.env.NEXT_PUBLIC_FACEBOOK_URL}`,
+      `${process.env.NEXT_PUBLIC_INSTAGRAM_URL}`,
+    ],
+  };
+
+  useEffect(() => {
+    if (window?.od?.messenger) {
+      window.od.messenger("pushMessage", chatBotUtility());
+    }
+  }, [global?.window?.od?.messenger, cookie.get("accessToken")]);
+
+  useEffect(() => {
+    AxiosInstance(
+      `${NEXT_PUBLIC_CMS_URL}/api/headers?filters[slug][$eq]=ssb-header&publicationState=live`,
+      true,
+      false
+    ).then((response) => {
+      setHeaderComponent({
+        ...response?.data?.data?.[0]?.Header,
+        isHideBottomNav: false,
+      });
+      AxiosInstance(
+        `${NEXT_PUBLIC_CMS_URL}/api/app-settings/1?populate[appIcons][populate]=*`,
+        true,
+        false
+      ).then((appIconRes) => {
+        setLoader(false);
+        setSSBeautyLogos({
+          ...SSBeautyLogos,
+          appLogos: appIconRes?.data?.data?.appIcons?.items,
+        });
+      });
+      AxiosInstance(BRANDLIST)
+        .then((brandresponse) => {
+          setBrandData({
+            ...brandresponse?.data?.data?.customAttributeMetadata?.items,
+            ...response?.data?.data?.[0]?.Brands,
+            brandItems: response?.data?.data?.[0]?.BrandItems,
+          });
+        })
+        .catch(function (error: any) {
+          console.log(error);
+        });
+    });
+  }, []);
+
+  return (
+    <div className={styles.container}>
+      <Head>
+        <title>
+          Buy Beauty &amp; Cosmetic Products Online at Best Price in India |
+          SSBeauty
+        </title>
+        <link
+          rel="canonical"
+          href={global?.window?.location?.href?.split("?")?.[0]}
+        />
+        <Script
+        
+          id="google-analytics"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(attributes){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config','${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS_CODE}',
+            ${JSON.parse(JSON.stringify(`{"debug_mode": ${process.env.NEXT_PUBLIC_TRACING_ENVIRONMENT === "prod"}, "send_page_view": false}`))});`,
+          }}
+        />
+        <Script
+          async
+          key="structured-data"
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(structureData) }}
+        />
+      </Head>
+      {displayLoader && <Loader />}
+      <Box width="100%">
+        <Header {...headerComponent} />
+        <Box sx={{ mb: "120px" }}>
+          <BrandsMobile data={brands} />
+        </Box>
+      </Box>
+      {/* <ChatBotWidget/> */}
+    </div>
+  );
+}

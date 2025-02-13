@@ -1,0 +1,69 @@
+{
+  "__component": "Product QA",
+  "id": "777",
+  "bgColor": "#f6f6f6",
+  "bgPadding": "84px",
+  "placeholderText": "What’s your question?",
+  "helperText": "All Q&As will be moderated before being published",
+  "buttonText": "Ask <span>a question</span>",
+  "SubmitAnswerIcon": "https://i.ibb.co/KLBgHHM/edit-2.png",
+  "items": [
+    {
+      "Question": "Q. Can I get this product with a later expiry date ?",
+      "QuestionBy": "By Sana | 2020-12-24",
+
+      "Answers": [
+        {
+          "Answer": "A. Hi Sana, The manufacturing and expiry date of this product is mentioned on the packaging/labelled on the container. Rest assured all our products are far from expiry, and are procured directly from the brand/authorized resellers of the brand. Happy Shopping!",
+          "AnswerBy": "By Team SSBeauty | 2021-01-02"
+        }
+      ],
+      "LikeCount": 20
+    },
+    {
+      "Question": "Q. Can I get this product with a later expiry date ?",
+      "QuestionBy": "By Sana | 2020-12-24",
+      "Answers": [
+        {
+          "Answer": "A. Hi Sana, The manufacturing and expiry date of this product is mentioned on the packaging/labelled on the container. Rest assured all our products are far from expiry, and are procured directly from the brand/authorized resellers of the brand. Happy Shopping!",
+          "AnswerBy": "By Team SSBeauty | 2021-01-02"
+        },
+        {
+          "Answer": "A. Hi Sana, The manufacturing and expiry date of this product is mentioned on the packaging/labelled on the container. Rest assured all our products are far from expiry, and are procured directly from the brand/authorized resellers of the brand. Happy Shopping!",
+          "AnswerBy": "By Team SSBeauty | 2021-01-02"
+        }
+      ],
+      "LikeCount": 20
+    },
+    {
+      "Question": "Q. Can I get this product with a later expiry date ?",
+      "QuestionBy": "By Sana | 2020-12-24",
+      "Answers": [
+        {
+          "Answer": "A. Hi Sana, The manufacturing and expiry date of this product is mentioned on the packaging/labelled on the container. Rest assured all our products are far from expiry, and are procured directly from the brand/authorized resellers of the brand. Happy Shopping!",
+          "AnswerBy": "By Team SSBeauty | 2021-01-02"
+        },
+        {
+          "Answer": "A. Hi Sana, The manufacturing and expiry date of this product is mentioned on the packaging/labelled on the container. Rest assured all our products are far from expiry, and are procured directly from the brand/authorized resellers of the brand. Happy Shopping!",
+          "AnswerBy": "By Team SSBeauty | 2021-01-02"
+        }
+      ],
+      "LikeCount": 20
+    },
+    {
+      "Question": "Q. Can I get this product with a later expiry date ?",
+      "QuestionBy": "By Sana | 2020-12-24",
+      "Answers": [
+        {
+          "Answer": "A. Hi Sana, The manufacturing and expiry date of this product is mentioned on the packaging/labelled on the container. Rest assured all our products are far from expiry, and are procured directly from the brand/authorized resellers of the brand. Happy Shopping!",
+          "AnswerBy": "By Team SSBeauty | 2021-01-02"
+        },
+        {
+          "Answer": "A. Hi Sana, The manufacturing and expiry date of this product is mentioned on the packaging/labelled on the container. Rest assured all our products are far from expiry, and are procured directly from the brand/authorized resellers of the brand. Happy Shopping!",
+          "AnswerBy": "By Team SSBeauty | 2021-01-02"
+        }
+      ],
+      "LikeCount": 20
+    }
+  ]
+}

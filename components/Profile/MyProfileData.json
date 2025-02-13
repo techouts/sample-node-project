@@ -1,0 +1,21 @@
+{
+  "_component": "My Profile",
+  "id": 12345,
+  "bgColor": "#f6f6f6",
+  "bgPadding": "20px",
+  "profileimagelogo": "https://i.ibb.co/chQsdHP/profile-add.png",
+  "profileimageback": "https://i.ibb.co/020djTW/Ellipse-1822.png",
+  "profilepicture": "https://i.ibb.co/C8Q5q7t/Upload-photo.png",
+  "profileText": "Platinum First Citizen Club Member",
+  "profileName": "Zoya Dadarkar",
+  "profileLevel": "https://i.ibb.co/cLYNKsf/premium-6.png",
+  "editLogo": "https://i.ibb.co/txDcp9Q/edit-2.png",
+  "editText": "Edit personal details ",
+  "gender": "Female",
+  "email": "zoyadadarkar91@gmail.com ",
+  "verify": "Verify",
+  "mobileNumber": "+91 9836578965",
+  "dateOfBirth": "16/12/1995",
+  "anniversary": "25/01/2020",
+  "passwordText": "Change Password"
+}

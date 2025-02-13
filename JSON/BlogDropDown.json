@@ -1,0 +1,89 @@
+{
+  "title": "THE BEAUTY SHOP",
+  "data": [
+    {
+      "title": "Make up",
+      "id":"",
+      "list": [
+        { "label": "Face", "labelPath": "", "id": "" },
+        { "label": "Eyes", "labelPath": "", "id": "" },
+        { "label": "Lips", "labelPath": "", "id": "" },
+        { "label": "Nails", "labelPath": "", "id": "" },
+        { "label": "Trends & Looks", "labelPath": "", "id": "" },
+        { "label": "Bridal Makeup", "labelPath": "", "id": "" }
+      ]
+    },
+    {
+      "title": "Skin",
+      "id":"",
+      "list": [
+        { "label": "Face", "labelPath": "", "id": "" },
+        { "label": "Eyes", "labelPath": "", "id": "" },
+        { "label": "Lips", "labelPath": "", "id": "" },
+        { "label": "Nails", "labelPath": "", "id": "" },
+        { "label": "Trends & Looks", "labelPath": "", "id": "" },
+        { "label": "Bridal Makeup", "labelPath": "", "id": "" }
+      ]
+    },
+    {
+      "title": "Hair",
+      "id":"",
+      "list": [
+        { "label": "Face", "labelPath": "", "id": "" },
+        { "label": "Eyes", "labelPath": "", "id": "" },
+        { "label": "Lips", "labelPath": "", "id": "" },
+        { "label": "Nails", "labelPath": "", "id": "" },
+        { "label": "Trends & Looks", "labelPath": "", "id": "" },
+        { "label": "Bridal Makeup", "labelPath": "", "id": "" }
+      ]
+    },
+    {
+      "title": "Personal Care",
+      "id":"",
+      "list": [
+        { "label": "Face", "labelPath": "", "id": "" },
+        { "label": "Eyes", "labelPath": "", "id": "" },
+        { "label": "Lips", "labelPath": "", "id": "" },
+        { "label": "Nails", "labelPath": "", "id": "" },
+        { "label": "Trends & Looks", "labelPath": "", "id": "" },
+        { "label": "Bridal Makeup", "labelPath": "", "id": "" }
+      ]
+    },
+    {
+      "title": "Product Reviews",
+      "id":"",
+      "list": [
+        { "label": "Face", "labelPath": "", "id": "" },
+        { "label": "Eyes", "labelPath": "", "id": "" },
+        { "label": "Lips", "labelPath": "", "id": "" },
+        { "label": "Nails", "labelPath": "", "id": "" },
+        { "label": "Trends & Looks", "labelPath": "", "id": "" },
+        { "label": "Bridal Makeup", "labelPath": "", "id": "" }
+      ]
+    },
+    {
+      "title": "Men’s Grooming",
+      "id":"",
+      "list": [
+        { "label": "Face", "labelPath": "", "id": "" },
+        { "label": "Eyes", "labelPath": "", "id": "" },
+        { "label": "Lips", "labelPath": "", "id": "" },
+        { "label": "Nails", "labelPath": "", "id": "" },
+        { "label": "Trends & Looks", "labelPath": "", "id": "" },
+        { "label": "Bridal Makeup", "labelPath": "", "id": "" }
+      ]
+    },
+    {
+      "title": "Videos",
+      "id":"",
+      "list": [
+        { "label": "Face", "labelPath": "", "id": "" },
+        { "label": "Eyes", "labelPath": "", "id": "" },
+        { "label": "Lips", "labelPath": "", "id": "" },
+        { "label": "Nails", "labelPath": "", "id": "" },
+        { "label": "Trends & Looks", "labelPath": "", "id": "" },
+        { "label": "Bridal Makeup", "labelPath": "", "id": "" }
+      ]
+    }
+  ]
+}

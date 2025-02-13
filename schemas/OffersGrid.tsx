@@ -1,0 +1,58 @@
+type RGB = `rgb(${number}, ${number}, ${number})`;
+type RGBA = `rgba(${number}, ${number}, ${number}, ${number})`;
+type HEX = `#${string}`;
+
+export type LIST_ITEMS = {
+  imageUrl: string;
+  text: string;
+  subText: string;
+  path: string;
+  offerText: string;
+  smallText: string;
+  offerBackground: RGB | RGBA | HEX | string;
+  textColor: RGB | RGBA | HEX | string;
+  isNewTab: boolean;
+  subTextColor: RGB | RGBA | HEX | string;
+  WebtextPaddingY: string;
+  WebtextPaddingX: string;
+  MobiletextPaddingY: string;
+  MobiletextPaddingX: string;
+  Item_type: string;
+  Item_name: string;
+  isFlipActive?: boolean | any;
+  flipImageUrl?: URL | string | any;
+  flipMobileImageUrl?: URL | string | any;
+};
+export interface GridCardSchema {
+  id: string;
+  __component: string;
+  bgColor: RGB | RGBA | HEX | string;
+  bgPadding: string;
+  title: string;
+  titleColor: RGB | RGBA | HEX | string;
+  showTextOnHover: boolean;
+  showGradient: boolean;
+  cardBorder: boolean;
+  marginBottom: string;
+  marginX: string;
+  offerTextColor?: string;
+  offerBackground?: string;
+  itemPaddingBottom: string;
+  itemPaddingX: string;
+  viewMore: string;
+  viewMoreLink: string | URL;
+  itemBackgroundSpacing: string;
+  smallTextColor: string;
+  desktopColumns: number;
+  mobileColumns: number;
+  position: number;
+  ctaLabel: string;
+  items: LIST_ITEMS[];
+  mobileItems: LIST_ITEMS[];
+  marginLeft: string;
+  viewMoreWeb: boolean;
+  viewMoreMobile: boolean;
+  itemPaddingBottomMobile: string;
+  itempaddingXMobile: string;
+  disableGenericBottomSpace?: boolean;
+}

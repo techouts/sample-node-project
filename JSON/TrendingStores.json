@@ -1,0 +1,24 @@
+{
+    "__component": "trending-stores",
+    "id": "1234",
+    "data": {
+      "title": "TRENDING STORES",
+      "bgColor": "#f6f6f6",
+      "bgPadding": "20px",
+      "columns": 2,
+      "items": [
+        {
+          "imageUrl": "https://i.ibb.co/8DpdCsb/Screenshot-2022-04-27-at-1-01-2-1.png",
+          "imageUrlMobile": "",
+          "path": "",
+          "isNewTab": false
+        },
+        {
+            "imageUrl": "https://i.ibb.co/5BPyM5v/Screenshot-2022-04-27-at-10-46-2.png",
+            "imageUrlMobile": "",
+            "path": "",
+            "isNewTab": false
+          }
+      ]
+    }
+  }
