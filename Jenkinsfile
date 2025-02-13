@@ -9,7 +9,14 @@ pipeline {
     stages {
         stage('Checkout Code') {
             steps {
-                git credentialsId: 'github-token', branch: 'test', url: 'https://github.com/techouts/sample-node-project.git'
+                git credentialsId: 'github-jenkins', branch: 'master', url: 'https://github.com/techouts/sample-node-project.git'
+            }
+        }
+
+        stage('Build Next.js App') {
+            steps {
+                sh 'npm install'
+                sh 'npm run build'
             }
         }
 
