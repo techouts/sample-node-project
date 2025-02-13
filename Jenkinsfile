@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Checkout Code') {
             steps {
-                git credentialsId: 'github-jenkins', branch: 'test', url: 'https://github.com/techouts/sample-node-project.git'
+                git credentialsId: 'github-jenkins', branch: 'master', url: 'https://github.com/techouts/sample-node-project.git'
             }
         }
 
@@ -23,7 +23,7 @@ pipeline {
             steps {
                 sh 'docker stop my-node-app || true'
                 sh 'docker rm my-node-app || true'
-                sh 'docker run -d --name my-node-app -p 3000:3000 my-node-app:latest'
+                sh 'docker run -d --name my-node-app -p 3000:3000 my-node-app'
             }
         }
     }
