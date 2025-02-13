@@ -13,12 +13,7 @@ pipeline {
             }
         }
 
-        stage('Build Next.js App') {
-            steps {
-                sh 'npm install'
-                sh 'npm run build'
-            }
-        }
+       
 
         stage('Build Docker Image') {
             steps {
