@@ -1,18 +1,32 @@
-FROM --platform=linux/amd64 node:slim as builder
-WORKDIR /app
-COPY . .
-RUN npm install -g npm@8.13.2
-RUN npm install --force
- 
-FROM node:slim as runner
-WORKDIR /app
-ENV NODE_ENV production
-ENV TARGET_ENV dev
-COPY --from=builder /app .
-COPY package.json /app/
+# Base image
+FROM node:18 AS builder
 
-COPY docker-entrypoint.sh /docker-entrypoint.sh
-RUN chmod +x /docker-entrypoint.sh
- 
+# Set working directory
+WORKDIR /app
+
+# Copy package files and install dependencies
+COPY package.json package-lock.json ./
+RUN npm install
+
+# Copy all source files
+COPY . .
+
+# Build Next.js application
+RUN npm run build
+
+# Production image
+FROM node:18
+
+WORKDIR /app
+
+# Copy only necessary files from builder stage
+COPY --from=builder /app/package.json /app/package-lock.json ./
+COPY --from=builder /app/node_modules ./node_modules
+COPY --from=builder /app/.next ./.next
+COPY --from=builder /app/public ./public
+
+# Expose the port
 EXPOSE 3000
-ENTRYPOINT [ "/docker-entrypoint.sh" ]
+
+# Start the application
+CMD ["npm", "run", "start"]
