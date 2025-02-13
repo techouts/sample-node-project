@@ -3,19 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "env-cmd -f dotenv/.env.sit next dev",
-    "start": "next start",
-    "lint": "next lint",
-    "build-container": "docker build . -t app",
-    "fullstart": "next build && next start",
-    "build:dev": "env-cmd -f dotenv/.env.dev next build",
-    "build:sit": "env-cmd -f dotenv/.env.sit next build",
-    "build:uat": "env-cmd -f dotenv/.env.uat next build",
-    "build:prod": "env-cmd -f dotenv/.env.prod next build",
-    "analyze": "cross-env ANALYZE=true next build",
-    "test": "jest --watchAll",
-    "test:ci": "jest --ci",
-    "del-nodemodules": "npkill"
+   "build": "next build",
+  "dev": "env-cmd -f dotenv/.env.sit next dev",
+  "start": "next start",
+  "lint": "next lint",
+  "fullstart": "next build && next start",
+  "build:dev": "env-cmd -f dotenv/.env.dev next build",
+  "build:sit": "env-cmd -f dotenv/.env.sit next build",
+  "build:uat": "env-cmd -f dotenv/.env.uat next build",
+  "build:prod": "env-cmd -f dotenv/.env.prod next build"
   },
   "dependencies": {
     "@apollo/client": "^3.8.1",
