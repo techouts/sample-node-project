@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Checkout Code') {
             steps {
-                git credentialsId: 'github-jenkins', branch: 'master', url: 'https://github.com/techouts/sample-node-project.git'
+                git credentialsId: 'github-jenkins', branch: 'test', url: 'https://github.com/techouts/sample-node-project.git'
             }
         }
 
