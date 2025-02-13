@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Checkout Code') {
             steps {
-                git credentialsId: 'github-token', branch: 'gcp-test', url: 'https://github.com/SSL-Enhancements/ssl-beauty-web.git'
+                git credentialsId: 'github-token', branch: 'test', url: 'https://github.com/SSL-Enhancements/ssl-beauty-web.git'
             }
         }
 
