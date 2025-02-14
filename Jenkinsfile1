@@ -6,12 +6,7 @@ pipeline {
                 script {
                     sshagent(['windows-ssh-credential-id']) {
                         sh '''
-                        ssh teche@172.168.168.254 "cmd.exe /c \"
-                        docker pull srikanthtechouts/my-node-app:latest && ^
-                        docker stop my-node-app || exit 0 && ^
-                        docker rm my-node-app || exit 0 && ^
-                        docker run -d -p 3000:3000 --name my-node-app srikanthtechouts/my-node-app:latest
-                        \""
+                        ssh -o StrictHostKeyChecking=no teche@172.168.168.254 "cmd.exe /c echo SSH Connection Successful"
                         '''
                     }
                 }
