@@ -5,14 +5,7 @@ pipeline {
             steps {
                 script {
                     sshagent(['windows-ssh-credential-id']) {
-                        sh '''
-                        ssh -o StrictHostKeyChecking=no tech@172.168.168.99 cmd.exe /c "
-                        docker pull srikanthtechouts/my-node-app:latest && ^
-                        docker stop my-node-app || exit 0 && ^
-                        docker rm my-node-app || exit 0 && ^
-                        docker run -d -p 3000:3000 --name my-node-app srikanthtechouts/my-node-app:latest
-                        "
-                        '''
+                        sh 'ssh -o StrictHostKeyChecking=no tech@172.168.168.99 "cmd.exe /c \"docker pull srikanthtechouts/my-node-app:latest && docker stop my-node-app || exit 0 && docker rm my-node-app || exit 0 && docker run -d -p 3000:3000 --name my-node-app srikanthtechouts/my-node-app:latest\""'
                     }
                 }
             }
