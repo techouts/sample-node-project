@@ -10,7 +10,7 @@ pipeline {
                         docker pull srikanthtechouts/my-node-app:latest && \
                         docker stop my-node-app || true && \
                         docker rm my-node-app || true && \
-                        docker run -d -p 3000:3000 --name my-node-app srikanthtechouts/my-node-app:latest \
+                        docker run -d -p 3005:3005 --name my-node-app srikanthtechouts/my-node-app:latest \
                         "
                         '''
                     }
