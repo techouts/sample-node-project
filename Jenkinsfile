@@ -1,30 +1,59 @@
-pipeline {
-    agent any
+node {
+    // reference to maven
+    // ** NOTE: This 'maven-3.6.1' Maven tool must be configured in the Jenkins Global Configuration.   
+    def mvnHome = tool 'maven-3.8.5'
 
-    environment {
-        NODEJS_HOME = tool 'NodeJS 18'
-        PATH = "${NODEJS_HOME}/bin:${env.PATH}"
+    // holds reference to docker image
+    def dockerImage
+    // ip address of the docker private repository(nexus)
+    
+    def dockerRepoUrl = "localhost:8083"
+    def dockerImageName = "hello-world-java"
+    def dockerImageTag = "${dockerRepoUrl}/${dockerImageName}:${env.BUILD_NUMBER}"
+    
+    stage('Clone Repo') { // for display purposes
+      // Get some code from a GitHub repository
+      git 'https://github.com/dstar55/docker-hello-world-spring-boot.git'
+      // Get the Maven tool.
+      // ** NOTE: This 'maven-3.6.1' Maven tool must be configured
+      // **       in the global configuration.           
+      mvnHome = tool 'maven-3.8.5'
+    }    
+  
+    stage('Build Project') {
+      // build project via maven
+      sh "'${mvnHome}/bin/mvn' -Dmaven.test.failure.ignore clean package"
     }
+	
+	stage('Publish Tests Results'){
+      parallel(
+        publishJunitTestsResultsToJenkins: {
+          echo "Publish junit Tests Results"
+		  junit '**/target/surefire-reports/TEST-*.xml'
+		  archive 'target/*.jar'
+        },
+        publishJunitTestsResultsToSonar: {
+          echo "This is branch b"
+      })
+    }
+		
+    stage('Build Docker Image') {
+      // build docker image
+      sh "whoami"
+      //sh "ls -all /var/run/docker.sock"
+      sh "mv ./target/hello*.jar ./data" 
+      
+      dockerImage = docker.build("hello-world-java")
+    }
+   
+    stage('Deploy Docker Image'){
+      
+      // deploy docker image to nexus
 
-    stages {
-        stage('Checkout Code') {
-            steps {
-                git credentialsId: 'github-jenkins', branch: 'master', url: 'https://github.com/techouts/sample-node-project.git'
-            }
-        }
+      echo "Docker Image Tag Name: ${dockerImageTag}"
 
-        stage('Build Docker Image') {
-            steps {
-                sh 'docker build -t my-node-app .'
-            }
-        }
-
-        stage('Run Docker Container') {
-            steps {
-                sh 'docker stop my-node-app || true'
-                sh 'docker rm my-node-app || true'
-                sh 'docker run -d --name my-node-app -p 3005:3005 my-node-app'
-            }
-        }
+      sh "docker login -u admin -p admin123 ${dockerRepoUrl}"
+      sh "docker tag ${dockerImageName} ${dockerImageTag}"
+      sh "docker push ${dockerImageTag}"
     }
 }
