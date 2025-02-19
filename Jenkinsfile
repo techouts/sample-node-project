@@ -1,45 +1,63 @@
-node {
-    // reference to maven
-    def mvnHome = tool 'maven-3.8.5'
-
-    // holds reference to docker image
-    def dockerImage
-    // ip address of the docker private repository (nexus)
-    def dockerRepoUrl = "0.0.0.0:8083" // use localhost or 127.0.0.1
-    def dockerImageName = "hello-world-java"
-    def dockerImageTag = "${dockerRepoUrl}/${dockerImageName}:${env.BUILD_NUMBER}"
-    
-    stage('Clone Repo') {
-        git 'https://github.com/dstar55/docker-hello-world-spring-boot.git'
+pipeline {
+    agent any
+    environment {
+        MVN_HOME = tool 'maven-3.8.5'
+        DOCKER_HUB_REPO = "srikanthtechouts/hello-world-java"
     }
-  
-    stage('Build Project') {
-        sh "'${mvnHome}/bin/mvn' -Dmaven.test.failure.ignore clean package"
-    }
-
-    stage('Publish Tests Results'){
-        parallel(
-            publishJunitTestsResultsToJenkins: {
-                echo "Publish junit Tests Results"
-                junit '**/target/surefire-reports/TEST-*.xml'
-                archive 'target/*.jar'
-            },
-            publishJunitTestsResultsToSonar: {
-                echo "This is branch b"
+    stages {
+        stage('Clone Repo') {
+            steps {
+                git 'https://github.com/dstar55/docker-hello-world-spring-boot.git'
             }
-        )
-    }
+        }
 
-    stage('Build Docker Image') {
-        sh "whoami"
-        sh "mv ./target/hello*.jar ./data" 
-        dockerImage = docker.build("${dockerImageName}", "./")
-    }
+        stage('Build Project') {
+            steps {
+                sh "'${MVN_HOME}/bin/mvn' -Dmaven.test.failure.ignore clean package"
+            }
+        }
 
-    stage('Deploy Docker Image') {
-        echo "Docker Image Tag Name: ${dockerImageTag}"
-        sh "docker login -u srikanthtechouts -p Techouts@123 ${dockerRepoUrl}"
-        sh "docker tag ${dockerImageName} ${dockerImageTag}"
-        sh "docker push ${dockerImageTag}"
+        stage('Publish Test Results') {
+            steps {
+                parallel(
+                    publishJunitTestsResultsToJenkins: {
+                        echo "Publishing JUnit test results"
+                        junit '**/target/surefire-reports/TEST-*.xml'
+                        archiveArtifacts artifacts: 'target/*.jar', fingerprint: true
+                    },
+                    publishJunitTestsResultsToSonar: {
+                        echo "Sonar analysis placeholder (implement as needed)"
+                    }
+                )
+            }
+        }
+
+        stage('Build Docker Image') {
+            steps {
+                script {
+                    sh "whoami"
+                    sh "mv ./target/hello*.jar ./data"
+                    docker.build("${DOCKER_HUB_REPO}:${env.BUILD_NUMBER}", "./")
+                }
+            }
+        }
+
+        stage('Login to Docker Hub') {
+            steps {
+                withCredentials([usernamePassword(credentialsId: 'docker-hub-credentials', usernameVariable: 'DOCKER_USER', passwordVariable: 'DOCKER_PASS')]) {
+                    sh "echo $DOCKER_PASS | docker login -u $DOCKER_USER --password-stdin"
+                }
+            }
+        }
+
+        stage('Push Docker Image') {
+            steps {
+                script {
+                    def dockerImageTag = "${DOCKER_HUB_REPO}:${env.BUILD_NUMBER}"
+                    sh "docker tag ${DOCKER_HUB_REPO}:${env.BUILD_NUMBER} ${dockerImageTag}"
+                    sh "docker push ${dockerImageTag}"
+                }
+            }
+        }
     }
 }
