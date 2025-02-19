@@ -59,16 +59,13 @@ pipeline {
         }
 
         stage('Run Docker Container') {
-            steps {
-                script {
-                    // Stop and remove any existing container with the same name
-                    sh "docker stop ${CONTAINER_NAME} || true"
-                    sh "docker rm ${CONTAINER_NAME} || true"
-
-                    // Run a new container
-                    sh "docker run -d --name ${CONTAINER_NAME} -p ${APP_PORT}:8081 ${DOCKER_HUB_REPO}:${env.BUILD_NUMBER}"
-                }
-            }
+    steps {
+        script {
+            sh "docker stop hello-world-container || true"
+            sh "docker rm hello-world-container || true"
+            sh "docker run -d --name hello-world-container -p 8081:8080 ${DOCKER_HUB_REPO}:${env.BUILD_NUMBER}"
         }
+    }
+}
     }
 }
