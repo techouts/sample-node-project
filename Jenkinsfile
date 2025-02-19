@@ -66,7 +66,7 @@ pipeline {
                     sh "docker rm ${CONTAINER_NAME} || true"
 
                     // Run a new container
-                    sh "docker run -d --name ${CONTAINER_NAME} -p ${APP_PORT}:8080 ${DOCKER_HUB_REPO}:${env.BUILD_NUMBER}"
+                    sh "docker run -d --name ${CONTAINER_NAME} -p ${APP_PORT}:8081 ${DOCKER_HUB_REPO}:${env.BUILD_NUMBER}"
                 }
             }
         }
