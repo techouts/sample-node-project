@@ -4,7 +4,7 @@ pipeline {
         MVN_HOME = tool 'maven-3.8.5'
         DOCKER_HUB_REPO = "srikanthtechouts/hello-world-java"
         CONTAINER_NAME = "hello-world-container"
-        APP_PORT = "8081
+        APP_PORT = "8081"
     }
     stages {
         stage('Clone Repo') {
