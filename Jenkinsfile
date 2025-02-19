@@ -3,6 +3,8 @@ pipeline {
     environment {
         MVN_HOME = tool 'maven-3.8.5'
         DOCKER_HUB_REPO = "srikanthtechouts/hello-world-java"
+        CONTAINER_NAME = "hello-world-container"
+        APP_PORT = "8080"
     }
     stages {
         stage('Clone Repo') {
@@ -24,9 +26,6 @@ pipeline {
                         echo "Publishing JUnit test results"
                         junit '**/target/surefire-reports/TEST-*.xml'
                         archiveArtifacts artifacts: 'target/*.jar', fingerprint: true
-                    },
-                    publishJunitTestsResultsToSonar: {
-                        echo "Sonar analysis placeholder (implement as needed)"
                     }
                 )
             }
@@ -35,9 +34,8 @@ pipeline {
         stage('Build Docker Image') {
             steps {
                 script {
-                    sh "whoami"
                     sh "mv ./target/hello*.jar ./data"
-                    docker.build("${DOCKER_HUB_REPO}:${env.BUILD_NUMBER}", "./")
+                    sh "docker build -t ${DOCKER_HUB_REPO}:${env.BUILD_NUMBER} ."
                 }
             }
         }
@@ -56,6 +54,19 @@ pipeline {
                     def dockerImageTag = "${DOCKER_HUB_REPO}:${env.BUILD_NUMBER}"
                     sh "docker tag ${DOCKER_HUB_REPO}:${env.BUILD_NUMBER} ${dockerImageTag}"
                     sh "docker push ${dockerImageTag}"
+                }
+            }
+        }
+
+        stage('Run Docker Container') {
+            steps {
+                script {
+                    // Stop and remove any existing container with the same name
+                    sh "docker stop ${CONTAINER_NAME} || true"
+                    sh "docker rm ${CONTAINER_NAME} || true"
+
+                    // Run a new container
+                    sh "docker run -d --name ${CONTAINER_NAME} -p ${APP_PORT}:8080 ${DOCKER_HUB_REPO}:${env.BUILD_NUMBER}"
                 }
             }
         }
