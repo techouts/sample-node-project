@@ -1,11 +1,15 @@
 pipeline {
     agent any
+
     environment {
         MVN_HOME = tool 'maven-3.8.5'
         DOCKER_HUB_REPO = "srikanthtechouts/hello-world-java"
         CONTAINER_NAME = "hello-world-container"
         APP_PORT = "8081"
+        REMOTE_HOST = "172.168.168.99"   // Replace with your remote Ubuntu server IP
+        REMOTE_USER = "tech"
     }
+
     stages {
         stage('Clone Repo') {
             steps {
@@ -21,13 +25,11 @@ pipeline {
 
         stage('Publish Test Results') {
             steps {
-                parallel(
-                    publishJunitTestsResultsToJenkins: {
-                        echo "Publishing JUnit test results"
-                        junit '**/target/surefire-reports/TEST-*.xml'
-                        archiveArtifacts artifacts: 'target/*.jar', fingerprint: true
-                    }
-                )
+                script {
+                    echo "Publishing JUnit test results"
+                    junit '**/target/surefire-reports/TEST-*.xml'
+                    archiveArtifacts artifacts: 'target/*.jar', fingerprint: true
+                }
             }
         }
 
@@ -58,14 +60,22 @@ pipeline {
             }
         }
 
-        stage('Run Docker Container') {
-    steps {
-        script {
-            sh "docker stop hello-world-container || true"
-            sh "docker rm hello-world-container || true"
-            sh "docker run -d --name hello-world-container -p 8081:8080 ${DOCKER_HUB_REPO}:${env.BUILD_NUMBER}"
+        stage('Deploy to Remote Server') {
+            steps {
+                script {
+                    sshagent(['remote-ubuntu']) {
+                        sh """
+                        ssh -o StrictHostKeyChecking=no ${REMOTE_USER}@${REMOTE_HOST} <<EOF
+                        docker login -u srikanthtechouts
+                        docker pull ${DOCKER_HUB_REPO}:${env.BUILD_NUMBER}
+                        docker stop ${CONTAINER_NAME} || true
+                        docker rm ${CONTAINER_NAME} || true
+                        docker run -d --name ${CONTAINER_NAME} -p ${APP_PORT}:8080 ${DOCKER_HUB_REPO}:${env.BUILD_NUMBER}
+                        EOF
+                        """
+                    }
+                }
+            }
         }
-    }
-}
     }
 }
