@@ -1,0 +1,33 @@
+name: Deploy Application to VM
+
+on:
+  push:
+    branches:
+      - master   # Trigger workflow on push to main branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up SSH
+      uses: webfactory/ssh-agent@v0.8.1
+      with:
+        ssh-private-key: ${{ secrets.VM_SSH_KEY }}
+
+    - name: Copy code to VM
+      run: |
+        ssh -o StrictHostKeyChecking=no tech@172.168.168.131 "mkdir -p /home/tech/app"
+        scp -r * tech@172.168.168.131:/home/tech/app
+
+    - name: Deploy Application
+      run: |
+        ssh -o StrictHostKeyChecking=no tech@172.168.168.131 << 'EOF'
+        cd /home/tech/app
+        # Run any commands to deploy your app, e.g.,
+        # For Python app: pip install -r requirements.txt
+        # Start app: nohup python3 app.py &
+        EOF
