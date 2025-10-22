@@ -1,33 +1,33 @@
-name: Deploy Application to VM
+name: Deploy Application on VM
 
 on:
   push:
     branches:
-      - master   # Trigger workflow on push to main branch
+      - master   # Trigger workflow on push to master branch
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted   # Use your self-hosted runner (the VM itself)
 
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
 
-    - name: Set up SSH
-      uses: webfactory/ssh-agent@v0.7.0
-      with:
-        ssh-private-key: ${{ secrets.VM_SSH_KEY }}
-
-    - name: Copy code to VM
+    - name: Deploy Application on VM
       run: |
-        ssh -o StrictHostKeyChecking=no tech@172.168.168.131 "mkdir -p /home/tech/app"
-        scp -r * tech@172.168.168.131:/home/tech/app
+        # Create app directory if not exists
+        mkdir -p /home/tech/app
 
-    - name: Deploy Application
-      run: |
-        ssh -o StrictHostKeyChecking=no tech@172.168.168.131 << 'EOF'
+        # Copy repository files to app directory
+        cp -r * /home/tech/app/
+
+        # Navigate to app directory
         cd /home/tech/app
-        # Run any commands to deploy your app, e.g.,
-        # For Python app: pip install -r requirements.txt
-        # Start app: nohup python3 app.py &
-        EOF
+
+        # Optional: Install Python dependencies if it is a Python app
+        if [ -f "requirements.txt" ]; then
+          pip install -r requirements.txt
+        fi
+
+        # Start the application (Python example)
+        nohup python3 app.py > app.log 2>&1 &
