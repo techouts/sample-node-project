@@ -15,11 +15,12 @@ jobs:
 
       - name: Deploy Application on VM
         run: |
-          # Navigate to app directory
+          # Create app directory if not exists
+          mkdir -p /home/tech/app
           cd /home/tech/app
 
-          # Copy repository files to app directory, excluding .git and workflow files
-          rsync -av --exclude='.git' --exclude='.github' ../ .
+          # Copy only repository files to app directory, excluding .git and workflow files
+          rsync -av --exclude='.git' --exclude='.github' $GITHUB_WORKSPACE/ .
 
           # Optional: Install Python dependencies if it is a Python app
           if [ -f "requirements.txt" ]; then
