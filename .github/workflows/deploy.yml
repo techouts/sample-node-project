@@ -1,43 +1,37 @@
-name: Deploy Application on VM
+name: Deploy Node App to Minikube
 
 on:
   push:
     branches:
-      - master   # Trigger workflow on push to master branch
+      - minikube-branch
 
 jobs:
-  deploy:
-    runs-on: self-hosted   # Run on your self-hosted VM runner
+  build-and-deploy:
+    runs-on: self-hosted  # Your VM where Minikube runs
 
     steps:
+      # Step 1: Checkout code
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Deploy Node.js App on VM
+      # Step 2: Use Minikube Docker for building
+      - name: Set up Minikube Docker
         run: |
-          # Go to app directory
-          mkdir -p /home/tech/app
-          cd /home/tech/app
+          eval $(minikube -p minikube docker-env)
+          docker info
 
-          # Sync the latest code (skip git and workflow files)
-          rsync -av --delete --exclude='.git' --exclude='.github' $GITHUB_WORKSPACE/ .
+      # Step 3: Build Docker image inside Minikube
+      - name: Build Docker image
+        run: |
+          docker build -t sample-node-app:latest .
 
-          # Stop any running container with the same name
-          docker stop sample-node-app || true
-          docker rm sample-node-app || true
+      # Step 4: Apply Kubernetes manifests
+      - name: Deploy to Kubernetes
+        run: |
+          kubectl apply -f k8s/deployment.yaml
+          kubectl apply -f k8s/service.yaml
 
-          # Build Docker image
-          docker build -t sample-node-app .
-
-          # Run Docker container
-          docker run -d --name sample-node-app -p 3005:3005 sample-node-app
-
-          # Wait a few seconds for container to start
-          sleep 5
-
-          # Check if the container is running
-          docker ps | grep sample-node-app || (echo "❌ App failed to start!" && exit 1)
-
-          # Optional: Display app logs
-          echo "✅ Application Logs:"
-          docker logs --tail 20 sample-node-app
+      # Step 5: Check rollout status
+      - name: Check rollout
+        run: |
+          kubectl rollout status deployment/sample-node-app

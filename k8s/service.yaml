@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: sample-node-app-service
+spec:
+  selector:
+    app: sample-node-app
+  ports:
+    - protocol: TCP
+      port: 3005
+      targetPort: 3005
+  type: NodePort
