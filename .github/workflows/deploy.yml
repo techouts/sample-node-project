@@ -7,7 +7,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: self-hosted   # Your VM with Minikube
+    runs-on: self-hosted   # The VM with Minikube installed
 
     steps:
     - name: Checkout Code
@@ -15,16 +15,19 @@ jobs:
 
     - name: Set Minikube Docker Environment
       run: |
-        # Configure shell to use Minikube Docker daemon
+        # Configure shell to use Minikube's Docker daemon
         eval $(minikube docker-env)
+        docker info  # Optional: verify we are using Minikube Docker
 
     - name: Build Docker Image in Minikube
       run: |
+        cd $GITHUB_WORKSPACE
         docker build -t sample-node-app:latest .
 
     - name: Apply Kubernetes Deployment
       run: |
-        # Optional: delete old pods if needed
+        cd $GITHUB_WORKSPACE
+        # Delete old pods if needed
         kubectl delete pod -l app=sample-node-app --ignore-not-found=true --namespace default
 
         # Apply deployment manifest

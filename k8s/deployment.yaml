@@ -14,8 +14,8 @@ spec:
     spec:
       containers:
         - name: node-app
-          image: sample-node-app:latest  # Local image built in Minikube
-          imagePullPolicy: Never          # Important: don't try to pull from Docker Hub
+          image: sample-node-app:latest   # Local image in Minikube
+          imagePullPolicy: Never           # Important! Use local image
           ports:
             - containerPort: 3005
 ---
