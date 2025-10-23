@@ -13,30 +13,24 @@ jobs:
     - name: Checkout Code
       uses: actions/checkout@v3
 
-    - name: Set Minikube Docker Environment
+    - name: Build and Deploy in Minikube
       run: |
-        # Configure shell to use Minikube's Docker daemon
+        # 1. Point Docker CLI to Minikube's Docker
         eval $(minikube docker-env)
-        docker info  # Optional: verify we are using Minikube Docker
+        docker info
 
-    - name: Build Docker Image in Minikube
-      run: |
+        # 2. Build Docker image inside Minikube
         cd $GITHUB_WORKSPACE
         docker build -t sample-node-app:latest .
 
-    - name: Apply Kubernetes Deployment
-      run: |
-        cd $GITHUB_WORKSPACE
-        # Delete old pods if needed
+        # 3. Delete old pods (optional)
         kubectl delete pod -l app=sample-node-app --ignore-not-found=true --namespace default
 
-        # Apply deployment manifest
+        # 4. Apply Kubernetes manifests
         kubectl apply -f k8s/deployment.yaml --namespace default
 
-    - name: Wait for Deployment Rollout
-      run: |
+        # 5. Wait for deployment rollout
         kubectl rollout status deployment/sample-node-app --namespace default
 
-    - name: Verify Pod is Running
-      run: |
+        # 6. Verify pod status
         kubectl get pods -l app=sample-node-app --namespace default
