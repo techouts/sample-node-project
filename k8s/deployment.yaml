@@ -15,6 +15,7 @@ spec:
       containers:
         - name: node-app
           image: sample-node-app:latest   # Local image in Minikube
+          imagePullPolicy: Never          # <-- Add this line to use local image
           ports:
             - containerPort: 3005
 ---
