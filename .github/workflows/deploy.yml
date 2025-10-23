@@ -1,4 +1,4 @@
-name: Deploy Node App to Minikube
+name: Build & Deploy on Minikube
 
 on:
   push:
@@ -6,32 +6,27 @@ on:
       - minikube-branch
 
 jobs:
-  build-and-deploy:
-    runs-on: self-hosted  # Your VM where Minikube runs
+  deploy:
+    runs-on: self-hosted   # Your VM with Minikube
 
     steps:
-      # Step 1: Checkout code
-      - name: Checkout code
-        uses: actions/checkout@v3
+    - name: Checkout Code
+      uses: actions/checkout@v3
 
-      # Step 2: Use Minikube Docker for building
-      - name: Set up Minikube Docker
-        run: |
-          eval $(minikube -p minikube docker-env)
-          docker info
+    - name: Set Minikube Docker Environment
+      run: |
+        # Configure shell to use Minikube Docker daemon
+        eval $(minikube docker-env)
 
-      # Step 3: Build Docker image inside Minikube
-      - name: Build Docker image
-        run: |
-          docker build -t sample-node-app:latest .
+    - name: Build Docker Image in Minikube
+      run: |
+        docker build -t sample-node-app:latest .
 
-      # Step 4: Apply Kubernetes manifests
-      - name: Deploy to Kubernetes
-        run: |
-          kubectl apply -f k8s/deployment.yaml
-          kubectl apply -f k8s/service.yaml
+    - name: Apply Kubernetes Deployment
+      run: |
+        kubectl apply -f k8s/deployment.yaml
 
-      # Step 5: Check rollout status
-      - name: Check rollout
-        run: |
-          kubectl rollout status deployment/sample-node-app
+    - name: Wait for Deployment Rollout
+      run: |
+        kubectl rollout status deployment/sample-node-app
+
