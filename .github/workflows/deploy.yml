@@ -24,9 +24,16 @@ jobs:
 
     - name: Apply Kubernetes Deployment
       run: |
-        kubectl apply -f k8s/deployment.yaml
+        # Optional: delete old pods if needed
+        kubectl delete pod -l app=sample-node-app --ignore-not-found=true --namespace default
+
+        # Apply deployment manifest
+        kubectl apply -f k8s/deployment.yaml --namespace default
 
     - name: Wait for Deployment Rollout
       run: |
-        kubectl rollout status deployment/sample-node-app
+        kubectl rollout status deployment/sample-node-app --namespace default
 
+    - name: Verify Pod is Running
+      run: |
+        kubectl get pods -l app=sample-node-app --namespace default
