@@ -7,28 +7,37 @@ on:
 
 jobs:
   deploy:
-    runs-on: self-hosted   # Use your self-hosted runner (the VM itself)
+    runs-on: self-hosted   # Run on your self-hosted VM runner
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Deploy Application on VM
+      - name: Deploy Node.js App on VM
         run: |
-          # Create app directory if not exists
+          # Go to app directory
           mkdir -p /home/tech/app
           cd /home/tech/app
 
-          # Copy only repository files to app directory, excluding .git and workflow files
-          rsync -av --exclude='.git' --exclude='.github' $GITHUB_WORKSPACE/ .
+          # Sync the latest code (skip git and workflow files)
+          rsync -av --delete --exclude='.git' --exclude='.github' $GITHUB_WORKSPACE/ .
 
-          # Optional: Install Python dependencies if it is a Python app
-          if [ -f "requirements.txt" ]; then
-            pip install -r requirements.txt
-          fi
+          # Stop any running container with the same name
+          docker stop sample-node-app || true
+          docker rm sample-node-app || true
 
-          # Stop previous instance of app if running
-          pkill -f "python3 app.py" || true
+          # Build Docker image
+          docker build -t sample-node-app .
 
-          # Start the application in the background
-          nohup python3 app.py > app.log 2>&1 &
+          # Run Docker container
+          docker run -d --name sample-node-app -p 3005:3005 sample-node-app
+
+          # Wait a few seconds for container to start
+          sleep 5
+
+          # Check if the container is running
+          docker ps | grep sample-node-app || (echo "❌ App failed to start!" && exit 1)
+
+          # Optional: Display app logs
+          echo "✅ Application Logs:"
+          docker logs --tail 20 sample-node-app
